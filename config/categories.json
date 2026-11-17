@@ -1,0 +1,18 @@
+{
+  "$comment": "Typy akcí (filtr „Typ akce“). keywords = regulární výrazy porovnávané s názvem a popisem akce BEZ diakritiky a malými písmeny. Akce může mít víc typů; bez shody dostane 'ostatni'. Id musí odpovídat pluginu na dekanatvalmez.cz (kdk_default_lists).",
+  "categories": [
+    { "id": "pout", "label": "Poutě", "color": "#2e7d32", "keywords": ["\\bpout", "poutni", "pouti\\b"] },
+    { "id": "kultura", "label": "Koncerty a kultura", "color": "#8a3a66", "keywords": ["koncert", "hudebni", "\\bsbor", "\\bschol", "vystav", "vernisaz", "divadl", "\\bples", "souzneni", "festival", "benefic", "varhan"] },
+    { "id": "vzdelavani", "label": "Přednášky a kurzy", "color": "#0f6e8c", "keywords": ["prednask", "beseda", "\\bkurz", "\\balfa\\b", "seminar", "\\bdiln", "konferenc", "umeni zit", "bible do hloubky", "biblick"] },
+    { "id": "duchovni", "label": "Duchovní obnovy a modlitba", "color": "#5d4a8c", "keywords": ["obnov", "\\bchval", "ekumen", "\\bexercic", "rekolekc", "modlitb", "adorac"] },
+    { "id": "zpoved", "label": "Zpovídání", "color": "#8a6d1f", "keywords": ["zpovid", "smireni"] },
+    { "id": "rodina", "label": "Rodiny, snoubenci a manželé", "color": "#b5452b", "keywords": ["snoubenc", "manzel", "rodin", "maminek", "\\bmatk", "otcu\\b"] },
+    { "id": "deti", "label": "Děti a mládež", "color": "#b06b12", "keywords": ["\\bdeti", "detsk", "mladez", "mladych", "ministrant", "florbal", "\\bholky", "\\btabor", "ekuspacir"] },
+    { "id": "seniori", "label": "Senioři", "color": "#6b4ea0", "keywords": ["senior"] },
+    { "id": "charita", "label": "Charita a sbírky", "color": "#c62828", "keywords": ["charit", "sbirk", "\\badra\\b", "potravin"] },
+    { "id": "ostatni", "label": "Ostatní", "color": "#6b6b6b", "keywords": [] }
+  ],
+  "tags": {
+    "\\balfa\\b": "Alfa", "snoubenc": "snoubenci", "advent": "advent", "vanoc": "Vánoce", "velikonoc|postni": "Velikonoce", "koncert": "koncert", "\\bpout": "pouť", "dekanatn": "děkanát"
+  }
+}

@@ -1,0 +1,198 @@
+{
+ "$comment": "Pořadatelé (filtr „Pořadatel“). Akce dostane pořadatele 1) podle zdroje (sources = web farnosti), 2) podle názvu akce nebo pořadatele uvedeného ve zdroji (match = regulární výrazy BEZ diakritiky, malými písmeny). Id musí odpovídat pluginu na dekanatvalmez.cz (kdk_default_lists).",
+ "organizers": [
+  {
+   "id": "dekanat",
+   "name": "Děkanát Valašské Meziříčí",
+   "color": "#5b4636",
+   "link": "https://dekanatvalmez.cz/",
+   "sources": [],
+   "match": [
+    "dekanatn",
+    "\\bdekanat"
+   ]
+  },
+  {
+   "id": "cpr",
+   "name": "Centrum pro rodinu",
+   "color": "#e07a1f",
+   "link": "https://www.valmez.dcpr.cz/",
+   "sources": [
+    "cpr"
+   ],
+   "match": [
+    "centrum pro rodinu",
+    "\\bcpr\\b",
+    "ekuspacir",
+    "manzelske vecery"
+   ]
+  },
+  {
+   "id": "charita",
+   "name": "Charita Valašské Meziříčí",
+   "color": "#c62828",
+   "link": "https://www.valmez.charita.cz/",
+   "sources": [],
+   "match": [
+    "\\bcharit"
+   ]
+  },
+  {
+   "id": "branky",
+   "name": "Farnost Branky",
+   "color": "#7b5e2a",
+   "link": "https://rkfbranky.webnode.cz/",
+   "sources": [
+    "branky"
+   ],
+   "match": [
+    "farn[a-z]* (bran(ky|kach|ek))",
+    "^(bran(ky|kach|ek))"
+   ]
+  },
+  {
+   "id": "dolnibecva",
+   "name": "Farnost Dolní Bečva",
+   "color": "#3b6e8f",
+   "link": "https://www.farnostdolnibecva.cz/",
+   "sources": [
+    "dolnibecva"
+   ],
+   "match": [
+    "farn[a-z]* ((dolni|prostredni) bec)",
+    "^((dolni|prostredni) bec)"
+   ]
+  },
+  {
+   "id": "hutisko",
+   "name": "Farnost Hutisko-Solanec",
+   "color": "#5a7d2a",
+   "link": "https://www.farnosthutisko.cz/",
+   "sources": [
+    "hutisko"
+   ],
+   "match": [
+    "farn[a-z]* (hutisk)",
+    "^(hutisk)"
+   ]
+  },
+  {
+   "id": "choryne",
+   "name": "Farnost Choryně",
+   "color": "#9c4f2e",
+   "link": "https://www.farnost-choryne.cz/",
+   "sources": [
+    "choryne"
+   ],
+   "match": [
+    "farn[a-z]* (choryn)",
+    "^(choryn)"
+   ]
+  },
+  {
+   "id": "kelc",
+   "name": "Farnost Kelč",
+   "color": "#2a6f6f",
+   "link": "https://farnostkelc.cz/",
+   "sources": [
+    "kelc"
+   ],
+   "match": [
+    "farn[a-z]* (\\bkelc)",
+    "^(\\bkelc)"
+   ]
+  },
+  {
+   "id": "loucka",
+   "name": "Farnost Loučka",
+   "color": "#6d5a8c",
+   "link": "https://www.farnostloucka.cz/",
+   "sources": [
+    "loucka"
+   ],
+   "match": [
+    "farn[a-z]* (loucc?k)",
+    "^(loucc?k)"
+   ]
+  },
+  {
+   "id": "roznov",
+   "name": "Farnost Rožnov pod Radhoštěm",
+   "color": "#1f5c99",
+   "link": "https://www.farnostroznov.cz/",
+   "sources": [
+    "roznov"
+   ],
+   "match": [
+    "farn[a-z]* (roznov)",
+    "^(roznov)"
+   ]
+  },
+  {
+   "id": "valmez",
+   "name": "Farnost Valašské Meziříčí a Lešná",
+   "color": "#8a2f4a",
+   "link": "https://farnost-valmez.cz/",
+   "sources": [
+    "valmez"
+   ],
+   "match": [
+    "farn[a-z]* ((valasske|val\\.?) mezir|lesn)",
+    "^((valasske|val\\.?) mezir|lesn)"
+   ]
+  },
+  {
+   "id": "vb",
+   "name": "Farnost Valašská Bystřice",
+   "color": "#8a6d1f",
+   "link": "https://farnostvb.cz/",
+   "sources": [
+    "vb"
+   ],
+   "match": [
+    "farn[a-z]* (bystric)",
+    "^(bystric)"
+   ]
+  },
+  {
+   "id": "vidce",
+   "name": "Farnost Vidče",
+   "color": "#4e7a3a",
+   "link": "https://www.farnostvidce.cz/",
+   "sources": [
+    "vidce"
+   ],
+   "match": [
+    "farn[a-z]* (vidc)",
+    "^(vidc)"
+   ]
+  },
+  {
+   "id": "zasova",
+   "name": "Farnost Zašová",
+   "color": "#6b3f8a",
+   "link": "https://www.zasova.net/",
+   "sources": [
+    "zasova"
+   ],
+   "match": [
+    "farn[a-z]* (zasov|vesel)",
+    "^(zasov|vesel)"
+   ]
+  },
+  {
+   "id": "zubri",
+   "name": "Farnost Zubří",
+   "color": "#2f6b47",
+   "link": "https://www.farnostzubri.cz/",
+   "sources": [
+    "zubri"
+   ],
+   "match": [
+    "farn[a-z]* (zubr)",
+    "^(zubr)"
+   ]
+  }
+ ],
+ "noOrganizer": []
+}

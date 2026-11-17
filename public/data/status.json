@@ -1,0 +1,117 @@
+{
+ "generatedAt": "2026-11-17T13:00:15.166Z",
+ "sources": [
+  {
+   "id": "rucne",
+   "ok": true,
+   "error": null,
+   "count": 44,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T12:57:37.051Z"
+  },
+  {
+   "id": "roznov",
+   "ok": true,
+   "error": null,
+   "count": 3,
+   "excluded": 1,
+   "lastSuccess": "2026-11-17T12:58:17.239Z"
+  },
+  {
+   "id": "valmez",
+   "ok": true,
+   "error": null,
+   "count": 1,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T12:59:36.926Z"
+  },
+  {
+   "id": "kelc",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T12:59:38.021Z"
+  },
+  {
+   "id": "zasova",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T12:59:39.440Z"
+  },
+  {
+   "id": "loucka",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T12:59:40.278Z"
+  },
+  {
+   "id": "zubri",
+   "ok": true,
+   "error": null,
+   "count": 2,
+   "excluded": 1,
+   "lastSuccess": "2026-11-17T12:59:58.340Z"
+  },
+  {
+   "id": "vidce",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 1,
+   "lastSuccess": "2026-11-17T13:00:07.948Z"
+  },
+  {
+   "id": "vb",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 6,
+   "lastSuccess": "2026-11-17T13:00:08.670Z"
+  },
+  {
+   "id": "hutisko",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T13:00:08.810Z"
+  },
+  {
+   "id": "dolnibecva",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T13:00:09.304Z"
+  },
+  {
+   "id": "choryne",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T13:00:11.354Z"
+  },
+  {
+   "id": "cpr",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T13:00:15.152Z"
+  },
+  {
+   "id": "svatky",
+   "ok": true,
+   "error": null,
+   "count": 39,
+   "excluded": 0,
+   "lastSuccess": "2026-11-17T13:00:15.156Z"
+  }
+ ]
+}

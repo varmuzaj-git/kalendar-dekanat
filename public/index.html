@@ -1,5 +1,58 @@
 <!doctype html>
-<html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kalendář akcí děkanátu</title></head>
-<body style="font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px">
-<h1>Kalendář akcí děkanátu Valašské Meziříčí</h1><p>Připravujeme…</p></body></html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kalendář akcí – děkanát Valašské Meziříčí</title>
+<meta name="description" content="Akce farností děkanátu Valašské Meziříčí a Centra pro rodinu na jednom místě – koncerty, poutě, přednášky, kurzy, duchovní obnovy, příprava snoubenců a zpovídání.">
+<link rel="stylesheet" href="css/style.css?v=dev">
+</head>
+<body>
+<div class="wrap">
+  <header class="head">
+    <h1>Kalendář akcí děkanátu Valašské Meziříčí</h1>
+    <p class="lead">Koncerty, poutě, přednášky, kurzy, duchovní obnovy a další akce farností děkanátu na jednom místě.</p>
+  </header>
+
+  <section class="card filters" aria-label="Hledání a filtry">
+    <button type="button" class="ftoggle" id="ftoggle" aria-expanded="true" aria-controls="fbody">
+      <span>🔍 Hledání a filtry</span><span class="chev" aria-hidden="true">⌄</span>
+    </button>
+    <div id="fbody" class="fbody">
+      <div class="frow"><span class="flabel">Pořadatel</span><div class="chips" id="srcs"></div></div>
+      <div class="frow"><span class="flabel">Typ akce</span><div class="chips" id="cats"></div>
+        <label class="chk" hidden><input type="checkbox" id="showRecurring" checked> Pravidelné</label></div>
+      <div class="fbottom">
+        <input type="search" id="q" placeholder="Hledat akci…" aria-label="Hledat akci">
+        <a href="#odber" class="link">📅 Přidat do kalendáře</a>
+      </div>
+      <p class="count small muted" id="count"></p>
+      <button type="button" class="link small" id="reset" hidden>Zrušit filtry</button>
+    </div>
+  </section>
+
+  <section class="month" id="month" aria-label="Měsíční přehled"></section>
+
+  <p class="toggles small"><button type="button" class="link" id="pastBtn"></button></p>
+
+  <main id="list" aria-live="polite"><p class="muted">Načítám akce…</p></main>
+
+  <section class="card subscribe" id="odber">
+    <h2>Akce ve vašem kalendáři</h2>
+    <p>Odběr kalendáře: akce se vám budou samy objevovat a aktualizovat v telefonu nebo v počítači.</p>
+    <p class="btns">
+      <a class="btn" id="webcal" href="#">Přidat do kalendáře</a>
+      <button type="button" class="btn ghost" id="copy">Kopírovat odkaz</button>
+    </p>
+    <p class="small muted">Google Kalendář: zkopírujte odkaz a vložte ho v Google Kalendáři do <em>Další kalendáře → Přidat podle URL</em>.</p>
+  </section>
+
+  <footer class="foot small muted">
+    <p id="sources"></p>
+    <p id="updated"></p>
+    <p>Za správnost údajů odpovídají pořadatelé, podrobnosti vždy najdete u zdroje.</p>
+  </footer>
+</div>
+<script src="js/app.js?v=dev"></script>
+</body>
+</html>

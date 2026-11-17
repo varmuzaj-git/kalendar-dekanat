@@ -1,0 +1,261 @@
+{
+ "$comment": "Zdroje akcí. type = adaptér ve scripts/adapters. Akce z kalendářů farností (needsCheck / classify) prochází AI výběrem podle zadání (jen akce s přesahem, viz SCOPE v scripts/ai.mjs). include = regulární výrazy (název bez diakritiky) – takové akce se berou vždy bez AI; exclude = nikdy. textual = textový zdroj (AI slučuje duplicity i v rámci zdroje).",
+ "historyFrom": "2025-09-01",
+ "sources": [
+  {
+   "id": "rucne",
+   "name": "Děkanát (ručně)",
+   "fullName": "Akce zadané na dekanatvalmez.cz",
+   "color": "#5b4636",
+   "link": "https://dekanatvalmez.cz/",
+   "type": "wp-manual",
+   "url": "https://dekanatvalmez.cz/wp-json/kalendar-dekanat/v1/akce",
+   "priority": 5,
+   "categories": [],
+   "organizer": false
+  },
+  {
+   "id": "roznov",
+   "name": "Rožnov",
+   "fullName": "Farnost Rožnov pod Radhoštěm",
+   "color": "#1f5c99",
+   "link": "https://www.farnostroznov.cz",
+   "type": "agenda",
+   "url": "https://www.farnostroznov.cz",
+   "priority": 3,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "calendarTypes": [
+     "Akce",
+     "Oznámení",
+     "Modlitba chval",
+     "Příležitost ke svátosti smíření",
+     "Koncert",
+     "Pouť"
+    ]
+   }
+  },
+  {
+   "id": "valmez",
+   "name": "Val. Meziříčí",
+   "fullName": "Farnosti Valašské Meziříčí a Lešná",
+   "color": "#8a2f4a",
+   "link": "https://farnost-valmez.cz",
+   "type": "agenda",
+   "url": "https://farnost-valmez.cz",
+   "priority": 3,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "calendarTypes": [
+     "Akce",
+     "Oznámení",
+     "Modlitba chval",
+     "Příležitost ke svátosti smíření",
+     "Koncert",
+     "Pouť"
+    ]
+   }
+  },
+  {
+   "id": "kelc",
+   "name": "Kelč",
+   "fullName": "Farnost Kelč",
+   "color": "#2a6f6f",
+   "link": "https://farnostkelc.cz",
+   "type": "agenda",
+   "url": "https://farnostkelc.cz",
+   "priority": 3,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "calendarTypes": [
+     "Akce",
+     "Oznámení",
+     "Modlitba chval",
+     "Příležitost ke svátosti smíření",
+     "Koncert",
+     "Pouť"
+    ]
+   }
+  },
+  {
+   "id": "zasova",
+   "name": "Zašová",
+   "fullName": "Farnosti Zašová a Veselá",
+   "color": "#6b3f8a",
+   "link": "https://www.zasova.net",
+   "type": "agenda",
+   "url": "https://www.zasova.net",
+   "priority": 3,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "calendarTypes": [
+     "Akce",
+     "Oznámení",
+     "Modlitba chval",
+     "Příležitost ke svátosti smíření",
+     "Koncert",
+     "Pouť"
+    ]
+   }
+  },
+  {
+   "id": "loucka",
+   "name": "Loučka",
+   "fullName": "Farnost Loučka",
+   "color": "#6d5a8c",
+   "link": "https://www.farnostloucka.cz",
+   "type": "agenda",
+   "url": "https://www.farnostloucka.cz",
+   "priority": 3,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "calendarTypes": [
+     "Akce",
+     "Oznámení",
+     "Modlitba chval",
+     "Příležitost ke svátosti smíření",
+     "Koncert",
+     "Pouť"
+    ]
+   }
+  },
+  {
+   "id": "zubri",
+   "name": "Zubří",
+   "fullName": "Farnost Zubří",
+   "color": "#2f6b47",
+   "link": "https://www.farnostzubri.cz/udalosti/",
+   "type": "chilli",
+   "url": "https://www.farnostzubri.cz",
+   "priority": 3,
+   "categories": [],
+   "classify": true,
+   "options": {
+    "monthsAhead": 12
+   }
+  },
+  {
+   "id": "vidce",
+   "name": "Vidče",
+   "fullName": "Farnost Vidče",
+   "color": "#4e7a3a",
+   "link": "https://www.farnostvidce.cz/udalosti/",
+   "type": "chilli",
+   "url": "https://www.farnostvidce.cz",
+   "priority": 3,
+   "categories": [],
+   "classify": true,
+   "options": {
+    "monthsAhead": 12
+   }
+  },
+  {
+   "id": "vb",
+   "name": "Val. Bystřice",
+   "fullName": "Farnost Valašská Bystřice",
+   "color": "#8a6d1f",
+   "link": "https://farnostvb.cz/akce/",
+   "type": "tribe",
+   "url": "https://farnostvb.cz/wp-json/tribe/events/v1/events",
+   "priority": 3,
+   "categories": [],
+   "classify": true,
+   "exclude": [
+    "^propojeni\\b"
+   ]
+  },
+  {
+   "id": "hutisko",
+   "name": "Hutisko",
+   "fullName": "Farnost Hutisko-Solanec",
+   "color": "#5a7d2a",
+   "link": "https://www.farnosthutisko.cz/aktuality/",
+   "type": "ai-page",
+   "url": "https://www.farnosthutisko.cz/aktuality/",
+   "priority": 2,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "label": "aktuality",
+    "contentStart": "INFORMACE Z FARNOSTI"
+   }
+  },
+  {
+   "id": "dolnibecva",
+   "name": "Dolní Bečva",
+   "fullName": "Farnost Dolní Bečva",
+   "color": "#3b6e8f",
+   "link": "https://www.farnostdolnibecva.cz/aktuality",
+   "type": "pdf-ohlasky",
+   "url": "https://www.farnostdolnibecva.cz/aktuality",
+   "priority": 2,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "link": "/aktuality/nedelni-ohlasky-\\d+",
+    "max": 3
+   }
+  },
+  {
+   "id": "choryne",
+   "name": "Choryně",
+   "fullName": "Farnost Choryně",
+   "color": "#9c4f2e",
+   "link": "https://www.farnost-choryne.cz/",
+   "type": "ai-links",
+   "url": "https://www.farnost-choryne.cz/",
+   "priority": 2,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "link": "/clanek/\\d+$",
+    "max": 8,
+    "contentStart": "<h1",
+    "contentEnd": "Biblick",
+    "imageMatch": "/clanek/obrazek/",
+    "imageRewrite": [
+     "/styles/[^/]+/public/",
+     "/"
+    ],
+    "ocrBelow": 600
+   }
+  },
+  {
+   "id": "cpr",
+   "name": "Centrum pro rodinu",
+   "fullName": "Centrum pro rodinu Valašské Meziříčí",
+   "color": "#e07a1f",
+   "link": "https://www.valmez.dcpr.cz/",
+   "type": "ai-links",
+   "url": "https://www.valmez.dcpr.cz/",
+   "priority": 4,
+   "textual": true,
+   "categories": [],
+   "options": {
+    "link": "/\\d+-[^/]+\\.html$",
+    "max": 12,
+    "contentStart": "itemprop=\"articleBody\"",
+    "contentEnd": "Poradenství\\s*</",
+    "imageMatch": "/images/",
+    "ocrBelow": 600,
+    "list": "https://www.valmez.dcpr.cz/?format=feed&type=rss"
+   }
+  },
+  {
+   "id": "svatky",
+   "name": "Státní svátky",
+   "fullName": "Státní svátky ČR",
+   "color": "#7a7f87",
+   "type": "holidays",
+   "display": "dayLabel",
+   "priority": 0
+  }
+ ],
+ "titleFixes": {},
+ "mergeRules": []
+}

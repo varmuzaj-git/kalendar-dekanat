@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalendar dekanatu VM//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Akce děkanátu Valašské Meziříčí
+X-WR-TIMEZONE:Europe/Prague
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:rucne-1d72c4fced@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251119T170000Z
+DTEND:20251119T190000Z
+SUMMARY:Manželské večery (Zubří)
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-4230546015@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251122T080000Z
+DTEND:20251122T140000Z
+SUMMARY:Děkanátní turnaj ve florbale (Kelč)
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:deti
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-4abecee1ca@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251123T160000Z
+DTEND:20251123T180000Z
+SUMMARY:Koncert chval Scholy brněnské mládeže
+LOCATION:Kostel Všech svatých v Rožnově p. R.
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/koncert-chval-v-roznove-p
+ -r/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/koncert-chval-v-roznove-p-r/
+CATEGORIES:kultura,duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-b990ca9cc4@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251129T080000Z
+DTEND:20251129T150000Z
+SUMMARY:Adventní duchovní obnova pro ženy
+LOCATION:jídelna ZŠ Zašová
+DESCRIPTION:Centrum pro rodinu Valašské Meziříčí zve na tradiční adventní 
+ duchovní obnovu pro ženy\, tentokrát s Bc. Marcelou Řezníčkovou.\n\nhttps
+ ://www.farnostzubri.cz/udalosti/adventni-duchovni-obnova-pro-zeny/\n\nZdr
+ oj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/adventni-duchovni-obnova-pro-zeny
+ /
+CATEGORIES:duchovni,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-a946d82f62@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251203T090000Z
+DTEND:20251203T110000Z
+SUMMARY:Přednáška Piero Coda – Třetí fáze synodálního procesu
+DESCRIPTION:Dne 3.12. bude na pozvání Rady pro synodalitu při ČBK na CMTF 
+ UP přednáška a diskuze s Mons. Piero Coda. Jedná se o jednoho z nejvýznam
+ nějších současných katolických teologů\, jenž je v současnosti Generálním
+  sekretářem Mezinárodní teologické komise (MTK). Přednáška je otevřená ve
+ řejnosti a bude tlumočena\, je možné se zúčastnit také online formou.\n\n
+ Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-1486a39ca2@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20251204T170000Z
+DTEND:20251204T183000Z
+SUMMARY:Adventní ekumenické setkání (Rožnov)
+LOCATION:Kostel Všech svatých (Rožnov)
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-a4954bad30@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251224
+SUMMARY:Vánoční zpovídání 2025 (děkanát – rozpis)
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-93226c9ae1@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260113T170000Z
+DTEND:20260113T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-06d862e5b5@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260120T170000Z
+DTEND:20260120T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-4639e47ce6@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260127T170000Z
+DTEND:20260127T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-5b55ec010e@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260202T173000Z
+DTEND:20260202T193000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-8c66d30539@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260203T170000Z
+DTEND:20260203T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-db2bd7c4af@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260209T173000Z
+DTEND:20260209T193000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-50f4363e7b@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260210T170000Z
+DTEND:20260210T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-3ac57d2036@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260216T173000Z
+DTEND:20260216T193000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-a6b5f8b543@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260217T170000Z
+DTEND:20260217T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-fcdb7c28ea@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260223T173000Z
+DTEND:20260223T193000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-064f47a4c7@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260224T170000Z
+DTEND:20260224T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-f26983254a@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260303T170000Z
+DTEND:20260303T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-a086ee60a8@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260310T170000Z
+DTEND:20260310T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-85a07f3716@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260317T170000Z
+DTEND:20260317T190000Z
+SUMMARY:Kurzy ALFA – Rožnov
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-e8b29a63c6@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260401
+SUMMARY:Velikonoční zpovídání 2026
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-e1d558fdf0@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260407T160000Z
+DTEND:20260407T180000Z
+SUMMARY:Marek Orko Vácha – Umění Žít – Valašská Bystřice
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-0b97c9f597@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260411T113000Z
+DTEND:20260411T163000Z
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
+DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
+ ané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-a9d99edd80@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260412T130000Z
+DTEND:20260412T143000Z
+SUMMARY:Benefiční hudební odpoledne s Václavem Hudečkem – 12. 4. 2026 od 1
+ 5:00 v kostele sv. Zdislavy v Prostřední Bečvě.
+DESCRIPTION:Benefiční hudební odpoledne s Václavem Hudečkem\n\n\n\nSrdečně
+  vás zveme na benefiční hudební odpoledne\, které se uskuteční v neděli 1
+ 2. dubna 2026 od 15:00 hodin v kostele sv. Zdislavy v Prostřední Bečvě.\n
+ \n\n\nVýtěžek koncertu bude věnován na pořízení nových píšťalových varhan
+  ve farním kostele sv. Antonína Paduánského na Dolní Bečvě.\n\n\n\nVýstav
+ bu varhan můžete podpořit také darováním prostřednictvím QR kódu nebo zas
+ láním příspěvku na účet 2102467778/2010.\n\n\n\nKoncert bude živě vysílán
+  TV NOE.\n\n\n\nVíce info k výstavbě varhan: https://varhanyprodolnibecvu
+ .cz/\n\nZdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-78a7a9769b@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260418T130000Z
+DTEND:20260418T150000Z
+SUMMARY:Děkanátní pouť v Zašové
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:valmez-e885000265@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Přednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)
+LOCATION:Muzejní a galerijní centrum\, Freskový sál\, Zámek Žerotínů
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPř
+ ednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)\nŽena ať v církvi\
+ n\nhttps://farnost-valmez.cz/oznameni/prednaska-zena-at-v-cirkvi-promluvi
+ -p-zdenek-jancarik-9048\n\nZdroj: Farnosti Valašské Meziříčí a Lešná
+URL:https://farnost-valmez.cz/oznameni/prednaska-zena-at-v-cirkvi-promluvi
+ -p-zdenek-jancarik-9048
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-1bb2c7ca8e@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260425T113000Z
+DTEND:20260425T163000Z
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
+DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
+ ané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-fa2ab03a8d@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260523T113000Z
+DTEND:20260523T163000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Fara - vždy 2 lekce za sebou.\n\nZdroj: Akce zadané na dekanat
+ valmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-e43b8f3d1c@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260530T113000Z
+DTEND:20260530T163000Z
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
+DESCRIPTION:Fara - vždy 2 lekce za sebou.\n\nZdroj: Akce zadané na dekanat
+ valmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-9f36451eee@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260531T120000Z
+DTEND:20260531T140000Z
+SUMMARY:Děkanátní setkání rodin Zašová
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-52677885b6@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260706
+SUMMARY:Zašovská pouť
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-c979bb59a3@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260912T113000Z
+DTEND:20260912T163000Z
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
+DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
+ ané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-53411b7626@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20260919T113000Z
+DTEND:20260919T163000Z
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
+DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
+ ané na dekanatvalmez.cz
+CATEGORIES:rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:rucne-39d79ef036@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
+SUMMARY:Večerní souznění – Zubří
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-7fcf814db2@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Duchovní obnova s P. Pavlem Hofírkem
+LOCATION:Velehrad
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu
+ chovní obnova s P. Pavlem Hofírkem\nDUCHOVNÍ OBNOVA\nTéma: CESTY APOŠTOLA
+  PAVLA\nEXERCIČNÍ DŮM STOJANOV NA VELEHRADĚ\nObnova je určena pro všechny
+  dospělé věřící.\nExercitátor: P. PAVEL HOŘÍREK\nZačátek: Pátek 20. listo
+ padu 2026\nVečerní v 18:00 a první promluvu v 19:00\nZakončení: Neděle 22
+ . listopadu 2026\nMši svatou v 9:00\, besedou a obědem v 12:00\n\nhttps:/
+ /www.farnostroznov.cz/oznameni/duchovni-obnova-s-p-pavlem-hofirkem-10443\
+ n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-s-p-pavlem-hofir
+ kem-10443
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-5b9be058ab@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20261127T170000Z
+DTEND:20261127T200000Z
+SUMMARY:Godzone Tour 2026
+LOCATION:Frýdek-Místek
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGo
+ dzone Tour 2026\nMONS. MARTINA DAVIDA\, BISKUPA OSTRAVSKO-OPAVSKÉHO.\nGOD
+ ZONE TOUR 2026\nJEŠTĚ NENÍ\nPOZDĚ\n\nhttps://www.farnostroznov.cz/oznamen
+ i/godzone-tour-2026-10903\n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/godzone-tour-2026-10903
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-bdcf20b031@kalendar-dekanat
+DTSTAMP:20261117T130015Z
+DTSTART:20261205T080000Z
+DTEND:20261205T150000Z
+SUMMARY:Duchovní obnova pro ženy
+LOCATION:Zašová
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu
+ chovní obnova pro ženy\nCentrum pro rodinu Valašské Meziříčí vás zve na\n
+ ADVENTNÍ DUCHOVNÍ OBNOVU\nPRO ŽENY\n"V mých očích jsi drahá a vzácná"\n\n
+ https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-zeny-10823\n\nZ
+ droj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-zeny-10823
+CATEGORIES:duchovni,rodina
+END:VEVENT
+END:VCALENDAR

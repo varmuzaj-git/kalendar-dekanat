@@ -1,0 +1,7 @@
+{
+  "name": "kalendar-dekanat",
+  "private": true,
+  "type": "module",
+  "scripts": { "collect": "node scripts/collect.mjs" },
+  "dependencies": { "unpdf": "1.9.1" }
+}
