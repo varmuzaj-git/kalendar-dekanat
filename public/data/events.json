@@ -274,21 +274,6 @@
  ],
  "events": [
   {
-   "organizers": [],
-   "id": "svatky-b7a774306b",
-   "source": "svatky",
-   "sources": [
-    "svatky"
-   ],
-   "title": "Den boje za svobodu a demokracii",
-   "start": "2025-11-17",
-   "end": "2025-11-17",
-   "allDay": true,
-   "recurring": false,
-   "categories": [],
-   "tags": []
-  },
-  {
    "organizers": [
     "cpr"
    ],
@@ -427,6 +412,31 @@
   },
   {
    "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-156aa1c8ff",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Adventní koncert",
+   "start": "2025-12-13T16:00",
+   "end": "2025-12-13T18:00",
+   "allDay": false,
+   "location": "kostel sv. Kateřiny",
+   "url": "https://www.farnostzubri.cz/udalosti/adventni-koncert-5/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2025/11/adventni-koncert-2025-1.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "advent",
+    "koncert"
+   ]
+  },
+  {
+   "organizers": [
     "dekanat"
    ],
    "id": "rucne-a4954bad30",
@@ -444,6 +454,52 @@
     "zpoved"
    ],
    "tags": [
+    "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "vidce"
+   ],
+   "id": "vidce-7ce991bdaa",
+   "source": "vidce",
+   "sources": [
+    "vidce"
+   ],
+   "title": "Předvánoční zpovídání",
+   "start": "2025-12-18",
+   "end": "2025-12-18",
+   "allDay": true,
+   "url": "https://www.farnostvidce.cz/udalosti/predvanocni-zpovidani-3/",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-f540effae7",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Vánoční zpovídání 2025",
+   "start": "2025-12-19",
+   "end": "2025-12-19",
+   "allDay": true,
+   "url": "https://farnostvb.cz/akce/vanocni-zpovidani-2025/",
+   "image": "https://farnostvb.cz/wp-content/uploads/2025/12/vanocni-zpovidani-2025-pdf.jpg",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "děkanát",
     "Vánoce"
    ]
   },
@@ -480,6 +536,30 @@
    ]
   },
   {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-d681e94396",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Vánoční varhanní koncert",
+   "start": "2025-12-25T15:00",
+   "end": "2025-12-25T16:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/vanocni-varhanni-koncert/",
+   "image": "https://farnostvb.cz/wp-content/uploads/2025/12/vanocno-koncert-2025-500x489.webp",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "vánoce",
+    "koncert"
+   ]
+  },
+  {
    "organizers": [],
    "id": "svatky-6e04b701f8",
    "source": "svatky",
@@ -497,6 +577,31 @@
    ]
   },
   {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-b6bfca4191",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Vánoční koncert",
+   "start": "2025-12-28T16:00",
+   "end": "2025-12-28T17:30",
+   "allDay": false,
+   "location": "Kostel sv. Kateřiny",
+   "url": "https://www.farnostzubri.cz/udalosti/vanocni-koncert-5/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2025/11/vanocni-koncert-2025.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "Vánoce",
+    "koncert"
+   ]
+  },
+  {
    "organizers": [],
    "id": "svatky-bb11329145",
    "source": "svatky",
@@ -510,6 +615,102 @@
    "recurring": false,
    "categories": [],
    "tags": []
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-6a16575a08",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Nad horama vyšla hvězda – scholička",
+   "start": "2026-01-02T18:00",
+   "end": "2026-01-02T19:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/nad-horama-vysla-hvezda-scholicka/",
+   "image": "https://farnostvb.cz/wp-content/uploads/2025/12/Nad-horama-vysla-hvezda-14_2025.webp",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-a68078265d",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Tříkrálová sbírka 2026",
+   "start": "2026-01-09",
+   "end": "2026-01-09",
+   "allDay": true,
+   "url": "https://farnostvb.cz/akce/trikralova-sbirka-2026/",
+   "description": "V naší farnosti bude tříkrálová sbírka probíhat v pátek 9. ledna 2026.\n\nKoordinátorem pro naši farnost je Marie Hruškovská.",
+   "image": "https://farnostvb.cz/wp-content/uploads/2025/12/trikralove2026-500x207.jpg",
+   "recurring": false,
+   "categories": [
+    "charita"
+   ],
+   "tags": [
+    "charita",
+    "tříkrálová sbírka"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-5e5adde841",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Tříkrálová sbírka",
+   "start": "2026-01-10",
+   "end": "2026-01-10",
+   "allDay": true,
+   "location": "Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/trikralova-sbirka-5/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2025/12/zubri-724x1024.png",
+   "recurring": false,
+   "categories": [
+    "charita"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-da18618bd9",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-01-12T18:00",
+   "end": "2026-01-12T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
   },
   {
    "organizers": [
@@ -667,6 +868,34 @@
   },
   {
    "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-6f788b023c",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-02-16T17:00",
+   "end": "2026-02-16T19:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
     "valmez"
    ],
    "id": "rucne-3ac57d2036",
@@ -777,6 +1006,35 @@
   },
   {
    "organizers": [
+    "vidce",
+    "zubri"
+   ],
+   "id": "vidce-3bdbf6cf3b",
+   "source": "vidce",
+   "sources": [
+    "vidce",
+    "zubri"
+   ],
+   "title": "Postní duchovní obnova",
+   "start": "2026-03-07T16:00",
+   "end": "2026-03-07T19:00",
+   "allDay": false,
+   "location": "Zubří",
+   "url": "https://www.farnostvidce.cz/udalosti/postni-duchovni-obnova/",
+   "image": "https://www.farnostvidce.cz/content/uploads/2026/03/letacek-webf.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "Velikonoce"
+   ],
+   "altTitles": [
+    "Postní duchovní obnova v Zubří"
+   ]
+  },
+  {
+   "organizers": [
     "roznov"
    ],
    "id": "rucne-a086ee60a8",
@@ -795,6 +1053,82 @@
    ],
    "tags": [
     "Alfa"
+   ]
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-899fa10c9b",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Duchovní obnova pro muže",
+   "start": "2026-03-14T00:00",
+   "end": "2026-03-14T02:00",
+   "allDay": false,
+   "location": "Zašová",
+   "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-muze-8627",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro muže\nPOSTNÍ DUCHOVNÍ\nOBNOVA PRO MUŽE\nTéma: BOŽÍ PŘÍTOMNOST V MÉM ŽIVOTĚ\nPovede: o. JAN MACH\n14. března 2026",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1773046570.png",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "Velikonoce"
+   ]
+  },
+  {
+   "organizers": [
+    "vidce"
+   ],
+   "id": "vidce-505388a111",
+   "source": "vidce",
+   "sources": [
+    "vidce"
+   ],
+   "title": "Dětská křížová cesta",
+   "start": "2026-03-15T15:00",
+   "end": "2026-03-15T15:30",
+   "allDay": false,
+   "url": "https://www.farnostvidce.cz/udalosti/detska-krizova-cesta/",
+   "recurring": false,
+   "categories": [
+    "duchovni",
+    "deti"
+   ],
+   "tags": [
+    "společenství dětí plamínek"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-3ca1570eb3",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-03-16T18:00",
+   "end": "2026-03-16T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
    ]
   },
   {
@@ -820,6 +1154,76 @@
    ]
   },
   {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-0d888fb50d",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Setkání s P. Františkem Králem Z MSH",
+   "start": "2026-03-18T16:15",
+   "end": "2026-03-18T20:00",
+   "allDay": false,
+   "location": "kostel a fara v Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/setkani-s-p-frantiskem-kralem-z-msh/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/03/2026-03-18-plakatek-msh_frantisek_kral.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "matice svatohostýnská"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-9945077e8d",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Setkání příznivců Mary's Meals v Bystřici p. Hostýnem",
+   "start": "2026-03-19T17:00",
+   "end": "2026-03-19T19:00",
+   "allDay": false,
+   "location": "ŘK farnost Bystřice pod Hostýnem",
+   "url": "https://www.farnostzubri.cz/udalosti/setkani-priznivcu-marys-meals-v-bystrici-p-h/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/03/2026-03-19-merys-meals-07_rsd_bph-724x1024.jpg",
+   "recurring": false,
+   "categories": [
+    "charita"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-73bcf52f89",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Duchovní obnova pro dívky",
+   "start": "2026-03-20",
+   "end": "2026-03-20",
+   "allDay": true,
+   "location": "Kelč",
+   "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-divky-8468",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro dívky\n\r\n\r\n\n\r\nDuchovní obnovu pro dívky pořádá Centrum pro rodinu od 20. do 22. března v Kelči.",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1771781040.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni",
+    "rodina"
+   ],
+   "tags": []
+  },
+  {
    "organizers": [],
    "id": "rucne-e8b29a63c6",
    "source": "rucne",
@@ -838,6 +1242,55 @@
    "tags": [
     "Velikonoce"
    ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-2c21dc1988",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Velikonoční zpovídání",
+   "start": "2026-03-27T13:00",
+   "end": "2026-03-27T17:00",
+   "allDay": false,
+   "location": "Farní kostel ve Valašské Bystřici",
+   "url": "https://farnostvb.cz/akce/velikonocni-zpovidani/",
+   "description": "P. Stanislav Matyáš (13:10-15:00) v zákristii\n\nP. Pavel Jombík (13:10-15:00) ve zpovědnici\n\nP. Bedřich Horák (15:00-17:00) ve zpovědnici\n\na P. Jan Vláčil 13:20-16:50 na faře, pak 17:00-17:20 a po mši sv. ve zpovědnici.",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "děkanát",
+    "velikonoce"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-e4481496d9",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Putovní Křižova cesta",
+   "start": "2026-03-28T14:00",
+   "end": "2026-03-28T16:00",
+   "allDay": false,
+   "location": "od kostela ke kříži na Nivách",
+   "url": "https://www.farnostzubri.cz/udalosti/putovni-krizova-cesta/",
+   "description": "Pojďte s námi vyrazit na trochu jinou křížovou cestu.\n\nTrasa",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/03/plakat-putovni-krizova-cesta-_20260318_183254_0000.png",
+   "recurring": false,
+   "categories": [
+    "pout",
+    "duchovni"
+   ],
+   "tags": []
   },
   {
    "organizers": [],
@@ -878,7 +1331,8 @@
    "id": "rucne-e1d558fdf0",
    "source": "rucne",
    "sources": [
-    "rucne"
+    "rucne",
+    "vb"
    ],
    "title": "Marek Orko Vácha – Umění Žít – Valašská Bystřice",
    "start": "2026-04-07T18:00",
@@ -889,7 +1343,15 @@
    "categories": [
     "vzdelavani"
    ],
-   "tags": []
+   "tags": [
+    "přednášky"
+   ],
+   "location": "Společenský dům U Pernických",
+   "url": "https://farnostvb.cz/akce/prednaska-umeni-zit-marek-orko-vacha/",
+   "description": "Marek Orko Vácha – katolický kněz, teolog, molekulární biolog, pedagog, spisovatel a skaut.\n\nZveme vás na jeho přenášku s názvem Umění žít\n\nČlověk je zrozen, aby žil, a ne aby se připravoval na život. A život sám, je něco důležitějšího, něco opojnějšího? Jaká je tedy odpovědnost člověka za jeho životní příběh? Je třeba s pokorou přijmout vlastní velikost, dojít k poznání že symfonie, které nenapíšeme my, nevzniknou nikdy… obrazy, které nenamalujeme my, nebudou nikdy … a dobré projekty, které neuvedeme v život my, také nebudou nikdy.\n\nPo přednášce (cca 90 minut) bude následovat krátká diskuse,…",
+   "altTitles": [
+    "Přednáška UMĚNÍ ŽÍT – MAREK ORKO VÁCHA"
+   ]
   },
   {
    "organizers": [
@@ -939,13 +1401,38 @@
   },
   {
    "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-8e45866c97",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Podvody a bezpečnost seniorů v současné době",
+   "start": "2026-04-16T09:30",
+   "end": "2026-04-16T10:30",
+   "allDay": false,
+   "location": "fara Valašské Meziříčí",
+   "url": "https://www.farnostroznov.cz/oznameni/podvody-a-bezpecnost-senioru-v-soucasne-dobe-8962",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nPodvody a bezpečnost seniorů v současné době\nPODVODY\nA BEZPEČNOST\nSENIORŮ V SOUČASNÉ\nDOBĚ",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776013829.jpg",
+   "recurring": false,
+   "categories": [
+    "seniori",
+    "vzdelavani"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
     "dekanat",
     "zasova"
    ],
    "id": "rucne-78a7a9769b",
    "source": "rucne",
    "sources": [
-    "rucne"
+    "rucne",
+    "zubri"
    ],
    "title": "Děkanátní pouť v Zašové",
    "start": "2026-04-18T15:00",
@@ -954,11 +1441,44 @@
    "image": "https://dekanatvalmez.cz/wp-content/uploads/2026/04/2026-04-18-pout-dekanatu-636x900.jpg",
    "recurring": false,
    "categories": [
-    "pout"
+    "pout",
+    "duchovni",
+    "rodina"
    ],
    "tags": [
     "pouť",
     "děkanát"
+   ],
+   "location": "Zašová",
+   "url": "https://www.farnostzubri.cz/udalosti/dekanatni-pout-v-zasove/",
+   "description": "Děkanátní pouť za obnovu rodin a kněžská povolání za účasti otce arcibiskupa Josefa Nuzíka."
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-dc8b04ac93",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-04-20T18:00",
+   "end": "2026-04-20T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
    ]
   },
   {
@@ -1008,6 +1528,49 @@
    ]
   },
   {
+   "organizers": [
+    "vidce"
+   ],
+   "id": "vidce-78e19f831a",
+   "source": "vidce",
+   "sources": [
+    "vidce"
+   ],
+   "title": "Žehnání polí",
+   "start": "2026-04-26T14:00",
+   "end": "2026-04-26T16:00",
+   "allDay": false,
+   "url": "https://www.farnostvidce.cz/udalosti/zehnani-poli/",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-ccb666f7d7",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Otevřené brány",
+   "start": "2026-05-01",
+   "end": "2026-05-01",
+   "allDay": true,
+   "location": "https://otevrenebrany.cz/kostel-vsech-svatych",
+   "url": "https://www.farnostroznov.cz/oznameni/otevrene-brany-9743",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nOtevřené brány\n\r\n\r\nChcete se dozvědět něco o historii kostela Všech svatých? Přijďte, naši průvodci jsou připraveni.\n\nProhlídky:\n\nkvěten, září: sobota 9.00 - 16.00, neděle 12.00 - 16.00\n\nčerven, červenec, srpen: úterý - sobota 9.00 - 16.00, neděle 12.00 - 16.00, státní svátky nepřipadající na neděli 9:00 - 16:00\n\n-- OTEVŘENÉ BRÁNY",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1783839481.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
    "organizers": [],
    "id": "svatky-da69c4eaf2",
    "source": "svatky",
@@ -1039,6 +1602,135 @@
   },
   {
    "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-24776e9a2a",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Duchovní obnova s indickým misionářem v Zašové",
+   "start": "2026-05-09T14:00",
+   "end": "2026-05-09T16:00",
+   "allDay": false,
+   "location": "kostel v Zašové",
+   "url": "https://www.farnostzubri.cz/udalosti/duchovni-obnova-s-indickym-misionarem-v-zasove/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/05/2026-05-09-duchovni-obnova-saji-791x1024.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-486df2ec66",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Křesťan v digitálním světě",
+   "start": "2026-05-16T08:00",
+   "end": "2026-05-16T18:00",
+   "allDay": false,
+   "location": "Velehrad",
+   "url": "https://www.farnostroznov.cz/oznameni/krestan-v-digitalnim-svete-8961",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nKřesťan v digitálním světě\n\r\n\r\nHledáte inspiraci, povzbuzení a nový pohled na to, jak žít víru v moderním světě? Konference Křesťan v digitálním světě přináší jedinečné propojení víry, inspirace a technologií na jednom místě.\n\r\nSetkáte se s lidmi, kteří chtějí růst – lidsky, profesně i duchovně. Uslyšíte silný příběh, získáte praktické podněty a objevíte, jak se v digitální době neztratit, ale naopak v ní najít pevný směr.\n\r\nCo vás čeká\n\r\n\r\ninspirativní řečníci\n\r\ntémata o víře, AI, digitálním…",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776013543.jpg",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "duchovni"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-b6a3c34c76",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-05-18T18:00",
+   "end": "2026-05-18T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-2462922e04",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Setkání nad 2. pilířem PROPOJENI – téma 2 a 3",
+   "start": "2026-05-20T18:00",
+   "end": "2026-05-20T20:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/setkani-nad-2-pilirem-propojeni-cast-2-a-3/",
+   "description": "bude ve středu 20. 5. v 18:00 na faře\n\n2. TÉMA – DUCHOVNÍ RŮST\n\n2. pilíř – Brožura pro členy skupinek – 2. téma\n\n2. pilíř – Představení tématu – 2. téma – video online\n\n3. TÉMA – SPRÁVA FARNOSTI\n\n2. pilíř – Brožura pro členy skupinek – 3. téma\n\n2. pilíř – Představení tématu – 3. téma – video online",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "propojeni"
+   ]
+  },
+  {
+   "organizers": [
+    "roznov",
+    "zubri"
+   ],
+   "id": "roznov-e30a58c84c",
+   "source": "roznov",
+   "sources": [
+    "roznov",
+    "zubri"
+   ],
+   "title": "2. Moravská pouť seniorů",
+   "start": "2026-05-21T09:30",
+   "end": "2026-05-21T15:30",
+   "allDay": false,
+   "location": "Svatý Hostýn",
+   "url": "https://www.farnostroznov.cz/oznameni/2-moravska-pout-senioru-9024",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n2. Moravská pouť seniorů\n2. Moravská pouť seniorů\nna Svatém Hostýně\n21. 5. 2026\nPROGRAM :",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776546274.jpg",
+   "recurring": false,
+   "categories": [
+    "pout",
+    "seniori",
+    "rodina"
+   ],
+   "tags": [
+    "pouť"
+   ],
+   "altTitles": [
+    "MORAVSKÁ POUŤ SENIORŮ na Hostýně"
+   ]
+  },
+  {
+   "organizers": [
     "valmez"
    ],
    "id": "rucne-fa2ab03a8d",
@@ -1059,6 +1751,77 @@
    "tags": [
     "snoubenci"
    ]
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-3411e089af",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Musica Priboriensis Příbor - koncert",
+   "start": "2026-05-26T18:00",
+   "end": "2026-05-26T19:30",
+   "allDay": false,
+   "location": "kostel Všech svatých, Rožnov p. R.",
+   "url": "https://www.farnostroznov.cz/oznameni/musica-priboriensis-pribor-koncert-9377",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nMusica Priboriensis Příbor - koncert\nMUSICA PRIBORIENSIS\nPŘÍBOR\nÚterý 26. 5. 2026 v 18 h\nKOSTEL VŠECH SVATÝCH, R. P. R.\nKONCERT\nPĚVECKÉHO SBORU\nMUSICA PRIBORIENSIS\nPAVEL RYBKÁ - varhany\nJéčko",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779521117.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "koncert"
+   ]
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-d9b25497eb",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Hostina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice",
+   "start": "2026-05-29T17:00",
+   "end": "2026-05-29T18:00",
+   "allDay": false,
+   "location": "Galerie Kostnice",
+   "url": "https://www.farnostroznov.cz/oznameni/hostina-vernisaz-vystavy-veroniky-richterove-v-galerii-kostnice-9378",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nHostina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice\n\r\n\r\nTéčko ve spolupráci s Římskokatolickou farností a Iskérkou si vás dovolují pozvat na vernisáž výstavy v Galerii Kostnice.\n\r\nOtevírací doba: úterý - sobota: 10:00 - 16:00, neděle: 11:00 - 15:00\nVýstavu můžete navštívit do 12. 7. 2026.\nVstupné dobrovolné.",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779522850.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-0f0a6ed79c",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Hostina: Veronika Richterová",
+   "start": "2026-05-30",
+   "end": "2026-05-30",
+   "allDay": true,
+   "location": "Galerie Kostnice",
+   "url": "https://www.farnostroznov.cz/oznameni/hostina-veronika-richterova-9684",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nHostina: Veronika Richterová\nGALERIE\nKOSTNICE\n30. 5. - 12. 7. 2026\nHOSTINA\nVERONIKA RICHTEROVÁ\nVýstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radhoštěm",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1783024399.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
   },
   {
    "organizers": [
@@ -1091,7 +1854,9 @@
    "id": "rucne-9f36451eee",
    "source": "rucne",
    "sources": [
-    "rucne"
+    "rucne",
+    "roznov",
+    "zubri"
    ],
    "title": "Děkanátní setkání rodin Zašová",
    "start": "2026-05-31T14:00",
@@ -1104,7 +1869,177 @@
    ],
    "tags": [
     "děkanát"
+   ],
+   "location": "Zašová",
+   "url": "https://www.farnostroznov.cz/oznameni/dekanatni-setkani-rodin-9381",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDěkanátní setkání rodin\nDĚKÁNÁTNÍ\nSETKÁNÍ RODIN\nZAŠOVÁ",
+   "altTitles": [
+    "Děkanátní setkání rodin",
+    "DĚKANÁTNÍ SETKÁNÍ RODIN v Zašové"
    ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-667f498762",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Zpovídání pro děti jdoucí k 1. sv. přijímání a jejich rodiče",
+   "start": "2026-06-03T17:00",
+   "end": "2026-06-03T18:30",
+   "allDay": false,
+   "location": "Farní kostel ve Valašské Bystřici",
+   "url": "https://farnostvb.cz/akce/zpovidani-pro-deti-jdouci-k-1-sv-prijimani-a-jejich-rodice/",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "deti",
+    "zpoved"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-d844757468",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Farní zájezd",
+   "start": "2026-06-06T07:45",
+   "end": "2026-06-06T19:00",
+   "allDay": false,
+   "url": "https://www.farnostzubri.cz/udalosti/farni-zajezd/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/05/2026-06-06-farni-zajezd-1.jpeg",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-a0b3552412",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Farní den",
+   "start": "2026-06-07T15:00",
+   "end": "2026-06-07T20:00",
+   "allDay": false,
+   "location": "kostel Všech svatých a farní zahrada",
+   "url": "https://www.farnostroznov.cz/oznameni/farni-den-9380",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nFarní den\nFARNÍ DEN\nNEDĚLE 7. ČERVNA 2026",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779524754.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "vidce"
+   ],
+   "id": "vidce-e6a4b730e2",
+   "source": "vidce",
+   "sources": [
+    "vidce"
+   ],
+   "title": "Farní den",
+   "start": "2026-06-14T14:00",
+   "end": "2026-06-14T16:00",
+   "allDay": false,
+   "location": "dvůr fary",
+   "url": "https://www.farnostvidce.cz/udalosti/farni-den/",
+   "image": "https://www.farnostvidce.cz/content/uploads/2026/06/whatsapp-image-2026-06-10-at-11-03-33-723x1024.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-3ffcc4bf8b",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-06-15T18:00",
+   "end": "2026-06-15T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-f910eb3009",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Letní koncert",
+   "start": "2026-06-21T16:00",
+   "end": "2026-06-21T18:00",
+   "allDay": false,
+   "location": "Zubří, farní kostel sv. Kateřiny",
+   "url": "https://www.farnostzubri.cz/udalosti/koncert-4/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/05/whatsapp-image-2026-05-05-at-18-36-37.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "schola katalaxa\nmalá schola\nchrámový sbor",
+    "koncert"
+   ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-ff0135d8f8",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Táborák",
+   "start": "2026-06-21T16:00",
+   "end": "2026-06-21T19:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/taborak/",
+   "recurring": false,
+   "categories": [
+    "rodina",
+    "deti"
+   ],
+   "tags": []
   },
   {
    "organizers": [
@@ -1161,6 +2096,211 @@
    "organizers": [
     "roznov"
    ],
+   "id": "roznov-7eed15e972",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Gabriela Nováková: Nad hladinou a pod hladinou země",
+   "start": "2026-07-18",
+   "end": "2026-07-18",
+   "allDay": true,
+   "location": "Galerie Kostnice",
+   "url": "https://www.farnostroznov.cz/oznameni/gabriela-novakova-nad-hladinou-a-pod-hladinou-zeme-9685",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nGabriela Nováková: Nad hladinou a pod hladinou země\nGALERIE\nKOSTNICE\n18. 7. - 16. 8. 2026\nNAD HLADINOU\nA POD HLADINOU ZEMĚ\nGABRIELA NOVÁKOVÁ\nVýstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radhoštěm",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1783025206.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-71ff581350",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Pouť na Radhošť",
+   "start": "2026-07-25T11:00",
+   "end": "2026-07-25T13:00",
+   "allDay": false,
+   "location": "Kaple sv. Cyrila a Metoděje na Radhošti",
+   "url": "https://www.farnostzubri.cz/udalosti/pout-na-radhost/",
+   "description": "Tradiční pouť farností Zubří a Vidče.\n\nMše svatá v 11 hod v kapli sv. Cyrila a Metoděje.",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": [
+    "pouť"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-6fc4b66840",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Pestrost hudby v Kapli sv. Ducha",
+   "start": "2026-07-27T17:30",
+   "end": "2026-07-27T19:30",
+   "allDay": false,
+   "location": "Kaple Sv. Ducha, Staré Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/pestrost-hudby-v-kapli-sv-ducha/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/07/2026-07-27-koncert-kaple-1024x576.png",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "kaple"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-6b153383a6",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Pouť na Svatý Hostýn",
+   "start": "2026-08-04T07:15",
+   "end": "2026-08-04T09:15",
+   "allDay": false,
+   "location": "Svatý Hostýn",
+   "url": "https://www.farnostzubri.cz/udalosti/pout-na-svaty-hostyn/",
+   "description": "Sraz v 7:15 hod pod kostelem.\n\nOdjezd v 7:20 hod.",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": [
+    "pouť"
+   ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-bf187751eb",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "1. předpouťová brigáda za kostelem",
+   "start": "2026-08-05T18:00",
+   "end": "2026-08-05T20:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/1-predpoutova-brigada-za-kostelem/",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-bf011aaefd",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "2. předpouťová brigáda za kostelem",
+   "start": "2026-08-13T18:00",
+   "end": "2026-08-13T20:00",
+   "allDay": false,
+   "url": "https://farnostvb.cz/akce/2-predpoutova-brigada-za-kostelem/",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-c626f28e41",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Pouť 2026",
+   "start": "2026-08-16",
+   "end": "2026-08-16",
+   "allDay": true,
+   "url": "https://farnostvb.cz/akce/pout-2026/",
+   "description": "Bohoslužby na pouť :\n\nranní v 7:40 v kostele\n\nhrubá v 9:30 na louce za kostelem",
+   "recurring": false,
+   "categories": [
+    "pout"
+   ],
+   "tags": [
+    "pouť"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-6357bcdbaf",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Farní den",
+   "start": "2026-08-22T14:00",
+   "end": "2026-08-22T16:00",
+   "allDay": false,
+   "location": "farní dvůr a zahrada",
+   "url": "https://www.farnostzubri.cz/udalosti/farni-den-8/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/08/farni-den-24-724x1024.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-a5004d1f14",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Arcidiecézní pouť rodin Sv. Hostýn",
+   "start": "2026-08-29T10:15",
+   "end": "2026-08-29T12:15",
+   "allDay": false,
+   "location": "Svatý Hostýn",
+   "url": "https://www.farnostzubri.cz/udalosti/arcidiecezni-pout-rodin-sv-hostyn/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/07/2026-08-29-pout-rodin-hostyn-2026-724x1024.png",
+   "recurring": false,
+   "categories": [
+    "pout",
+    "rodina"
+   ],
+   "tags": [
+    "pouť"
+   ]
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
    "id": "rucne-c979bb59a3",
    "source": "rucne",
    "sources": [
@@ -1178,6 +2318,61 @@
    ],
    "tags": [
     "snoubenci"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-68d62a8ef6",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-09-14T18:00",
+   "end": "2026-09-14T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
+    "valmez"
+   ],
+   "id": "valmez-1ab1ef491f",
+   "source": "valmez",
+   "sources": [
+    "valmez"
+   ],
+   "title": "Slavnostní žehnání sochy Salvátora",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "allDay": true,
+   "location": "přístavba ZŠ Salvátor, Valašské Meziříčí",
+   "url": "https://farnost-valmez.cz/blog_clanek/informace-z-ekonomicke-rady-farnosti-26906",
+   "description": "V sobotu 19. září proběhlo slavnostní žehnání nově umístěné bronzové sochy Salvátora ve výklenku přístavby základní školy Salvátor.",
+   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/862_1790412748_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "slavnost",
+    "socha",
+    "září"
    ]
   },
   {
@@ -1204,6 +2399,56 @@
    ]
   },
   {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "zubri-f8ee9d533e",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Ekušpacír okolo Rožnova",
+   "start": "2026-09-20T15:00",
+   "end": "2026-09-20T17:00",
+   "allDay": false,
+   "url": "https://www.farnostzubri.cz/udalosti/ekuspacir-okolo-roznova/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/07/2026-09-20-ekuspacir-c-42026-724x1024.png",
+   "recurring": false,
+   "categories": [
+    "duchovni",
+    "deti"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "valmez-c1d82fe07b",
+   "source": "valmez",
+   "sources": [
+    "valmez"
+   ],
+   "title": "Klub maminek – setkání",
+   "start": "2026-09-21T09:00",
+   "end": "2026-09-21T11:00",
+   "allDay": false,
+   "location": "Na Fěře, Valašské Meziříčí",
+   "url": "https://farnost-valmez.cz/blog_clanek/klub-maminek-26791",
+   "description": "Setkání Klubu maminek v centru pro rodinu ve Valašském Meziříčí, určené pro maminky s dětmi, probíhá každou středu od 9 do 11 hodin.",
+   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/862_1789898281_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "rodina",
+    "deti"
+   ],
+   "tags": [
+    "klub maminek",
+    "setkání",
+    "centrum pro rodinu"
+   ]
+  },
+  {
    "organizers": [],
    "id": "svatky-ef5b7e5789",
    "source": "svatky",
@@ -1217,6 +2462,123 @@
    "recurring": false,
    "categories": [],
    "tags": []
+  },
+  {
+   "organizers": [
+    "charita"
+   ],
+   "id": "zubri-e422870dba",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Sbírka potravin pro Charitu",
+   "start": "2026-10-03T08:00",
+   "end": "2026-10-03T11:00",
+   "allDay": false,
+   "location": "fara Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/sbirka-potravin-pro-charitu/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/09/plakat-zubri-3-10-724x1024.png",
+   "recurring": false,
+   "categories": [
+    "charita"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "zubri-dd829ccf08",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Manželské večery",
+   "start": "2026-10-07T18:00",
+   "end": "2026-10-07T20:30",
+   "allDay": false,
+   "location": "TIP CAFÉ Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/manzelske-vecery/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/09/2026-10-manzelske-vecery-724x1024.png",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "rodina"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-06b5a8c8d1",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-10-12T18:00",
+   "end": "2026-10-12T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
+    "vb"
+   ],
+   "id": "vb-c3f7f50f52",
+   "source": "vb",
+   "sources": [
+    "vb"
+   ],
+   "title": "Posvícení",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "allDay": true,
+   "url": "https://farnostvb.cz/akce/posviceni-3/",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
+   "id": "zubri-a515f6c7cf",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Večer chval",
+   "start": "2026-10-24T18:00",
+   "end": "2026-10-24T20:00",
+   "allDay": false,
+   "location": "Kaple Sv. Ducha",
+   "url": "https://www.farnostzubri.cz/udalosti/vecer-chval-4/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/10/screenshot_20260930-213640-chrome2-728x1024.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "kaple"
+   ]
   },
   {
    "organizers": [],
@@ -1237,10 +2599,95 @@
    "organizers": [
     "zubri"
    ],
+   "id": "zubri-ec15bdabc4",
+   "source": "zubri",
+   "sources": [
+    "zubri"
+   ],
+   "title": "Přednáška Člověk a láska",
+   "start": "2026-11-07T09:00",
+   "end": "2026-11-07T14:30",
+   "allDay": false,
+   "location": "fara Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/prednaska-clovek-a-laska/",
+   "image": "https://www.farnostzubri.cz/content/uploads/2026/10/clovek-a-laska-2-1.png",
+   "recurring": false,
+   "categories": [
+    "vzdelavani"
+   ],
+   "tags": [
+    "mládež"
+   ]
+  },
+  {
+   "organizers": [
+    "hutisko"
+   ],
+   "id": "hutisko-cc02313647",
+   "source": "hutisko",
+   "sources": [
+    "hutisko"
+   ],
+   "title": "Biblická přednáška P. Bedřicha Horáka",
+   "start": "2026-11-07T18:45",
+   "end": "2026-11-07T20:45",
+   "allDay": false,
+   "location": "kostel, Rožnov",
+   "url": "https://www.farnosthutisko.cz/aktuality/",
+   "description": "Biblická přednáška P. Bedřicha Horáka po mši svaté v Rožnově.",
+   "recurring": false,
+   "categories": [
+    "vzdelavani"
+   ],
+   "tags": [
+    "přednáška",
+    "biblická"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-15b4a22c9f",
+   "source": "cpr",
+   "sources": [
+    "cpr",
+    "choryne"
+   ],
+   "title": "Ekuspacír č. 5/2026 na Zříceninu Šostýn",
+   "start": "2026-11-08T14:00",
+   "end": "2026-11-08T16:00",
+   "allDay": false,
+   "location": "parkoviště u koupaliště, Kopřivnice",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/545-eku%C5%A1pac%C3%ADr-%C4%8D-5-2028.html",
+   "description": "Ekuspacír č. 5/2026 na Zříceninu Šostýn, sraz 8. listopadu 2026 v 14 h na parkovišti u koupaliště v Kopřivnici, trasa 4 km.",
+   "image": "https://www.valmez.dcpr.cz/images/Ekupacr_5.jpg",
+   "recurring": false,
+   "categories": [
+    "pout",
+    "duchovni",
+    "deti"
+   ],
+   "tags": [
+    "ekuspacir",
+    "zřícenina šostýn",
+    "křesťanská pout",
+    "pout",
+    "rodina"
+   ],
+   "altTitles": [
+    "Ekušpacír"
+   ]
+  },
+  {
+   "organizers": [
+    "zubri"
+   ],
    "id": "rucne-39d79ef036",
    "source": "rucne",
    "sources": [
-    "rucne"
+    "rucne",
+    "zubri"
    ],
    "title": "Večerní souznění – Zubří",
    "start": "2026-11-14T17:00",
@@ -1251,7 +2698,62 @@
    "categories": [
     "kultura"
    ],
-   "tags": []
+   "tags": [],
+   "location": "Klub Zubří",
+   "url": "https://www.farnostzubri.cz/udalosti/vecerni-souzneni/",
+   "altTitles": [
+    "Večerní souznění"
+   ]
+  },
+  {
+   "organizers": [
+    "charita",
+    "hutisko"
+   ],
+   "id": "hutisko-be1cc14e95",
+   "source": "hutisko",
+   "sources": [
+    "hutisko"
+   ],
+   "title": "Sbírka na Charitu",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "allDay": true,
+   "url": "https://www.farnosthutisko.cz/aktuality/",
+   "description": "Charitativní sbírka na podporu pronásledovaných křesťanů, konaná v Hutisku.",
+   "recurring": false,
+   "categories": [
+    "charita"
+   ],
+   "tags": [
+    "charita",
+    "sbirka"
+   ]
+  },
+  {
+   "organizers": [
+    "hutisko"
+   ],
+   "id": "hutisko-1244df3b88",
+   "source": "hutisko",
+   "sources": [
+    "hutisko"
+   ],
+   "title": "Týden modliteb za mládež",
+   "start": "2026-11-15",
+   "end": "2026-11-22",
+   "allDay": true,
+   "url": "https://www.farnosthutisko.cz/aktuality/",
+   "description": "Týden modliteb za mládež proběhne od 15. do 22. listopadu.",
+   "recurring": false,
+   "categories": [
+    "duchovni",
+    "deti"
+   ],
+   "tags": [
+    "modlitby",
+    "mládež"
+   ]
   },
   {
    "organizers": [],
@@ -1293,6 +2795,64 @@
   },
   {
    "organizers": [
+    "roznov",
+    "hutisko"
+   ],
+   "id": "roznov-609d64ac14",
+   "source": "roznov",
+   "sources": [
+    "roznov",
+    "hutisko"
+   ],
+   "title": "Modlitba chval",
+   "start": "2026-11-20T18:45",
+   "end": "2026-11-20T20:45",
+   "allDay": false,
+   "location": "Rožnov, farní kostel",
+   "url": "https://farnostroznov.cz/udalost_detail.php?id=420559",
+   "description": "Po mši svaté od 18:00 hodin bude následovat Večer chval. Přijďte, budete vítáni!",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "chval",
+    "večer"
+   ],
+   "altTitles": [
+    "Večer chval"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-d935172c6d",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-11-23T18:00",
+   "end": "2026-11-23T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
+   ]
+  },
+  {
+   "organizers": [
     "roznov"
    ],
    "id": "roznov-5b9be058ab",
@@ -1316,28 +2876,93 @@
   },
   {
    "organizers": [
-    "roznov"
+    "valmez"
    ],
-   "id": "roznov-bdcf20b031",
-   "source": "roznov",
+   "id": "valmez-7b38688c00",
+   "source": "valmez",
    "sources": [
+    "valmez"
+   ],
+   "title": "Adventní duchovní obnova",
+   "start": "2026-11-28T13:30",
+   "end": "2026-11-28T20:00",
+   "allDay": false,
+   "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+   "url": "https://farnost-valmez.cz/blog_clanek/adventni-duchovni-obnova-27902",
+   "description": "Adventní duchovní obnova s o. Michaelem Špilarem, která zahrnuje promluvy, modlitby a společnou večeři, se koná v sobotu 28. listopadu 2026. Pro děti je zajištěno hlídání od 13:15 do 16:30.",
+   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/183_1794337894_848x477.png",
+   "recurring": false,
+   "categories": [
+    "duchovni",
+    "deti"
+   ],
+   "tags": [
+    "advent",
+    "spiritualita",
+    "hlídání"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr",
+    "zubri",
     "roznov"
    ],
-   "title": "Duchovní obnova pro ženy",
+   "id": "cpr-457488c435",
+   "source": "cpr",
+   "sources": [
+    "cpr",
+    "zubri",
+    "roznov"
+   ],
+   "title": "Adventní duchovní obnova pro ženy",
    "start": "2026-12-05T09:00",
    "end": "2026-12-05T16:00",
    "allDay": false,
-   "location": "Zašová",
-   "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-zeny-10823",
+   "location": "fara Zašová",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adventn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro ženy\nCentrum pro rodinu Valašské Meziříčí vás zve na\nADVENTNÍ DUCHOVNÍ OBNOVU\nPRO ŽENY\n\"V mých očích jsi drahá a vzácná\"",
-   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1794081660.jpg",
+   "image": "https://www.valmez.dcpr.cz/images/DUCHOVN_OBNOVA_PRO_ENY_2026_2_1_1.png",
    "recurring": false,
    "categories": [
     "duchovni",
     "rodina"
    ],
    "tags": [
-    "advent"
+    "advent",
+    "obnova",
+    "ženy"
+   ],
+   "altTitles": [
+    "Duchovní obnova pro ženy"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-4b5cc56b69",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Biblické tance",
+   "start": "2026-12-14T18:00",
+   "end": "2026-12-14T20:00",
+   "allDay": false,
+   "location": "Společenská místnost CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+   "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "vzdelavani"
+   ],
+   "tags": [
+    "biblické tance",
+    "tance",
+    "2026"
    ]
   },
   {
@@ -1405,6 +3030,60 @@
    "tags": []
   },
   {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "choryne-88f5e016dd",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Příprava snoubenců",
+   "start": "2027-02-02T18:30",
+   "end": "2027-02-02T20:30",
+   "allDay": false,
+   "location": "fara Valašské Meziříčí",
+   "url": "https://www.farnost-choryne.cz/clanek/311",
+   "description": "Kurz přípravy snoubenců v rámci děkanátu, koná se v 18:30–20:30 v farní kostele Valašské Meziříčí.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "rodina"
+   ],
+   "tags": [
+    "snoubenci",
+    "priprava",
+    "2027"
+   ]
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-061ba4956c",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Společná kající bohoslužba",
+   "start": "2027-02-12",
+   "end": "2027-02-12",
+   "allDay": true,
+   "url": "https://www.farnostroznov.cz/blog_clanek/250-let-olomoucke-arcidieceze-27831",
+   "description": "Společná kající bohoslužba v rámci jubilejního roku olomoucké arcidiecéze, konaná v pátek 12. února 2027.",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/blog/906_1794080326_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "bohoslužba",
+    "jubilej",
+    "2027"
+   ]
+  },
+  {
    "organizers": [],
    "id": "svatky-9d3d463470",
    "source": "svatky",
@@ -1467,6 +3146,34 @@
    "tags": []
   },
   {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "choryne-aa5c3f5775",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Příprava snoubenců",
+   "start": "2027-05-15T13:30",
+   "end": "2027-05-15T18:30",
+   "allDay": false,
+   "location": "fara Valašské Meziříčí",
+   "url": "https://www.farnost-choryne.cz/clanek/311",
+   "description": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 13:30–18:30 v farní kostele.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "rodina"
+   ],
+   "tags": [
+    "snoubenci",
+    "priprava",
+    "2027"
+   ]
+  },
+  {
    "organizers": [],
    "id": "svatky-fe7619c8f5",
    "source": "svatky",
@@ -1495,6 +3202,34 @@
    "recurring": false,
    "categories": [],
    "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "choryne-ff4c2d4adf",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Příprava snoubenců",
+   "start": "2027-09-02T18:30",
+   "end": "2027-09-02T20:30",
+   "allDay": false,
+   "location": "fara Valašské Meziříčí",
+   "url": "https://www.farnost-choryne.cz/clanek/311",
+   "description": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 18:30–20:30 v farní kostele.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "rodina"
+   ],
+   "tags": [
+    "snoubenci",
+    "priprava",
+    "2027"
+   ]
   },
   {
    "organizers": [],

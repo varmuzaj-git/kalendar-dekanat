@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Prague
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:rucne-1d72c4fced@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251119T170000Z
 DTEND:20251119T190000Z
 SUMMARY:Manželské večery (Zubří)
@@ -17,7 +17,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-4230546015@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251122T080000Z
 DTEND:20251122T140000Z
 SUMMARY:Děkanátní turnaj ve florbale (Kelč)
@@ -26,7 +26,7 @@ CATEGORIES:deti
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-4abecee1ca@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251123T160000Z
 DTEND:20251123T180000Z
 SUMMARY:Koncert chval Scholy brněnské mládeže
@@ -38,7 +38,7 @@ CATEGORIES:kultura,duchovni,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-b990ca9cc4@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251129T080000Z
 DTEND:20251129T150000Z
 SUMMARY:Adventní duchovní obnova pro ženy
@@ -53,7 +53,7 @@ CATEGORIES:duchovni,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a946d82f62@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251203T090000Z
 DTEND:20251203T110000Z
 SUMMARY:Přednáška Piero Coda – Třetí fáze synodálního procesu
@@ -67,7 +67,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-1486a39ca2@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20251204T170000Z
 DTEND:20251204T183000Z
 SUMMARY:Adventní ekumenické setkání (Rožnov)
@@ -76,8 +76,20 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
+UID:zubri-156aa1c8ff@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20251213T150000Z
+DTEND:20251213T170000Z
+SUMMARY:Adventní koncert
+LOCATION:kostel sv. Kateřiny
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/adventni-koncert-5/\n\nZd
+ roj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/adventni-koncert-5/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-a4954bad30@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251224
 SUMMARY:Vánoční zpovídání 2025 (děkanát – rozpis)
@@ -85,8 +97,104 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
+UID:vidce-7ce991bdaa@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:Předvánoční zpovídání
+DESCRIPTION:https://www.farnostvidce.cz/udalosti/predvanocni-zpovidani-3/\
+ n\nZdroj: Farnost Vidče
+URL:https://www.farnostvidce.cz/udalosti/predvanocni-zpovidani-3/
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-f540effae7@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Vánoční zpovídání 2025
+DESCRIPTION:https://farnostvb.cz/akce/vanocni-zpovidani-2025/\n\nZdroj: Fa
+ rnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/vanocni-zpovidani-2025/
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-d681e94396@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20251225T140000Z
+DTEND:20251225T150000Z
+SUMMARY:Vánoční varhanní koncert
+DESCRIPTION:https://farnostvb.cz/akce/vanocni-varhanni-koncert/\n\nZdroj: 
+ Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/vanocni-varhanni-koncert/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-b6bfca4191@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20251228T150000Z
+DTEND:20251228T163000Z
+SUMMARY:Vánoční koncert
+LOCATION:Kostel sv. Kateřiny
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/vanocni-koncert-5/\n\nZdr
+ oj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/vanocni-koncert-5/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-6a16575a08@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260102T170000Z
+DTEND:20260102T180000Z
+SUMMARY:Nad horama vyšla hvězda – scholička
+DESCRIPTION:https://farnostvb.cz/akce/nad-horama-vysla-hvezda-scholicka/\n
+ \nZdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/nad-horama-vysla-hvezda-scholicka/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-a68078265d@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Tříkrálová sbírka 2026
+DESCRIPTION:V naší farnosti bude tříkrálová sbírka probíhat v pátek 9. led
+ na 2026.\n\nKoordinátorem pro naši farnost je Marie Hruškovská.\n\nhttps:
+ //farnostvb.cz/akce/trikralova-sbirka-2026/\n\nZdroj: Farnost Valašská By
+ střice
+URL:https://farnostvb.cz/akce/trikralova-sbirka-2026/
+CATEGORIES:charita
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-5e5adde841@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Tříkrálová sbírka
+LOCATION:Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/trikralova-sbirka-5/\n\nZ
+ droj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/trikralova-sbirka-5/
+CATEGORIES:charita
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-da18618bd9@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260112T170000Z
+DTEND:20260112T190000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-93226c9ae1@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260113T170000Z
 DTEND:20260113T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -95,7 +203,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-06d862e5b5@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260120T170000Z
 DTEND:20260120T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -104,7 +212,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-4639e47ce6@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260127T170000Z
 DTEND:20260127T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -113,7 +221,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-5b55ec010e@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260202T173000Z
 DTEND:20260202T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -122,7 +230,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-8c66d30539@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260203T170000Z
 DTEND:20260203T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -131,7 +239,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-db2bd7c4af@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260209T173000Z
 DTEND:20260209T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -140,7 +248,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-50f4363e7b@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260210T170000Z
 DTEND:20260210T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -148,8 +256,23 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
+UID:cpr-6f788b023c@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260216T160000Z
+DTEND:20260216T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-3ac57d2036@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260216T173000Z
 DTEND:20260216T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -158,7 +281,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a6b5f8b543@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260217T170000Z
 DTEND:20260217T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -167,7 +290,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-fcdb7c28ea@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -176,7 +299,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-064f47a4c7@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260224T170000Z
 DTEND:20260224T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -185,7 +308,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-f26983254a@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -193,8 +316,20 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
+UID:vidce-3bdbf6cf3b@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260307T150000Z
+DTEND:20260307T180000Z
+SUMMARY:Postní duchovní obnova
+LOCATION:Zubří
+DESCRIPTION:https://www.farnostvidce.cz/udalosti/postni-duchovni-obnova/\n
+ \nZdroj: Farnost Vidče\, Farnost Zubří
+URL:https://www.farnostvidce.cz/udalosti/postni-duchovni-obnova/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-a086ee60a8@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -202,8 +337,50 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
+UID:roznov-899fa10c9b@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260313T230000Z
+DTEND:20260314T010000Z
+SUMMARY:Duchovní obnova pro muže
+LOCATION:Zašová
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu
+ chovní obnova pro muže\nPOSTNÍ DUCHOVNÍ\nOBNOVA PRO MUŽE\nTéma: BOŽÍ PŘÍT
+ OMNOST V MÉM ŽIVOTĚ\nPovede: o. JAN MACH\n14. března 2026\n\nhttps://www.
+ farnostroznov.cz/oznameni/duchovni-obnova-pro-muze-8627\n\nZdroj: Farnost
+  Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-muze-8627
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:vidce-505388a111@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260315T140000Z
+DTEND:20260315T143000Z
+SUMMARY:Dětská křížová cesta
+DESCRIPTION:https://www.farnostvidce.cz/udalosti/detska-krizova-cesta/\n\n
+ Zdroj: Farnost Vidče
+URL:https://www.farnostvidce.cz/udalosti/detska-krizova-cesta/
+CATEGORIES:duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-3ca1570eb3@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260316T170000Z
+DTEND:20260316T190000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-85a07f3716@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260317T170000Z
 DTEND:20260317T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -211,8 +388,50 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
+UID:zubri-0d888fb50d@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260318T151500Z
+DTEND:20260318T190000Z
+SUMMARY:Setkání s P. Františkem Králem Z MSH
+LOCATION:kostel a fara v Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/setkani-s-p-frantiskem-kr
+ alem-z-msh/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/setkani-s-p-frantiskem-kralem-z-m
+ sh/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-9945077e8d@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260319T160000Z
+DTEND:20260319T180000Z
+SUMMARY:Setkání příznivců Mary's Meals v Bystřici p. Hostýnem
+LOCATION:ŘK farnost Bystřice pod Hostýnem
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/setkani-priznivcu-marys-m
+ eals-v-bystrici-p-h/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/setkani-priznivcu-marys-meals-v-b
+ ystrici-p-h/
+CATEGORIES:charita
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-73bcf52f89@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Duchovní obnova pro dívky
+LOCATION:Kelč
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu
+ chovní obnova pro dívky\n\n\n\n\nDuchovní obnovu pro dívky pořádá Cent
+ rum pro rodinu od 20. do 22. března v Kelči.\n\nhttps://www.farnostroznov
+ .cz/oznameni/duchovni-obnova-pro-divky-8468\n\nZdroj: Farnost Rožnov pod 
+ Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-divky-8468
+CATEGORIES:duchovni,rodina
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-e8b29a63c6@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260401
 SUMMARY:Velikonoční zpovídání 2026
@@ -220,17 +439,57 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
+UID:vb-2c21dc1988@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260327T120000Z
+DTEND:20260327T160000Z
+SUMMARY:Velikonoční zpovídání
+LOCATION:Farní kostel ve Valašské Bystřici
+DESCRIPTION:P. Stanislav Matyáš (13:10-15:00) v zákristii\n\nP. Pavel Jomb
+ ík (13:10-15:00) ve zpovědnici\n\nP. Bedřich Horák (15:00-17:00) ve zpově
+ dnici\n\na P. Jan Vláčil 13:20-16:50 na faře\, pak 17:00-17:20 a po mši s
+ v. ve zpovědnici.\n\nhttps://farnostvb.cz/akce/velikonocni-zpovidani/\n\n
+ Zdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/velikonocni-zpovidani/
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-e4481496d9@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260328T130000Z
+DTEND:20260328T150000Z
+SUMMARY:Putovní Křižova cesta
+LOCATION:od kostela ke kříži na Nivách
+DESCRIPTION:Pojďte s námi vyrazit na trochu jinou křížovou cestu.\n\nTrasa
+ \n\nhttps://www.farnostzubri.cz/udalosti/putovni-krizova-cesta/\n\nZdroj:
+  Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/putovni-krizova-cesta/
+CATEGORIES:pout,duchovni
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-e1d558fdf0@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 SUMMARY:Marek Orko Vácha – Umění Žít – Valašská Bystřice
-DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+LOCATION:Společenský dům U Pernických
+DESCRIPTION:Marek Orko Vácha – katolický kněz\, teolog\, molekulární biolo
+ g\, pedagog\, spisovatel a skaut.\n\nZveme vás na jeho přenášku s názvem 
+ Umění žít\n\nČlověk je zrozen\, aby žil\, a ne aby se připravoval na živo
+ t. A život sám\, je něco důležitějšího\, něco opojnějšího? Jaká je tedy o
+ dpovědnost člověka za jeho životní příběh? Je třeba s pokorou přijmout vl
+ astní velikost\, dojít k poznání že symfonie\, které nenapíšeme my\, nevz
+ niknou nikdy… obrazy\, které nenamalujeme my\, nebudou nikdy … a dobré pr
+ ojekty\, které neuvedeme v život my\, také nebudou nikdy.\n\nPo přednášce
+  (cca 90 minut) bude následovat krátká diskuse\,…\n\nhttps://farnostvb.cz
+ /akce/prednaska-umeni-zit-marek-orko-vacha/\n\nZdroj: Akce zadané na deka
+ natvalmez.cz\, Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/prednaska-umeni-zit-marek-orko-vacha/
 CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-0b97c9f597@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260411T113000Z
 DTEND:20260411T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -240,7 +499,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a9d99edd80@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260412T130000Z
 DTEND:20260412T143000Z
 SUMMARY:Benefiční hudební odpoledne s Václavem Hudečkem – 12. 4. 2026 od 1
@@ -257,17 +516,54 @@ DESCRIPTION:Benefiční hudební odpoledne s Václavem Hudečkem\n\n\n\nSrdečn�
 CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:roznov-8e45866c97@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260416T073000Z
+DTEND:20260416T083000Z
+SUMMARY:Podvody a bezpečnost seniorů v současné době
+LOCATION:fara Valašské Meziříčí
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPo
+ dvody a bezpečnost seniorů v současné době\nPODVODY\nA BEZPEČNOST\nSENIOR
+ Ů V SOUČASNÉ\nDOBĚ\n\nhttps://www.farnostroznov.cz/oznameni/podvody-a-bez
+ pecnost-senioru-v-soucasne-dobe-8962\n\nZdroj: Farnost Rožnov pod Radhošt
+ ěm
+URL:https://www.farnostroznov.cz/oznameni/podvody-a-bezpecnost-senioru-v-s
+ oucasne-dobe-8962
+CATEGORIES:seniori,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-78a7a9769b@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Děkanátní pouť v Zašové
-DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
-CATEGORIES:pout
+LOCATION:Zašová
+DESCRIPTION:Děkanátní pouť za obnovu rodin a kněžská povolání za účasti ot
+ ce arcibiskupa Josefa Nuzíka.\n\nhttps://www.farnostzubri.cz/udalosti/dek
+ anatni-pout-v-zasove/\n\nZdroj: Akce zadané na dekanatvalmez.cz\, Farnost
+  Zubří
+URL:https://www.farnostzubri.cz/udalosti/dekanatni-pout-v-zasove/
+CATEGORIES:pout,duchovni,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-dc8b04ac93@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260420T160000Z
+DTEND:20260420T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-e885000265@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:Přednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)
@@ -283,7 +579,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-1bb2c7ca8e@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260425T113000Z
 DTEND:20260425T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -292,8 +588,117 @@ DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
 CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
+UID:vidce-78e19f831a@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260426T120000Z
+DTEND:20260426T140000Z
+SUMMARY:Žehnání polí
+DESCRIPTION:https://www.farnostvidce.cz/udalosti/zehnani-poli/\n\nZdroj: F
+ arnost Vidče
+URL:https://www.farnostvidce.cz/udalosti/zehnani-poli/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-ccb666f7d7@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Otevřené brány
+LOCATION:https://otevrenebrany.cz/kostel-vsech-svatych
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOt
+ evřené brány\n\n\nChcete se dozvědět něco o historii kostela Všech svat
+ ých? Přijďte\, naši průvodci jsou připraveni.\n\nProhlídky:\n\nkvěten\, z
+ áří: sobota 9.00 - 16.00\, neděle 12.00 - 16.00\n\nčerven\, červenec\, sr
+ pen: úterý - sobota 9.00 - 16.00\, neděle 12.00 - 16.00\, státní svátky n
+ epřipadající na neděli 9:00 - 16:00\n\n-- OTEVŘENÉ BRÁNY\n\nhttps://www.f
+ arnostroznov.cz/oznameni/otevrene-brany-9743\n\nZdroj: Farnost Rožnov pod
+  Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/otevrene-brany-9743
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-24776e9a2a@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260509T120000Z
+DTEND:20260509T140000Z
+SUMMARY:Duchovní obnova s indickým misionářem v Zašové
+LOCATION:kostel v Zašové
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/duchovni-obnova-s-indicky
+ m-misionarem-v-zasove/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/duchovni-obnova-s-indickym-mision
+ arem-v-zasove/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-486df2ec66@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260516T060000Z
+DTEND:20260516T160000Z
+SUMMARY:Křesťan v digitálním světě
+LOCATION:Velehrad
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKř
+ esťan v digitálním světě\n\n\nHledáte inspiraci\, povzbuzení a nový poh
+ led na to\, jak žít víru v moderním světě? Konference Křesťan v digitální
+ m světě přináší jedinečné propojení víry\, inspirace a technologií na jed
+ nom místě.\n\nSetkáte se s lidmi\, kteří chtějí růst – lidsky\, profesně
+  i duchovně. Uslyšíte silný příběh\, získáte praktické podněty a objevíte
+ \, jak se v digitální době neztratit\, ale naopak v ní najít pevný směr.\
+ n\nCo vás čeká\n\n\ninspirativní řečníci\n\ntémata o víře\, AI\, digi
+ tálním…\n\nhttps://www.farnostroznov.cz/oznameni/krestan-v-digitalnim-sve
+ te-8961\n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/krestan-v-digitalnim-svete-8961
+CATEGORIES:vzdelavani,duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-b6a3c34c76@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260518T160000Z
+DTEND:20260518T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-2462922e04@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+SUMMARY:Setkání nad 2. pilířem PROPOJENI – téma 2 a 3
+DESCRIPTION:bude ve středu 20. 5. v 18:00 na faře\n\n2. TÉMA – DUCHOVNÍ RŮ
+ ST\n\n2. pilíř – Brožura pro členy skupinek – 2. téma\n\n2. pilíř – Předs
+ tavení tématu – 2. téma – video online\n\n3. TÉMA – SPRÁVA FARNOSTI\n\n2.
+  pilíř – Brožura pro členy skupinek – 3. téma\n\n2. pilíř – Představení t
+ ématu – 3. téma – video online\n\nhttps://farnostvb.cz/akce/setkani-nad-2
+ -pilirem-propojeni-cast-2-a-3/\n\nZdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/setkani-nad-2-pilirem-propojeni-cast-2-a-3/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-e30a58c84c@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260521T073000Z
+DTEND:20260521T133000Z
+SUMMARY:2. Moravská pouť seniorů
+LOCATION:Svatý Hostýn
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.
+  Moravská pouť seniorů\n2. Moravská pouť seniorů\nna Svatém Hostýně\n21. 
+ 5. 2026\nPROGRAM :\n\nhttps://www.farnostroznov.cz/oznameni/2-moravska-po
+ ut-senioru-9024\n\nZdroj: Farnost Rožnov pod Radhoštěm\, Farnost Zubří
+URL:https://www.farnostroznov.cz/oznameni/2-moravska-pout-senioru-9024
+CATEGORIES:pout,seniori,rodina
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-fa2ab03a8d@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260523T113000Z
 DTEND:20260523T163000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -302,8 +707,62 @@ DESCRIPTION:Fara - vždy 2 lekce za sebou.\n\nZdroj: Akce zadané na dekanat
 CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
+UID:roznov-3411e089af@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260526T160000Z
+DTEND:20260526T173000Z
+SUMMARY:Musica Priboriensis Příbor - koncert
+LOCATION:kostel Všech svatých\, Rožnov p. R.
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMu
+ sica Priboriensis Příbor - koncert\nMUSICA PRIBORIENSIS\nPŘÍBOR\nÚterý 26
+ . 5. 2026 v 18 h\nKOSTEL VŠECH SVATÝCH\, R. P. R.\nKONCERT\nPĚVECKÉHO SBO
+ RU\nMUSICA PRIBORIENSIS\nPAVEL RYBKÁ - varhany\nJéčko\n\nhttps://www.farn
+ ostroznov.cz/oznameni/musica-priboriensis-pribor-koncert-9377\n\nZdroj: F
+ arnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/musica-priboriensis-pribor-konce
+ rt-9377
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-d9b25497eb@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260529T150000Z
+DTEND:20260529T160000Z
+SUMMARY:Hostina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice
+LOCATION:Galerie Kostnice
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHo
+ stina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice\n\n\nTéč
+ ko ve spolupráci s Římskokatolickou farností a Iskérkou si vás dovolují p
+ ozvat na vernisáž výstavy v Galerii Kostnice.\n\nOtevírací doba: úterý -
+  sobota: 10:00 - 16:00\, neděle: 11:00 - 15:00\nVýstavu můžete navštívit 
+ do 12. 7. 2026.\nVstupné dobrovolné.\n\nhttps://www.farnostroznov.cz/ozna
+ meni/hostina-vernisaz-vystavy-veroniky-richterove-v-galerii-kostnice-9378
+ \n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/hostina-vernisaz-vystavy-veronik
+ y-richterove-v-galerii-kostnice-9378
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-0f0a6ed79c@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Hostina: Veronika Richterová
+LOCATION:Galerie Kostnice
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHo
+ stina: Veronika Richterová\nGALERIE\nKOSTNICE\n30. 5. - 12. 7. 2026\nHOST
+ INA\nVERONIKA RICHTEROVÁ\nVýstava probíhá v Galerii Kostnice\nve farské z
+ ahradě v Rožnově pod Radhoštěm\n\nhttps://www.farnostroznov.cz/oznameni/h
+ ostina-veronika-richterova-9684\n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/hostina-veronika-richterova-9684
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-e43b8f3d1c@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260530T113000Z
 DTEND:20260530T163000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -313,16 +772,110 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-9f36451eee@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260531T120000Z
 DTEND:20260531T140000Z
 SUMMARY:Děkanátní setkání rodin Zašová
-DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+LOCATION:Zašová
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDě
+ kanátní setkání rodin\nDĚKÁNÁTNÍ\nSETKÁNÍ RODIN\nZAŠOVÁ\n\nhttps://www.fa
+ rnostroznov.cz/oznameni/dekanatni-setkani-rodin-9381\n\nZdroj: Akce zadan
+ é na dekanatvalmez.cz\, Farnost Rožnov pod Radhoštěm\, Farnost Zubří
+URL:https://www.farnostroznov.cz/oznameni/dekanatni-setkani-rodin-9381
 CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
+UID:vb-667f498762@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260603T150000Z
+DTEND:20260603T163000Z
+SUMMARY:Zpovídání pro děti jdoucí k 1. sv. přijímání a jejich rodiče
+LOCATION:Farní kostel ve Valašské Bystřici
+DESCRIPTION:https://farnostvb.cz/akce/zpovidani-pro-deti-jdouci-k-1-sv-pri
+ jimani-a-jejich-rodice/\n\nZdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/zpovidani-pro-deti-jdouci-k-1-sv-prijimani-a
+ -jejich-rodice/
+CATEGORIES:vzdelavani,deti,zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-d844757468@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260606T054500Z
+DTEND:20260606T170000Z
+SUMMARY:Farní zájezd
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/farni-zajezd/\n\nZdroj: F
+ arnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/farni-zajezd/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-a0b3552412@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260607T130000Z
+DTEND:20260607T180000Z
+SUMMARY:Farní den
+LOCATION:kostel Všech svatých a farní zahrada
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFa
+ rní den\nFARNÍ DEN\nNEDĚLE 7. ČERVNA 2026\n\nhttps://www.farnostroznov.cz
+ /oznameni/farni-den-9380\n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/farni-den-9380
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:vidce-e6a4b730e2@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260614T120000Z
+DTEND:20260614T140000Z
+SUMMARY:Farní den
+LOCATION:dvůr fary
+DESCRIPTION:https://www.farnostvidce.cz/udalosti/farni-den/\n\nZdroj: Farn
+ ost Vidče
+URL:https://www.farnostvidce.cz/udalosti/farni-den/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-3ffcc4bf8b@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-f910eb3009@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260621T140000Z
+DTEND:20260621T160000Z
+SUMMARY:Letní koncert
+LOCATION:Zubří\, farní kostel sv. Kateřiny
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/koncert-4/\n\nZdroj: Farn
+ ost Zubří
+URL:https://www.farnostzubri.cz/udalosti/koncert-4/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-ff0135d8f8@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260621T140000Z
+DTEND:20260621T170000Z
+SUMMARY:Táborák
+DESCRIPTION:https://farnostvb.cz/akce/taborak/\n\nZdroj: Farnost Valašská 
+ Bystřice
+URL:https://farnostvb.cz/akce/taborak/
+CATEGORIES:rodina,deti
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-52677885b6@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260706
 SUMMARY:Zašovská pouť
@@ -330,8 +883,123 @@ DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
 CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
+UID:roznov-7eed15e972@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Gabriela Nováková: Nad hladinou a pod hladinou země
+LOCATION:Galerie Kostnice
+DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
+ \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGa
+ briela Nováková: Nad hladinou a pod hladinou země\nGALERIE\nKOSTNICE\n18.
+  7. - 16. 8. 2026\nNAD HLADINOU\nA POD HLADINOU ZEMĚ\nGABRIELA NOVÁKOVÁ\n
+ Výstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radho
+ štěm\n\nhttps://www.farnostroznov.cz/oznameni/gabriela-novakova-nad-hladi
+ nou-a-pod-hladinou-zeme-9685\n\nZdroj: Farnost Rožnov pod Radhoštěm
+URL:https://www.farnostroznov.cz/oznameni/gabriela-novakova-nad-hladinou-a
+ -pod-hladinou-zeme-9685
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-71ff581350@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260725T090000Z
+DTEND:20260725T110000Z
+SUMMARY:Pouť na Radhošť
+LOCATION:Kaple sv. Cyrila a Metoděje na Radhošti
+DESCRIPTION:Tradiční pouť farností Zubří a Vidče.\n\nMše svatá v 11 hod v 
+ kapli sv. Cyrila a Metoděje.\n\nhttps://www.farnostzubri.cz/udalosti/pout
+ -na-radhost/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/pout-na-radhost/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-6fc4b66840@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260727T153000Z
+DTEND:20260727T173000Z
+SUMMARY:Pestrost hudby v Kapli sv. Ducha
+LOCATION:Kaple Sv. Ducha\, Staré Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/pestrost-hudby-v-kapli-sv
+ -ducha/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/pestrost-hudby-v-kapli-sv-ducha/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-6b153383a6@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260804T051500Z
+DTEND:20260804T071500Z
+SUMMARY:Pouť na Svatý Hostýn
+LOCATION:Svatý Hostýn
+DESCRIPTION:Sraz v 7:15 hod pod kostelem.\n\nOdjezd v 7:20 hod.\n\nhttps:/
+ /www.farnostzubri.cz/udalosti/pout-na-svaty-hostyn/\n\nZdroj: Farnost Zub
+ ří
+URL:https://www.farnostzubri.cz/udalosti/pout-na-svaty-hostyn/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-bf187751eb@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260805T160000Z
+DTEND:20260805T180000Z
+SUMMARY:1. předpouťová brigáda za kostelem
+DESCRIPTION:https://farnostvb.cz/akce/1-predpoutova-brigada-za-kostelem/\n
+ \nZdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/1-predpoutova-brigada-za-kostelem/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-bf011aaefd@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260813T160000Z
+DTEND:20260813T180000Z
+SUMMARY:2. předpouťová brigáda za kostelem
+DESCRIPTION:https://farnostvb.cz/akce/2-predpoutova-brigada-za-kostelem/\n
+ \nZdroj: Farnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/2-predpoutova-brigada-za-kostelem/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-c626f28e41@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Pouť 2026
+DESCRIPTION:Bohoslužby na pouť :\n\nranní v 7:40 v kostele\n\nhrubá v 9:30
+  na louce za kostelem\n\nhttps://farnostvb.cz/akce/pout-2026/\n\nZdroj: F
+ arnost Valašská Bystřice
+URL:https://farnostvb.cz/akce/pout-2026/
+CATEGORIES:pout
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-6357bcdbaf@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:Farní den
+LOCATION:farní dvůr a zahrada
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/farni-den-8/\n\nZdroj: Fa
+ rnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/farni-den-8/
+CATEGORIES:kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-a5004d1f14@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260829T081500Z
+DTEND:20260829T101500Z
+SUMMARY:Arcidiecézní pouť rodin Sv. Hostýn
+LOCATION:Svatý Hostýn
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/arcidiecezni-pout-rodin-s
+ v-hostyn/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/arcidiecezni-pout-rodin-sv-hostyn
+ /
+CATEGORIES:pout,rodina
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-c979bb59a3@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260912T113000Z
 DTEND:20260912T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -340,8 +1008,38 @@ DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
 CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
+UID:cpr-68d62a8ef6@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:valmez-1ab1ef491f@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Slavnostní žehnání sochy Salvátora
+LOCATION:přístavba ZŠ Salvátor\, Valašské Meziříčí
+DESCRIPTION:V sobotu 19. září proběhlo slavnostní žehnání nově umístěné br
+ onzové sochy Salvátora ve výklenku přístavby základní školy Salvátor.\n\n
+ https://farnost-valmez.cz/blog_clanek/informace-z-ekonomicke-rady-farnost
+ i-26906\n\nZdroj: Farnosti Valašské Meziříčí a Lešná
+URL:https://farnost-valmez.cz/blog_clanek/informace-z-ekonomicke-rady-farn
+ osti-26906
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-53411b7626@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20260919T113000Z
 DTEND:20260919T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -350,17 +1048,172 @@ DESCRIPTION:Pastorační centrum - vždy 2 lekce za sebou.\n\nZdroj: Akce zad
 CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
+UID:zubri-f8ee9d533e@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Ekušpacír okolo Rožnova
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/ekuspacir-okolo-roznova/\
+ n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/ekuspacir-okolo-roznova/
+CATEGORIES:duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:valmez-c1d82fe07b@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20260921T070000Z
+DTEND:20260921T090000Z
+SUMMARY:Klub maminek – setkání
+LOCATION:Na Fěře\, Valašské Meziříčí
+DESCRIPTION:Setkání Klubu maminek v centru pro rodinu ve Valašském Meziříč
+ í\, určené pro maminky s dětmi\, probíhá každou středu od 9 do 11 hodin.\
+ n\nhttps://farnost-valmez.cz/blog_clanek/klub-maminek-26791\n\nZdroj: Far
+ nosti Valašské Meziříčí a Lešná
+URL:https://farnost-valmez.cz/blog_clanek/klub-maminek-26791
+CATEGORIES:rodina,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-e422870dba@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261003T060000Z
+DTEND:20261003T090000Z
+SUMMARY:Sbírka potravin pro Charitu
+LOCATION:fara Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/sbirka-potravin-pro-chari
+ tu/\n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/sbirka-potravin-pro-charitu/
+CATEGORIES:charita
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-dd829ccf08@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261007T160000Z
+DTEND:20261007T183000Z
+SUMMARY:Manželské večery
+LOCATION:TIP CAFÉ Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/manzelske-vecery/\n\nZdro
+ j: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/manzelske-vecery/
+CATEGORIES:vzdelavani,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-06b5a8c8d1@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261012T160000Z
+DTEND:20261012T180000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:vb-c3f7f50f52@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Posvícení
+DESCRIPTION:https://farnostvb.cz/akce/posviceni-3/\n\nZdroj: Farnost Valaš
+ ská Bystřice
+URL:https://farnostvb.cz/akce/posviceni-3/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-a515f6c7cf@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Večer chval
+LOCATION:Kaple Sv. Ducha
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/vecer-chval-4/\n\nZdroj: 
+ Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/vecer-chval-4/
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:zubri-ec15bdabc4@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261107T080000Z
+DTEND:20261107T133000Z
+SUMMARY:Přednáška Člověk a láska
+LOCATION:fara Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/prednaska-clovek-a-laska/
+ \n\nZdroj: Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/prednaska-clovek-a-laska/
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:hutisko-cc02313647@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261107T174500Z
+DTEND:20261107T194500Z
+SUMMARY:Biblická přednáška P. Bedřicha Horáka
+LOCATION:kostel\, Rožnov
+DESCRIPTION:Biblická přednáška P. Bedřicha Horáka po mši svaté v Rožnově.\
+ n\nhttps://www.farnosthutisko.cz/aktuality/\n\nZdroj: Farnost Hutisko-Sol
+ anec
+URL:https://www.farnosthutisko.cz/aktuality/
+CATEGORIES:vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-15b4a22c9f@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:Ekuspacír č. 5/2026 na Zříceninu Šostýn
+LOCATION:parkoviště u koupaliště\, Kopřivnice
+DESCRIPTION:Ekuspacír č. 5/2026 na Zříceninu Šostýn\, sraz 8. listopadu 20
+ 26 v 14 h na parkovišti u koupaliště v Kopřivnici\, trasa 4 km.\n\nhttps:
+ //www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/545-eku%C5%A1pac%
+ C3%ADr-%C4%8D-5-2028.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí\
+ , Farnost Choryně
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/545-eku%
+ C5%A1pac%C3%ADr-%C4%8D-5-2028.html
+CATEGORIES:pout,duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
 UID:rucne-39d79ef036@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20261114T160000Z
 DTEND:20261114T180000Z
 SUMMARY:Večerní souznění – Zubří
-DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+LOCATION:Klub Zubří
+DESCRIPTION:https://www.farnostzubri.cz/udalosti/vecerni-souzneni/\n\nZdro
+ j: Akce zadané na dekanatvalmez.cz\, Farnost Zubří
+URL:https://www.farnostzubri.cz/udalosti/vecerni-souzneni/
 CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:hutisko-be1cc14e95@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Sbírka na Charitu
+DESCRIPTION:Charitativní sbírka na podporu pronásledovaných křesťanů\, kon
+ aná v Hutisku.\n\nhttps://www.farnosthutisko.cz/aktuality/\n\nZdroj: Farn
+ ost Hutisko-Solanec
+URL:https://www.farnosthutisko.cz/aktuality/
+CATEGORIES:charita
+END:VEVENT
+BEGIN:VEVENT
+UID:hutisko-1244df3b88@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261123
+SUMMARY:Týden modliteb za mládež
+DESCRIPTION:Týden modliteb za mládež proběhne od 15. do 22. listopadu.\n\n
+ https://www.farnosthutisko.cz/aktuality/\n\nZdroj: Farnost Hutisko-Solane
+ c
+URL:https://www.farnosthutisko.cz/aktuality/
+CATEGORIES:duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
 UID:roznov-7fcf814db2@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Duchovní obnova s P. Pavlem Hofírkem
@@ -379,8 +1232,36 @@ URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-s-p-pavlem-hofir
 CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
+UID:roznov-609d64ac14@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261120T174500Z
+DTEND:20261120T194500Z
+SUMMARY:Modlitba chval
+LOCATION:Rožnov\, farní kostel
+DESCRIPTION:Po mši svaté od 18:00 hodin bude následovat Večer chval. Přijď
+ te\, budete vítáni!\n\nhttps://farnostroznov.cz/udalost_detail.php?id=420
+ 559\n\nZdroj: Farnost Rožnov pod Radhoštěm\, Farnost Hutisko-Solanec
+URL:https://farnostroznov.cz/udalost_detail.php?id=420559
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-d935172c6d@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261123T170000Z
+DTEND:20261123T190000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
 UID:roznov-5b9be058ab@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+DTSTAMP:20261118T024350Z
 DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Godzone Tour 2026
@@ -394,19 +1275,104 @@ URL:https://www.farnostroznov.cz/oznameni/godzone-tour-2026-10903
 CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:roznov-bdcf20b031@kalendar-dekanat
-DTSTAMP:20261117T130015Z
+UID:valmez-7b38688c00@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261128T123000Z
+DTEND:20261128T190000Z
+SUMMARY:Adventní duchovní obnova
+LOCATION:farní kostel Nanebevzetí Panny Marie\, Valašské Meziříčí
+DESCRIPTION:Adventní duchovní obnova s o. Michaelem Špilarem\, která zahrn
+ uje promluvy\, modlitby a společnou večeři\, se koná v sobotu 28. listopa
+ du 2026. Pro děti je zajištěno hlídání od 13:15 do 16:30.\n\nhttps://farn
+ ost-valmez.cz/blog_clanek/adventni-duchovni-obnova-27902\n\nZdroj: Farnos
+ ti Valašské Meziříčí a Lešná
+URL:https://farnost-valmez.cz/blog_clanek/adventni-duchovni-obnova-27902
+CATEGORIES:duchovni,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-457488c435@kalendar-dekanat
+DTSTAMP:20261118T024350Z
 DTSTART:20261205T080000Z
 DTEND:20261205T150000Z
-SUMMARY:Duchovní obnova pro ženy
-LOCATION:Zašová
+SUMMARY:Adventní duchovní obnova pro ženy
+LOCATION:fara Zašová
 DESCRIPTION:Detaily oznámení\n\n\n\n\n\nKategorie:\nVlastní\n\n\n
  \nSdílet:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu
  chovní obnova pro ženy\nCentrum pro rodinu Valašské Meziříčí vás zve na\n
  ADVENTNÍ DUCHOVNÍ OBNOVU\nPRO ŽENY\n"V mých očích jsi drahá a vzácná"\n\n
- https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-zeny-10823\n\nZ
- droj: Farnost Rožnov pod Radhoštěm
-URL:https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-zeny-10823
+ https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adventn
+ %C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html\n\nZdroj: Centrum pro rodi
+ nu Valašské Meziříčí\, Farnost Zubří\, Farnost Rožnov pod Radhoštěm
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adve
+ ntn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html
 CATEGORIES:duchovni,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-4b5cc56b69@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20261214T170000Z
+DTEND:20261214T190000Z
+SUMMARY:Biblické tance
+LOCATION:Společenská místnost CPR\, Valašské Meziříčí
+DESCRIPTION:Biblické tance pořádané farností Valašské Meziříčí v společens
+ ké místnosti CPR.\n\nhttps://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obs
+ ah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pro rodinu Valašsk
+ é Meziříčí
+URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
+ A9-tance-2026.html
+CATEGORIES:kultura,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-88f5e016dd@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20270202T173000Z
+DTEND:20270202T193000Z
+SUMMARY:Příprava snoubenců
+LOCATION:fara Valašské Meziříčí
+DESCRIPTION:Kurz přípravy snoubenců v rámci děkanátu\, koná se v 18:30–20:
+ 30 v farní kostele Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/c
+ lanek/311\n\nZdroj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/311
+CATEGORIES:vzdelavani,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-061ba4956c@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Společná kající bohoslužba
+DESCRIPTION:Společná kající bohoslužba v rámci jubilejního roku olomoucké 
+ arcidiecéze\, konaná v pátek 12. února 2027.\n\nhttps://www.farnostroznov
+ .cz/blog_clanek/250-let-olomoucke-arcidieceze-27831\n\nZdroj: Farnost Rož
+ nov pod Radhoštěm
+URL:https://www.farnostroznov.cz/blog_clanek/250-let-olomoucke-arcidieceze
+ -27831
+CATEGORIES:duchovni
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-aa5c3f5775@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20270515T113000Z
+DTEND:20270515T163000Z
+SUMMARY:Příprava snoubenců
+LOCATION:fara Valašské Meziříčí
+DESCRIPTION:Kurz přípravy snoubenců v Valašském Meziříčí\, koná se v 13:30
+ –18:30 v farní kostele.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
+ droj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/311
+CATEGORIES:vzdelavani,rodina
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-ff4c2d4adf@kalendar-dekanat
+DTSTAMP:20261118T024350Z
+DTSTART:20270902T163000Z
+DTEND:20270902T183000Z
+SUMMARY:Příprava snoubenců
+LOCATION:fara Valašské Meziříčí
+DESCRIPTION:Kurz přípravy snoubenců v Valašském Meziříčí\, koná se v 18:30
+ –20:30 v farní kostele.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
+ droj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/311
+CATEGORIES:vzdelavani,rodina
 END:VEVENT
 END:VCALENDAR

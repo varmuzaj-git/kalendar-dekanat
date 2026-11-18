@@ -1,11 +1,33 @@
 {
+ "cl-017bb63157": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-01f51f3fa7": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-01f9025f19": {
   "keep": true,
   "categories": [
    "vzdelavani"
   ]
  },
+ "cl-0216d883be": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-0a9d1a1cb0": {
+  "keep": false,
+  "categories": []
+ },
  "cl-0d36701a3b": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-0e1bedda96": {
   "keep": false,
   "categories": []
  },
@@ -15,11 +37,38 @@
    "vzdelavani"
   ]
  },
+ "cl-0e895473e0": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "seniori"
+  ]
+ },
+ "cl-0f6258952d": {
+  "keep": false,
+  "categories": []
+ },
  "cl-10aa11f96e": {
   "keep": true,
   "categories": [
    "pout",
    "seniori"
+  ]
+ },
+ "cl-1102b17aa2": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-12d2778273": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-14ff418c98": {
+  "keep": true,
+  "categories": [
+   "duchovni"
   ]
  },
  "cl-171a8ecdd5": {
@@ -34,16 +83,39 @@
   "keep": false,
   "categories": []
  },
+ "cl-176fe37fea": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
+ "cl-1892c4036a": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-18d68cb3af": {
   "keep": true,
   "categories": [
    "duchovni"
   ]
  },
+ "cl-1b316f3bfc": {
+  "keep": false,
+  "categories": []
+ },
  "cl-1cea36833a": {
   "keep": true,
   "categories": [
    "kultura"
+  ]
+ },
+ "cl-1ee9f32bd2": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "rodina"
   ]
  },
  "cl-1f0dd54199": {
@@ -65,15 +137,35 @@
    "rodina"
   ]
  },
+ "cl-22eb5e100f": {
+  "keep": false,
+  "categories": []
+ },
  "cl-23c1151d69": {
   "keep": true,
   "categories": [
    "duchovni"
   ]
  },
+ "cl-2407203c04": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-2421738c21": {
   "keep": false,
   "categories": []
+ },
+ "cl-27277bed51": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-27c2297983": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
  },
  "cl-282facc702": {
   "keep": true,
@@ -82,7 +174,21 @@
    "deti"
   ]
  },
+ "cl-2b437d3df1": {
+  "keep": true,
+  "categories": [
+   "rodina"
+  ]
+ },
  "cl-2e2189b7a2": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-2ea96bfe51": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-301c41369b": {
   "keep": false,
   "categories": []
  },
@@ -92,7 +198,48 @@
    "duchovni"
   ]
  },
+ "cl-3289032850": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-33024f4f9b": {
+  "keep": true,
+  "categories": [
+   "vzdelavani",
+   "duchovni"
+  ]
+ },
+ "cl-34e59c3b15": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-354d42bc84": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-386cb8b81b": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-38a1a8cc13": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-3902f2285c": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-399d453853": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-3f48d2d436": {
   "keep": false,
   "categories": []
  },
@@ -100,11 +247,23 @@
   "keep": false,
   "categories": []
  },
+ "cl-43c24bdae2": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-43cc6c066d": {
   "keep": true,
   "categories": [
    "kultura",
    "rodina"
+  ]
+ },
+ "cl-441ba9e2f7": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-4458853260": {
@@ -118,6 +277,18 @@
   "categories": [
    "pout",
    "duchovni"
+  ]
+ },
+ "cl-4628c3c402": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
+ "cl-47e79dbade": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
   ]
  },
  "cl-487e27f0bc": {
@@ -170,6 +341,12 @@
    "kultura"
   ]
  },
+ "cl-5596f24c62": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-55da8b28ad": {
   "keep": false,
   "categories": []
@@ -212,6 +389,16 @@
   "keep": false,
   "categories": []
  },
+ "cl-6367350761": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-63c40dab81": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
  "cl-698f286a53": {
   "keep": true,
   "categories": [
@@ -222,7 +409,19 @@
   "keep": false,
   "categories": []
  },
+ "cl-6ca2fa2cce": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-6d5c2b3ca5": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-6df42ddbed": {
   "keep": true,
   "categories": [
    "kultura"
@@ -238,6 +437,13 @@
  "cl-6eea8ad6cb": {
   "keep": false,
   "categories": []
+ },
+ "cl-736e2d9b7f": {
+  "keep": true,
+  "categories": [
+   "vzdelavani",
+   "deti"
+  ]
  },
  "cl-73cb7fa238": {
   "keep": true,
@@ -263,9 +469,33 @@
   "keep": false,
   "categories": []
  },
+ "cl-7be59c3c95": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
+ "cl-7cfb3c1eaf": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-7e7644453b": {
   "keep": false,
   "categories": []
+ },
+ "cl-7f210f8a5a": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-7fbdf9a51e": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
  },
  "cl-81e6293a52": {
   "keep": false,
@@ -286,6 +516,12 @@
   "categories": [
    "vzdelavani",
    "duchovni"
+  ]
+ },
+ "cl-8b9d0027ac": {
+  "keep": true,
+  "categories": [
+   "charita"
   ]
  },
  "cl-8bca558732": {
@@ -328,9 +564,33 @@
    "kultura"
   ]
  },
+ "cl-951b203d7f": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
+ "cl-95c51017bd": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
  "cl-98576e5c8e": {
   "keep": false,
   "categories": []
+ },
+ "cl-992edf0828": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
+ "cl-99aeced703": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
  },
  "cl-99bf80d314": {
   "keep": false,
@@ -350,6 +610,18 @@
   ]
  },
  "cl-9add34a65a": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-9bf31bf7a6": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-9c4fa61242": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-9e61c935fc": {
   "keep": false,
   "categories": []
  },
@@ -375,10 +647,32 @@
    "kultura"
   ]
  },
+ "cl-a05bb23509": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
+ "cl-a0f5710959": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-a29f17d58e": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-a379b3a29b": {
   "keep": true,
   "categories": [
    "pout"
+  ]
+ },
+ "cl-a46cd593a5": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-a4cbb81c86": {
@@ -399,6 +693,24 @@
   "keep": false,
   "categories": []
  },
+ "cl-a9f3e7387b": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-aa51132917": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-aa7cabbeb2": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-ab92878544": {
+  "keep": false,
+  "categories": []
+ },
  "cl-abb582b6b7": {
   "keep": true,
   "categories": [
@@ -410,14 +722,57 @@
   "keep": false,
   "categories": []
  },
+ "cl-ae7b3784be": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-af6cd0913d": {
+  "keep": true,
+  "categories": [
+   "rodina"
+  ]
+ },
+ "cl-aff375797c": {
+  "keep": false,
+  "categories": []
+ },
  "cl-b3799aca14": {
   "keep": false,
   "categories": []
+ },
+ "cl-b3a096f1c2": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "deti"
+  ]
+ },
+ "cl-b3e9754895": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
  },
  "cl-b45f551673": {
   "keep": true,
   "categories": [
    "charita"
+  ]
+ },
+ "cl-b4c24dce93": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-b4cf933a99": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-b709bc6ca0": {
+  "keep": true,
+  "categories": [
+   "rodina"
   ]
  },
  "cl-b73c986f83": {
@@ -457,6 +812,16 @@
    "rodina"
   ]
  },
+ "cl-bbb8d78670": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-bd0ef87311": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-bd4062b4eb": {
   "keep": false,
   "categories": []
@@ -465,16 +830,67 @@
   "keep": false,
   "categories": []
  },
+ "cl-c030f78a59": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
+ "cl-c06400c043": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-c111b2d60f": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-c199ccbbac": {
   "keep": true,
   "categories": [
    "duchovni"
   ]
  },
+ "cl-c1ba87c855": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-c35da0ea4b": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-c3b0bd8408": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
+ "cl-c51a3ccade": {
+  "keep": false,
+  "categories": []
+ },
  "cl-c72d76d929": {
   "keep": true,
   "categories": [
    "duchovni"
+  ]
+ },
+ "cl-c7c2eca8a2": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-cd19071741": {
+  "keep": true,
+  "categories": [
+   "seniori",
+   "vzdelavani"
   ]
  },
  "cl-cf43c7cdd7": {
@@ -488,6 +904,14 @@
   "categories": [
    "duchovni"
   ]
+ },
+ "cl-d141fee7f9": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-d390934683": {
+  "keep": false,
+  "categories": []
  },
  "cl-d45034942a": {
   "keep": false,
@@ -507,6 +931,25 @@
   "keep": true,
   "categories": [
    "duchovni"
+  ]
+ },
+ "cl-d702db1683": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-d755528160": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "duchovni"
+  ]
+ },
+ "cl-d8f15c9eb3": {
+  "keep": true,
+  "categories": [
+   "pout"
   ]
  },
  "cl-d8f3e9bd4a": {
@@ -531,6 +974,13 @@
    "kultura"
   ]
  },
+ "cl-e53c3dde50": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "seniori"
+  ]
+ },
  "cl-e822eb7e25": {
   "keep": false,
   "categories": []
@@ -552,10 +1002,28 @@
   "keep": false,
   "categories": []
  },
+ "cl-eecac1a646": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-eecd6c449f": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-f01fdb46b1": {
   "keep": true,
   "categories": [
    "kultura"
+  ]
+ },
+ "cl-f02e76be48": {
+  "keep": true,
+  "categories": [
+   "pout"
   ]
  },
  "cl-f1288d0b27": {
@@ -563,6 +1031,10 @@
   "categories": [
    "charita"
   ]
+ },
+ "cl-f2b04fed7d": {
+  "keep": false,
+  "categories": []
  },
  "cl-f33b3e777a": {
   "keep": true,
@@ -575,11 +1047,19 @@
   "keep": false,
   "categories": []
  },
+ "cl-f51fddb105": {
+  "keep": false,
+  "categories": []
+ },
  "cl-f52bc18591": {
   "keep": true,
   "categories": [
    "zpoved"
   ]
+ },
+ "cl-f5ca2109ce": {
+  "keep": false,
+  "categories": []
  },
  "cl-f64270dcae": {
   "keep": true,
@@ -618,6 +1098,31 @@
   ]
  },
  "dup-c28c1d879c": false,
+ "ex-040b4e9e20": {
+  "at": "2026-11-18T02:41:41.144Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Centrum pro rodinu Valašské Meziříčí pořádá adventní duchovní obnovu pro ženy s lektorkou Věrou Kulišťákovou. Akce proběhne 5. prosince 2026 v fara Zašová od 9:00 do 16:00.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "obnova",
+     "ženy"
+    ],
+    "image": null,
+    "quote": "\"5. prosince 2026\""
+   }
+  ]
+ },
  "ex-07eef1d571": {
   "at": "2026-11-17T10:45:27.944Z",
   "events": [
@@ -660,6 +1165,32 @@
    }
   ]
  },
+ "ex-121f139a94": {
+  "at": "2026-11-18T02:33:38.982Z",
+  "events": [
+   {
+    "title": "Klub maminek – setkání",
+    "date": "2026-09-21",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "11:00",
+    "location": "Na Fěře, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Setkání Klubu maminek v centru pro rodinu ve Valašském Meziříčí, určené pro maminky s dětmi, probíhá každou středu od 9 do 11 hodin.",
+    "categories": [
+     "rodina",
+     "deti"
+    ],
+    "tags": [
+     "klub maminek",
+     "setkání",
+     "centrum pro rodinu"
+    ],
+    "image": null,
+    "quote": "VE STŘEDU OD 9 DO 11 HODIN"
+   }
+  ]
+ },
  "ex-18c5c3f5af": {
   "at": "2026-11-17T10:45:13.674Z",
   "events": []
@@ -686,6 +1217,242 @@
     ],
     "image": null,
     "quote": "9.11.2026"
+   }
+  ]
+ },
+ "ex-1c46eacee6": {
+  "at": "2026-11-18T02:41:17.393Z",
+  "events": [
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v rámci děkanátu, koná se v 18:30–20:30 v farní kostele Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 2.2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v rámci děkanátu, koná se v 18:30–20:30 v farní kostele Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 9. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v rámci děkanátu, koná se v 18:30–20:30 v farní kostele Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 16. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-23",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v rámci děkanátu, koná se v 18:30–20:30 v farní kostele Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 23. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-04-03",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Rožnově pod Radhoštěm, koná se v 13:30–18:30 v pastoračním centru.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Rožnov pod Radhoštěm - pastorační centrum 13.30-18.30 h 3. 4."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-04-17",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Rožnově pod Radhoštěm, koná se v 13:30–18:30 v pastoračním centru.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Rožnov pod Radhoštěm - pastorační centrum 13.30-18.30 h 17. 4."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-05-15",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 13:30–18:30 v farní kostele.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara (vždy po 2 lekcích) 13.30-18.30 h 15.5."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-06-05",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 13:30–18:30 v farní kostele.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara (vždy po 2 lekcích) 13.30-18.30 h 5. 6."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 18:30–20:30 v farní kostele.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 2.9."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 18:30–20:30 v farní kostele.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 9. 9."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců v Valašském Meziříčí, koná se v 18:30–20:30 v farní kostele.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "priprava",
+     "2027"
+    ],
+    "image": null,
+    "quote": "Valašské Meziříčí - fara 18.30-20.30 h 16. 9."
    }
   ]
  },
@@ -766,6 +1533,123 @@
     "quote": "Jak číst Bibli 20.7.2026"
    }
   ]
+ },
+ "ex-295da01c4d": {
+  "at": "2026-11-18T02:42:04.829Z",
+  "events": [
+   {
+    "title": "Ekušpacír",
+    "date": "2026-11-08",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": null,
+    "location": "parkoviště u koupaliště, Kopřivnice",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Ekušpacír č. 5/2026, 4 km trasa na Zříceninu Šostýn, sraz 14 h na parkovišti u koupaliště v Kopřivnici.",
+    "categories": [
+     "pout"
+    ],
+    "tags": [
+     "pout",
+     "rodina"
+    ],
+    "image": null,
+    "quote": "8. listopadu 2026 od 14 h"
+   }
+  ]
+ },
+ "ex-3c84d9ca0e": {
+  "at": "2026-11-18T02:43:28.002Z",
+  "events": [
+   {
+    "title": "Trénink paměti",
+    "date": "2026-09-17",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory, zdarma, s lektorkou Monikou Santovjákovou, koná se v 9:30–11:00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "senioři",
+     "volný vstup"
+    ],
+    "image": null,
+    "quote": "17. září … trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-10-08",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory, zdarma, s lektorkou Monikou Santovjákovou, koná se v 9:30–11:00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "senioři",
+     "volný vstup"
+    ],
+    "image": null,
+    "quote": "8. října … trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-11-05",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory, zdarma, s lektorkou Monikou Santovjákovou, koná se v 9:30–11:00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "senioři",
+     "volný vstup"
+    ],
+    "image": null,
+    "quote": "5. listopadu … trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory, zdarma, s lektorkou Monikou Santovjákovou, koná se v 9:30–11:00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "senioři",
+     "volný vstup"
+    ],
+    "image": null,
+    "quote": "3. prosince … trénink paměti vždy od 9.30-11 h"
+   }
+  ]
+ },
+ "ex-4057579819": {
+  "at": "2026-11-18T02:32:48.306Z",
+  "events": []
  },
  "ex-463e9dc220": {
   "at": "2026-11-17T10:43:13.509Z",
@@ -1021,6 +1905,10 @@
   "at": "2026-11-17T10:45:12.456Z",
   "events": []
  },
+ "ex-4cb735169d": {
+  "at": "2026-11-18T02:40:53.170Z",
+  "events": []
+ },
  "ex-4e0f9e20b0": {
   "at": "2026-11-17T10:46:21.594Z",
   "events": [
@@ -1091,6 +1979,31 @@
     ],
     "image": null,
     "quote": "8. listopadu 2026 od 14 h"
+   }
+  ]
+ },
+ "ex-5814df3aab": {
+  "at": "2026-11-18T02:32:31.534Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "20:00",
+    "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+    "organizer": "Římskokatolická farnost Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova s o. Michaelem Špilarem, která zahrnuje promluvy, modlitby a společnou večeři, se koná v sobotu 28. listopadu 2026. Pro děti je zajištěno hlídání od 13:15 do 16:30.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "spiritualita",
+     "hlídání"
+    ],
+    "image": null,
+    "quote": "sobota 28. listopadu 2026"
    }
   ]
  },
@@ -1204,6 +2117,31 @@
    }
   ]
  },
+ "ex-725527a16a": {
+  "at": "2026-11-18T02:33:21.262Z",
+  "events": [
+   {
+    "title": "Slavnostní žehnání sochy Salvátora",
+    "date": "2026-09-19",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": "přístavba ZŠ Salvátor, Valašské Meziříčí",
+    "organizer": "farnost Valašské Meziříčí",
+    "summary": "V sobotu 19. září proběhlo slavnostní žehnání nově umístěné bronzové sochy Salvátora ve výklenku přístavby základní školy Salvátor.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "slavnost",
+     "socha",
+     "září"
+    ],
+    "image": null,
+    "quote": "slavnostní žehnání proběhlo v sobotu 19. září"
+   }
+  ]
+ },
  "ex-73dc31b37a": {
   "at": "2026-11-17T10:42:06.245Z",
   "events": [
@@ -1231,6 +2169,36 @@
  },
  "ex-73f3d2dc68": {
   "at": "2026-11-17T10:41:23.335Z",
+  "events": []
+ },
+ "ex-74d10f56c7": {
+  "at": "2026-11-18T02:42:31.646Z",
+  "events": [
+   {
+    "title": "Ekuspacír č. 5/2026 na Zříceninu Šostýn",
+    "date": "2026-11-08",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": null,
+    "location": "parkoviště u koupaliště, Kopřivnice",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Ekuspacír č. 5/2026 na Zříceninu Šostýn, sraz 8. listopadu 2026 v 14 h na parkovišti u koupaliště v Kopřivnici, trasa 4 km.",
+    "categories": [
+     "pout",
+     "duchovni"
+    ],
+    "tags": [
+     "ekuspacir",
+     "zřícenina šostýn",
+     "křesťanská pout"
+    ],
+    "image": null,
+    "quote": "8. listopadu 2026 od 14 h"
+   }
+  ]
+ },
+ "ex-74d34240c6": {
+  "at": "2026-11-18T02:41:03.907Z",
   "events": []
  },
  "ex-77857c4f25": {
@@ -1411,9 +2379,377 @@
    }
   ]
  },
+ "ex-79fe8f5ab9": {
+  "at": "2026-11-18T02:34:21.980Z",
+  "events": []
+ },
+ "ex-7b4242ac9a": {
+  "at": "2026-11-18T02:43:04.323Z",
+  "events": [
+   {
+    "title": "Starost o lidi v našem okolí",
+    "date": "2026-09-05",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Starost o lidi v našem okolí, kde se děti učí výrobu klíčenek a náramků a zdobení skřipců.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "starost",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "5. září 2026 – TÉMA: Starost o lidi v našem okolí"
+   },
+   {
+    "title": "Přátelství",
+    "date": "2026-10-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Přátelství, během kterého děti vyrábějí krmítka pro ptáčky.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "pratelstvi",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "10. října 2026 – TÉMA: Přátelství"
+   },
+   {
+    "title": "Sebedůvěra",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Sebedůvěra, kde se pečou sušenky a posiluje se sebevědomí dívek.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "sebeduvera",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "21. listopadu 2026 – TÉMA: Sebedůvěra"
+   },
+   {
+    "title": "Mé talenty",
+    "date": "2027-01-09",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Mé talenty, kde se pracuje s vlněmi a rozvíjí kreativní dovednosti.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "talenty",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "9. ledna 2027 – TÉMA: Mé talenty"
+   },
+   {
+    "title": "Síla laskavosti a dobrých skutků",
+    "date": "2027-04-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Síla laskavosti a dobrých skutků, kde se dobrovolně pomáhá na faře.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "laskavost",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "10. dubna 2027 – TÉMA: Síla laskavosti a dobrých skutků"
+   },
+   {
+    "title": "V jednoduchosti je krása",
+    "date": "2027-05-22",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem V jednoduchosti je krása, kde se vyrábějí visačky a etikety na letní zavařování.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "krasavjednoduchosti",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "22. května 2027 – TÉMA: V jednoduchosti je krása"
+   },
+   {
+    "title": "Ženy, které mění svět",
+    "date": "2027-06-12",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "společenská místnost CPR, Valašské Meziřící",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Klub pro holky s tématem Ženy, které mění svět, zahrnující výlet a inspirativní diskuzi.",
+    "categories": [
+     "deti",
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "zeny",
+     "klub",
+     "holky"
+    ],
+    "image": null,
+    "quote": "12. června 2027 – TÉMA: Ženy, které mění svět"
+   }
+  ]
+ },
  "ex-7f2fc5b3f8": {
   "at": "2026-11-17T10:32:26.811Z",
   "events": []
+ },
+ "ex-8947bf01cd": {
+  "at": "2026-11-18T02:43:50.583Z",
+  "events": [
+   {
+    "title": "Biblické tance",
+    "date": "2026-01-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "12. ledna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-02-16",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "16. února v 17 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-03-16",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "16. března v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-04-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "20. dubna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-05-18",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "18. května v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-06-15",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "15. června v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-09-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "14. září v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-10-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "12. října v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "23. listopadu v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-12-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "14. prosince v 18 h"
+   }
+  ]
  },
  "ex-9125b1fa46": {
   "at": "2026-11-17T10:47:15.311Z",
@@ -1847,6 +3183,149 @@
    }
   ]
  },
+ "ex-b78c53e5f0": {
+  "at": "2026-11-18T02:40:33.485Z",
+  "events": []
+ },
+ "ex-c2f7c0ab5b": {
+  "at": "2026-11-18T02:40:12.989Z",
+  "events": [
+   {
+    "title": "Sbírka na Charitu",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Charitativní sbírka na podporu pronásledovaných křesťanů, konaná v Hutisku.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "charita",
+     "sbirka"
+    ],
+    "image": null,
+    "quote": "Sbírka této neděle je určena na pomoc pronásledovaným křesťanům."
+   },
+   {
+    "title": "Týden modliteb za mládež",
+    "date": "2026-11-15",
+    "endDate": "2026-11-22",
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Týden modliteb za mládež proběhne od 15. do 22. listopadu.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "modlitby",
+     "mládež"
+    ],
+    "image": null,
+    "quote": "Začíná týden modliteb za mládež (15.11 – 22. 11.)"
+   },
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Rožnov",
+    "organizer": null,
+    "summary": "Večer chval v Rožnově, zahájení po mši svaté v 18:00.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "chval",
+     "večer"
+    ],
+    "image": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval. Začínat se bude již mší svatou v 18:00 hodin."
+   },
+   {
+    "title": "Biblická přednáška P. Bedřicha Horáka",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": "kostel, Rožnov",
+    "organizer": null,
+    "summary": "Biblická přednáška P. Bedřicha Horáka po mši svaté v Rožnově.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "přednáška",
+     "biblická"
+    ],
+    "image": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
+   }
+  ]
+ },
+ "ex-cdbe333724": {
+  "at": "2026-11-18T02:42:46.377Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova pro ženy s lektorkou Věrou Kulišťákovou, koná se 5. prosince 2026 v 9–16 hodin v farní obci Zašová.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "obnova",
+     "ženy"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
+ },
+ "ex-d461215861": {
+  "at": "2026-11-18T02:42:19.410Z",
+  "events": []
+ },
+ "ex-d8acd7743e": {
+  "at": "2026-11-18T02:41:52.925Z",
+  "events": []
+ },
+ "ex-dae56488ac": {
+  "at": "2026-11-18T02:30:54.869Z",
+  "events": [
+   {
+    "title": "Společná kající bohoslužba",
+    "date": "2027-02-12",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": null,
+    "summary": "Společná kající bohoslužba v rámci jubilejního roku olomoucké arcidiecéze, konaná v pátek 12. února 2027.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "bohoslužba",
+     "jubilej",
+     "2027"
+    ],
+    "image": null,
+    "quote": "společná kající bohoslužba v pátek 12. února 2027"
+   }
+  ]
+ },
  "ex-e2430236b7": {
   "at": "2026-11-17T10:40:55.140Z",
   "events": [
@@ -2064,6 +3543,10 @@
    }
   ]
  },
+ "ex-edccc44da1": {
+  "at": "2026-11-18T02:33:55.959Z",
+  "events": []
+ },
  "ex-f71aadb3ef": {
   "at": "2026-11-17T10:35:47.970Z",
   "events": [
@@ -2088,6 +3571,10 @@
     "quote": "slavnostní žehnání proběhlo v sobotu 19. září"
    }
   ]
+ },
+ "ex-fd86001934": {
+  "at": "2026-11-18T02:32:58.030Z",
+  "events": []
  },
  "ex-fe53493dea": {
   "at": "2026-11-17T10:46:50.472Z",
