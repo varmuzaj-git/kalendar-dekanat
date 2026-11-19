@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:34:36.399Z",
+ "generatedAt": "2026-11-19T09:59:25.206Z",
  "sources": [
   {
    "id": "rucne",
@@ -7,7 +7,7 @@
    "error": null,
    "count": 44,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:30:03.161Z"
+   "lastSuccess": "2026-11-19T09:57:53.557Z"
   },
   {
    "id": "roznov",
@@ -15,7 +15,7 @@
    "error": null,
    "count": 17,
    "excluded": 5,
-   "lastSuccess": "2026-11-19T02:30:39.525Z"
+   "lastSuccess": "2026-11-19T09:58:30.624Z"
   },
   {
    "id": "valmez",
@@ -23,7 +23,7 @@
    "error": null,
    "count": 4,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:30:43.762Z"
+   "lastSuccess": "2026-11-19T09:58:34.347Z"
   },
   {
    "id": "kelc",
@@ -31,15 +31,15 @@
    "error": null,
    "count": 0,
    "excluded": 2,
-   "lastSuccess": "2026-11-19T02:30:44.711Z"
+   "lastSuccess": "2026-11-19T09:58:35.460Z"
   },
   {
    "id": "zasova",
    "ok": true,
    "error": null,
-   "count": 0,
+   "count": 3,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:30:45.660Z"
+   "lastSuccess": "2026-11-19T09:58:45.001Z"
   },
   {
    "id": "loucka",
@@ -47,7 +47,7 @@
    "error": null,
    "count": 0,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:30:46.349Z"
+   "lastSuccess": "2026-11-19T09:58:45.751Z"
   },
   {
    "id": "zubri",
@@ -55,7 +55,7 @@
    "error": null,
    "count": 27,
    "excluded": 5,
-   "lastSuccess": "2026-11-19T02:31:09.243Z"
+   "lastSuccess": "2026-11-19T09:59:08.808Z"
   },
   {
    "id": "vidce",
@@ -63,7 +63,7 @@
    "error": null,
    "count": 5,
    "excluded": 4,
-   "lastSuccess": "2026-11-19T02:31:17.740Z"
+   "lastSuccess": "2026-11-19T09:59:19.193Z"
   },
   {
    "id": "vb",
@@ -71,7 +71,7 @@
    "error": null,
    "count": 13,
    "excluded": 26,
-   "lastSuccess": "2026-11-19T02:31:18.546Z"
+   "lastSuccess": "2026-11-19T09:59:20.038Z"
   },
   {
    "id": "hutisko",
@@ -79,7 +79,7 @@
    "error": null,
    "count": 0,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:31:25.519Z"
+   "lastSuccess": "2026-11-19T09:59:20.188Z"
   },
   {
    "id": "dolnibecva",
@@ -87,7 +87,7 @@
    "error": null,
    "count": 0,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:31:26.109Z"
+   "lastSuccess": "2026-11-19T09:59:20.852Z"
   },
   {
    "id": "choryne",
@@ -95,7 +95,7 @@
    "error": null,
    "count": 13,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:32:33.866Z"
+   "lastSuccess": "2026-11-19T09:59:22.621Z"
   },
   {
    "id": "cpr",
@@ -103,7 +103,7 @@
    "error": null,
    "count": 22,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:34:27.457Z"
+   "lastSuccess": "2026-11-19T09:59:25.192Z"
   },
   {
    "id": "svatky",
@@ -111,7 +111,7 @@
    "error": null,
    "count": 39,
    "excluded": 0,
-   "lastSuccess": "2026-11-19T02:34:27.460Z"
+   "lastSuccess": "2026-11-19T09:59:25.194Z"
   }
  ]
 }

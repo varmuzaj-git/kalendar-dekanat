@@ -2390,7 +2390,6 @@
    "recurring": false,
    "categories": [
     "rodina",
-    "kultura",
     "vzdelavani",
     "deti"
    ],
@@ -2636,7 +2635,6 @@
    "recurring": false,
    "categories": [
     "rodina",
-    "kultura",
     "vzdelavani",
     "deti"
    ],
@@ -2809,7 +2807,6 @@
    "recurring": false,
    "categories": [
     "rodina",
-    "kultura",
     "vzdelavani",
     "deti"
    ],
@@ -3093,7 +3090,6 @@
    "recurring": false,
    "categories": [
     "rodina",
-    "kultura",
     "vzdelavani",
     "deti"
    ],
@@ -3128,6 +3124,62 @@
    "tags": [
     "biblické tance",
     "tanec"
+   ]
+  },
+  {
+   "organizers": [
+    "zasova"
+   ],
+   "id": "zasova-c70e78950f",
+   "source": "zasova",
+   "sources": [
+    "zasova"
+   ],
+   "title": "Předvánoční zpovídání",
+   "start": "2026-12-17T15:30",
+   "end": "2026-12-17T17:00",
+   "allDay": false,
+   "location": "Veselá",
+   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
+   "description": "Předvánoční zpovídání v obci Veselá, vedeno P. Petrem Dujkou.",
+   "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "zpovídání",
+    "předvánoční",
+    "veselá",
+    "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "zasova"
+   ],
+   "id": "zasova-5f41dc8135",
+   "source": "zasova",
+   "sources": [
+    "zasova"
+   ],
+   "title": "Předvánoční zpovídání",
+   "start": "2026-12-19T13:00",
+   "end": "2026-12-19T14:30",
+   "allDay": false,
+   "location": "Zašová",
+   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
+   "description": "Předvánoční zpovídání v Zašově.",
+   "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "zpovídání",
+    "předvánoční",
+    "zašová",
+    "Vánoce"
    ]
   },
   {
@@ -3176,6 +3228,35 @@
    "recurring": false,
    "categories": [],
    "tags": [
+    "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "zasova"
+   ],
+   "id": "zasova-59c5d1123f",
+   "source": "zasova",
+   "sources": [
+    "zasova"
+   ],
+   "title": "Vánoční hra dětí",
+   "start": "2026-12-26T11:30",
+   "end": "2026-12-26T13:30",
+   "allDay": false,
+   "location": "Zašová",
+   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
+   "description": "Dětská vánoční hra během svátků v Zašově.",
+   "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "deti"
+   ],
+   "tags": [
+    "hra",
+    "vánoční",
+    "děti",
     "Vánoce"
    ]
   },
