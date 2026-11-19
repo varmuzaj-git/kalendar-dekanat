@@ -31,12 +31,24 @@ async function oznameni(base, historyFrom) {
     const d = await fetchText(it.url);
     const meta = (label) => { const r = d.match(new RegExp(`<p class="title">${label}</p>\\s*<p>([\\s\\S]*?)</p>`)); return r ? stripHtml(r[1]) : ''; };
     // „31.5.2026 od 14:00 do 17:00“, „5.12.2026 - 6.12.2026“, „20.11.2026“
+    // nebo zvlášť „Datum a čas začátku“ / „Datum a čas konce“: „20.11.2026 18:00“ (Rožnov)
+    const dRe = /\d{1,2}\.\s*\d{1,2}\.\s*\d{4}/g, tRe = /\d{1,2}[:.]\d{2}/;
     const when = meta('Datum a čas');
-    const dates = [...when.matchAll(/\d{1,2}\.\s*\d{1,2}\.\s*\d{4}/g)].map((x) => czDate(x[0]));
-    const date = dates[0] || it.date;
-    const endDate = dates[1] || null;
-    const time = hm(when.match(/od\s+(\d{1,2}[:.]\d{2})/)?.[1]);
-    const endTime = hm(when.match(/do\s+(\d{1,2}[:.]\d{2})/)?.[1]);
+    const whenFrom = meta('Datum a čas začátku'), whenTo = meta('Datum a čas konce');
+    let date, endDate, time, endTime;
+    if (!when && whenFrom) {
+      date = czDate(whenFrom.match(dRe)?.[0] || '') || it.date;
+      time = hm(whenFrom.replace(dRe, '').match(tRe)?.[0]);
+      endDate = czDate(whenTo.match(dRe)?.[0] || '') || null;
+      endTime = hm(whenTo.replace(dRe, '').match(tRe)?.[0]);
+      if (endDate === date) endDate = null;
+    } else {
+      const dates = [...when.matchAll(dRe)].map((x) => czDate(x[0]));
+      date = dates[0] || it.date;
+      endDate = dates[1] || null;
+      time = hm(when.match(/od\s+(\d{1,2}[:.]\d{2})/)?.[1]);
+      endTime = hm(when.match(/do\s+(\d{1,2}[:.]\d{2})/)?.[1]);
+    }
     const img = d.match(/<img src="([^"]+)"[^>]*class="img_oznameni"/)?.[1] || '';
     const body = d.match(/<div class="row event-details">([\s\S]*?)<!-- \/Event Single -->/)?.[1] || '';
     let description = truncate(stripHtml(body));
