@@ -4,7 +4,7 @@ Souhrnný kalendář akcí farností děkanátu Valašské Meziříčí a Centra
 
 - Web: https://varmuzaj-git.github.io/kalendar-dekanat/ (vkládá se na https://dekanatvalmez.cz/ shortcodem `[kalendar_akci]`)
 - Odběr do kalendáře: `data/akce.ics`
-- Aktualizace 3× denně (GitHub Actions, `.github/workflows/update.yml`)
+- Sběr 1× denně na serveru agenta (`scripts/local-collect.sh`, cron 2:30 UTC), GitHub Actions jen nasadí stránku (`.github/workflows/update.yml`)
 
 ## Jak to funguje
 `scripts/collect.mjs` stáhne akce ze zdrojů (`config/sources.json`):

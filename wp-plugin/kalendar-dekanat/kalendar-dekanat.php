@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Kalendář akcí děkanátu – ruční akce
- * Description: Ruční přidávání akcí do Kalendáře akcí děkanátu Valašské Meziříčí (varmuzaj-git.github.io/kalendar-dekanat). Akce se do kalendáře přenesou při nejbližší aktualizaci (3× denně). Obsahuje i shortcode [kalendar_akci] pro vložení kalendáře.
+ * Description: Ruční přidávání akcí do Kalendáře akcí děkanátu Valašské Meziříčí (varmuzaj-git.github.io/kalendar-dekanat). Akce se do kalendáře přenesou při nejbližší aktualizaci (jednou denně v noci). Obsahuje i shortcode [kalendar_akci] pro vložení kalendáře.
  * Version: 1.1.0
  * Author: Petr (ValachWeb)
  * Requires PHP: 7.4
@@ -203,7 +203,7 @@ function kdk_render_box( $post ) {
 		<label class="l" for="kdk_url">Odkaz na akci</label>
 		<input type="url" id="kdk_url" class="regular-text" name="kdk[url]" value="<?php echo esc_attr( $v['url'] ); ?>" placeholder="https://">
 	</div>
-	<p class="kdk-note" style="margin-top:12px">Plakát nahrajte vpravo v poli „Plakát“. Popis akce pište do editoru výše. Akce se v kalendáři objeví při nejbližší aktualizaci (3× denně).</p>
+	<p class="kdk-note" style="margin-top:12px">Plakát nahrajte vpravo v poli „Plakát“. Popis akce pište do editoru výše. Akce se v kalendáři objeví při nejbližší aktualizaci (jednou denně v noci).</p>
 	<?php
 }
 
