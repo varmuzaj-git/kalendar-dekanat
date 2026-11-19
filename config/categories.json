@@ -14,7 +14,8 @@
   ],
   "$rules": "Pravidla pro všechny zdroje: match = regex (bez diakritiky, malá písmena) v názvu, popisu a štítcích; remove/add = typy akcí. Použijí se až po AI a klíčových slovech.",
   "rules": [
-    { "match": "keramik|keramick", "remove": ["kultura"], "$note": "Honza 19. 11. 2026: keramika není Koncerty a kultura" }
+    { "match": "keramik|keramick", "remove": ["kultura", "rodina"], "$note": "Honza 19. 11. 2026: keramika není Koncerty a kultura ani Rodiny, snoubenci a manželé" },
+    { "match": "klub pro holky", "remove": ["rodina"], "$note": "Honza 19. 11. 2026: Klub pro holky není Rodiny, snoubenci a manželé" }
   ],
   "tags": {
     "\\balfa\\b": "Alfa", "snoubenc": "snoubenci", "advent": "advent", "vanoc": "Vánoce", "velikonoc|postni": "Velikonoce", "koncert": "koncert", "\\bpout": "pouť", "dekanatn": "děkanát"
