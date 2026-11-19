@@ -27,6 +27,7 @@ const prevStatus = await readJson('public/data/status.json', { sources: [] });
 const rx = (list) => (list || []).map((k) => new RegExp(k, 'i'));
 const orgRules = orgCfg.organizers.map((o) => ({ ...o, re: rx(o.match) }));
 const catRules = catCfg.categories.map((c) => ({ id: c.id, patterns: rx(c.keywords) }));
+const globalCatRules = (catCfg.rules || []).map((r) => ({ ...r, re: new RegExp(r.match, 'i') }));
 const tagRules = Object.entries(catCfg.tags || {}).map(([k, tag]) => ({ re: new RegExp(k, 'i'), tag }));
 const compact = (s) => normalize(s).replace(/[^a-z0-9]/g, '');
 const tagMap = new Map(catCfg.categories.flatMap((c) => [[compact(c.id), c.id], [compact(c.label), c.id]]));
@@ -61,10 +62,17 @@ function enrich(ev, source) {
     (r.remove || []).forEach((c) => cats.delete(c));
     (r.add || []).forEach((c) => cats.add(c));
   }
-  if (cats.size > 1) cats.delete('ostatni');
-  if (!cats.size) cats.add('ostatni');
   const tags = new Set([...hashTags, ...(ev.sourceTags || []).map((t) => t.toLowerCase())]);
   for (const r of tagRules) if (r.re.test(text)) tags.add(r.tag);
+  // pravidla pro všechny zdroje (např. keramika ≠ Koncerty a kultura)
+  const ruleText = `${text}\n${normalize([...tags].join(' '))}`;
+  for (const r of globalCatRules) {
+    if (!r.re.test(ruleText)) continue;
+    (r.remove || []).forEach((c) => cats.delete(c));
+    (r.add || []).forEach((c) => cats.add(c));
+  }
+  if (cats.size > 1) cats.delete('ostatni');
+  if (!cats.size) cats.add('ostatni');
   // podle názvu jen u akcí s časem (celodenní „Troják“ = vystoupení, ne zkouška)
   const recurring = recurringOf(ev, source);
   const orgText = normalize(`${ev.title}\n${ev.organizerHint || ''}`);
