@@ -1206,9 +1206,9 @@
     "roznov"
    ],
    "title": "Duchovní obnova pro dívky",
-   "start": "2026-03-20",
-   "end": "2026-03-20",
-   "allDay": true,
+   "start": "2026-03-20T00:00",
+   "end": "2026-03-20T02:00",
+   "allDay": false,
    "location": "Kelč",
    "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-divky-8468",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro dívky\n\r\n\r\n\n\r\nDuchovní obnovu pro dívky pořádá Centrum pro rodinu od 20. do 22. března v Kelči.",
@@ -1487,16 +1487,17 @@
     "valmez"
    ],
    "title": "Přednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)",
-   "start": "2026-04-23",
-   "end": "2026-04-23",
-   "allDay": true,
+   "start": "2026-04-23T18:00",
+   "end": "2026-04-23T20:00",
+   "allDay": false,
    "location": "Muzejní a galerijní centrum, Freskový sál, Zámek Žerotínů",
    "url": "https://farnost-valmez.cz/oznameni/prednaska-zena-at-v-cirkvi-promluvi-p-zdenek-jancarik-9048",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nPřednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)\nŽena ať v církvi",
    "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/akce/969_1776785677.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani"
+    "vzdelavani",
+    "duchovni"
    ],
    "tags": []
   },
@@ -1544,29 +1545,6 @@
    "tags": []
   },
   {
-   "organizers": [
-    "roznov"
-   ],
-   "id": "roznov-ccb666f7d7",
-   "source": "roznov",
-   "sources": [
-    "roznov"
-   ],
-   "title": "Otevřené brány",
-   "start": "2026-05-01",
-   "end": "2026-05-01",
-   "allDay": true,
-   "location": "https://otevrenebrany.cz/kostel-vsech-svatych",
-   "url": "https://www.farnostroznov.cz/oznameni/otevrene-brany-9743",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nOtevřené brány\n\r\n\r\nChcete se dozvědět něco o historii kostela Všech svatých? Přijďte, naši průvodci jsou připraveni.\n\nProhlídky:\n\nkvěten, září: sobota 9.00 - 16.00, neděle 12.00 - 16.00\n\nčerven, červenec, srpen: úterý - sobota 9.00 - 16.00, neděle 12.00 - 16.00, státní svátky nepřipadající na neděli 9:00 - 16:00\n\n-- OTEVŘENÉ BRÁNY",
-   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1783839481.jpg",
-   "recurring": false,
-   "categories": [
-    "kultura"
-   ],
-   "tags": []
-  },
-  {
    "organizers": [],
    "id": "svatky-da69c4eaf2",
    "source": "svatky",
@@ -1579,6 +1557,29 @@
    "allDay": true,
    "recurring": false,
    "categories": [],
+   "tags": []
+  },
+  {
+   "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-ccb666f7d7",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Otevřené brány",
+   "start": "2026-05-01T00:00",
+   "end": "2026-05-01T02:00",
+   "allDay": false,
+   "location": "https://otevrenebrany.cz/kostel-vsech-svatych",
+   "url": "https://www.farnostroznov.cz/oznameni/otevrene-brany-9743",
+   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nOtevřené brány\n\r\n\r\nChcete se dozvědět něco o historii kostela Všech svatých? Přijďte, naši průvodci jsou připraveni.\n\nProhlídky:\n\nkvěten, září: sobota 9.00 - 16.00, neděle 12.00 - 16.00\n\nčerven, červenec, srpen: úterý - sobota 9.00 - 16.00, neděle 12.00 - 16.00, státní svátky nepřipadající na neděli 9:00 - 16:00\n\n-- OTEVŘENÉ BRÁNY",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1783839481.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
    "tags": []
   },
   {
@@ -1805,9 +1806,9 @@
     "roznov"
    ],
    "title": "Hostina: Veronika Richterová",
-   "start": "2026-05-30",
-   "end": "2026-05-30",
-   "allDay": true,
+   "start": "2026-05-30T00:00",
+   "end": "2026-05-30T02:00",
+   "allDay": false,
    "location": "Galerie Kostnice",
    "url": "https://www.farnostroznov.cz/oznameni/hostina-veronika-richterova-9684",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nHostina: Veronika Richterová\nGALERIE\nKOSTNICE\n30. 5. - 12. 7. 2026\nHOSTINA\nVERONIKA RICHTEROVÁ\nVýstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radhoštěm",
@@ -2096,9 +2097,9 @@
     "roznov"
    ],
    "title": "Gabriela Nováková: Nad hladinou a pod hladinou země",
-   "start": "2026-07-18",
-   "end": "2026-07-18",
-   "allDay": true,
+   "start": "2026-07-18T00:00",
+   "end": "2026-07-18T02:00",
+   "allDay": false,
    "location": "Galerie Kostnice",
    "url": "https://www.farnostroznov.cz/oznameni/gabriela-novakova-nad-hladinou-a-pod-hladinou-zeme-9685",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nGabriela Nováková: Nad hladinou a pod hladinou země\nGALERIE\nKOSTNICE\n18. 7. - 16. 8. 2026\nNAD HLADINOU\nA POD HLADINOU ZEMĚ\nGABRIELA NOVÁKOVÁ\nVýstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radhoštěm",
@@ -2881,15 +2882,15 @@
    "organizers": [
     "roznov"
    ],
-   "id": "roznov-7fcf814db2",
+   "id": "roznov-4422bfb6f8",
    "source": "roznov",
    "sources": [
     "roznov"
    ],
    "title": "Duchovní obnova s P. Pavlem Hofírkem",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "allDay": true,
+   "start": "2026-11-20T18:00",
+   "end": "2026-11-22T12:00",
+   "allDay": false,
    "location": "Velehrad",
    "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-s-p-pavlem-hofirkem-10443",
    "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova s P. Pavlem Hofírkem\nDUCHOVNÍ OBNOVA\nTéma: CESTY APOŠTOLA PAVLA\nEXERCIČNÍ DŮM STOJANOV NA VELEHRADĚ\nObnova je určena pro všechny dospělé věřící.\nExercitátor: P. PAVEL HOŘÍREK\nZačátek: Pátek 20. listopadu 2026\nVečerní v 18:00 a první promluvu v 19:00\nZakončení: Neděle 22. listopadu 2026\nMši svatou v 9:00, besedou a obědem v 12:00",

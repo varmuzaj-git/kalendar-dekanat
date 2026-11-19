@@ -192,6 +192,10 @@
   "keep": false,
   "categories": []
  },
+ "cl-30b309c562": {
+  "keep": false,
+  "categories": []
+ },
  "cl-315ae98726": {
   "keep": true,
   "categories": [
@@ -351,6 +355,12 @@
   "keep": false,
   "categories": []
  },
+ "cl-571dc7f2c8": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-57329f2ada": {
   "keep": false,
   "categories": []
@@ -403,6 +413,12 @@
   "keep": true,
   "categories": [
    "pout"
+  ]
+ },
+ "cl-6ae247a079": {
+  "keep": true,
+  "categories": [
+   "duchovni"
   ]
  },
  "cl-6b453d6918": {
@@ -675,6 +691,13 @@
    "kultura"
   ]
  },
+ "cl-a47fb709cf": {
+  "keep": true,
+  "categories": [
+   "vzdelavani",
+   "duchovni"
+  ]
+ },
  "cl-a4cbb81c86": {
   "keep": false,
   "categories": []
@@ -939,6 +962,12 @@
    "kultura"
   ]
  },
+ "cl-d714a8b90d": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-d755528160": {
   "keep": true,
   "categories": [
@@ -958,6 +987,12 @@
    "zpoved"
   ]
  },
+ "cl-dcdf015b23": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-ddfe79f308": {
   "keep": false,
   "categories": []
@@ -969,6 +1004,12 @@
   ]
  },
  "cl-e11267b4d0": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-e3316b3210": {
   "keep": true,
   "categories": [
    "kultura"
@@ -1097,6 +1138,7 @@
    "zpoved"
   ]
  },
+ "dup-15034f2087": false,
  "dup-35cd5fe1fa": false,
  "dup-c28c1d879c": false,
  "ex-02b2eb6c63": {
