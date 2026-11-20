@@ -679,17 +679,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -861,17 +862,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -1050,7 +1052,7 @@
    "allDay": false,
    "location": "Zašová",
    "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-pro-muze-8627",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro muže\nPOSTNÍ DUCHOVNÍ\nOBNOVA PRO MUŽE\nTéma: BOŽÍ PŘÍTOMNOST V MÉM ŽIVOTĚ\nPovede: o. JAN MACH\n14. března 2026",
+   "description": "POSTNÍ DUCHOVNÍ\nOBNOVA PRO MUŽE\nTéma: BOŽÍ PŘÍTOMNOST V MÉM ŽIVOTĚ\nPovede: o. JAN MACH\n14. března 2026",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1773046570.png",
    "recurring": false,
    "categories": [
@@ -1098,17 +1100,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -1199,7 +1202,8 @@
    "recurring": false,
    "categories": [
     "duchovni",
-    "rodina"
+    "rodina",
+    "deti"
    ],
    "tags": []
   },
@@ -1369,7 +1373,7 @@
    "start": "2026-04-12T15:00",
    "end": "2026-04-12T16:30",
    "allDay": false,
-   "description": "Benefiční hudební odpoledne s Václavem Hudečkem\n\n\n\nSrdečně vás zveme na benefiční hudební odpoledne, které se uskuteční v neděli 12. dubna 2026 od 15:00 hodin v kostele sv. Zdislavy v Prostřední Bečvě.\n\n\n\nVýtěžek koncertu bude věnován na pořízení nových píšťalových varhan ve farním kostele sv. Antonína Paduánského na Dolní Bečvě.\n\n\n\nVýstavbu varhan můžete podpořit také darováním prostřednictvím QR kódu nebo zasláním příspěvku na účet 2102467778/2010.\n\n\n\nKoncert bude živě vysílán TV NOE.\n\n\n\nVíce info k výstavbě varhan: https://varhanyprodolnibecvu.cz/",
+   "description": "Benefiční hudební odpoledne s Václavem Hudečkem\n\nSrdečně vás zveme na benefiční hudební odpoledne, které se uskuteční v neděli 12. dubna 2026 od 15:00 hodin v kostele sv. Zdislavy v Prostřední Bečvě.\n\nVýtěžek koncertu bude věnován na pořízení nových píšťalových varhan ve farním kostele sv. Antonína Paduánského na Dolní Bečvě.\n\nVýstavbu varhan můžete podpořit také darováním prostřednictvím QR kódu nebo zasláním příspěvku na účet 2102467778/2010.\n\nKoncert bude živě vysílán TV NOE.\n\nVíce info k výstavbě varhan: https://varhanyprodolnibecvu.cz/",
    "image": "https://dekanatvalmez.cz/wp-content/uploads/2026/04/Beneficni-koncert-12.4.2026-642x900.webp",
    "recurring": false,
    "categories": [
@@ -1394,12 +1398,12 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.farnostroznov.cz/oznameni/podvody-a-bezpecnost-senioru-v-soucasne-dobe-8962",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nPodvody a bezpečnost seniorů v současné době\nPODVODY\nA BEZPEČNOST\nSENIORŮ V SOUČASNÉ\nDOBĚ",
+   "description": "PODVODY\nA BEZPEČNOST\nSENIORŮ V SOUČASNÉ\nDOBĚ",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776013829.jpg",
    "recurring": false,
    "categories": [
-    "seniori",
-    "vzdelavani"
+    "vzdelavani",
+    "seniori"
    ],
    "tags": []
   },
@@ -1448,17 +1452,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -1480,8 +1485,7 @@
    "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/akce/969_1776785677.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani",
-    "duchovni"
+    "vzdelavani"
    ],
    "tags": []
   },
@@ -1618,12 +1622,13 @@
    "allDay": false,
    "location": "Velehrad",
    "url": "https://www.farnostroznov.cz/oznameni/krestan-v-digitalnim-svete-8961",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nKřesťan v digitálním světě\n\r\n\r\nHledáte inspiraci, povzbuzení a nový pohled na to, jak žít víru v moderním světě? Konference Křesťan v digitálním světě přináší jedinečné propojení víry, inspirace a technologií na jednom místě.\n\r\nSetkáte se s lidmi, kteří chtějí růst – lidsky, profesně i duchovně. Uslyšíte silný příběh, získáte praktické podněty a objevíte, jak se v digitální době neztratit, ale naopak v ní najít pevný směr.\n\r\nCo vás čeká\n\r\n\r\ninspirativní řečníci\n\r\ntémata o víře, AI, digitálním…",
+   "description": "Hledáte inspiraci, povzbuzení a nový pohled na to, jak žít víru v moderním světě? Konference Křesťan v digitálním světě přináší jedinečné propojení víry, inspirace a technologií na jednom místě.\n\nSetkáte se s lidmi, kteří chtějí růst – lidsky, profesně i duchovně. Uslyšíte silný příběh, získáte praktické podněty a objevíte, jak se v digitální době neztratit, ale naopak v ní najít pevný směr.\n\nCo vás čeká\n\ninspirativní řečníci\n\ntémata o víře, AI, digitálním světě a podnikání\n\nprostor pro sdílení, rozhovory a nové kontakty\n\natmosféra Velehradu, která sama o sobě povzbuzuje\n\npro děti máme…",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776013543.jpg",
    "recurring": false,
    "categories": [
+    "duchovni",
     "vzdelavani",
-    "duchovni"
+    "deti"
    ],
    "tags": []
   },
@@ -1642,17 +1647,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -1695,7 +1701,7 @@
    "allDay": false,
    "location": "Svatý Hostýn",
    "url": "https://www.farnostroznov.cz/oznameni/2-moravska-pout-senioru-9024",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\n2. Moravská pouť seniorů\n2. Moravská pouť seniorů\nna Svatém Hostýně\n21. 5. 2026\nPROGRAM :",
+   "description": "Centrum pro rodinu zve všechny seniory na pouť na Hostýn 21. května 2026. K dispozici bude autobus s možností nastoupit již v Rožnově pod Radhoštěm a po trase, nutné přihlášení osobně v CPR VM nebo na tel. 733 741 636.",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1776546274.jpg",
    "recurring": false,
    "categories": [
@@ -1748,7 +1754,7 @@
    "allDay": false,
    "location": "kostel Všech svatých, Rožnov p. R.",
    "url": "https://www.farnostroznov.cz/oznameni/musica-priboriensis-pribor-koncert-9377",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nMusica Priboriensis Příbor - koncert\nMUSICA PRIBORIENSIS\nPŘÍBOR\nÚterý 26. 5. 2026 v 18 h\nKOSTEL VŠECH SVATÝCH, R. P. R.\nKONCERT\nPĚVECKÉHO SBORU\nMUSICA PRIBORIENSIS\nPAVEL RYBKÁ - varhany\nJéčko",
+   "description": "MUSICA PRIBORIENSIS\nPŘÍBOR\nÚterý 26. 5. 2026 v 18 h\nKOSTEL VŠECH SVATÝCH, R. P. R.\nKONCERT\nPĚVECKÉHO SBORU\nMUSICA PRIBORIENSIS\nPAVEL RYBKÁ - varhany\nJéčko",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779521117.jpg",
    "recurring": false,
    "categories": [
@@ -1773,7 +1779,7 @@
    "allDay": false,
    "location": "Galerie Kostnice",
    "url": "https://www.farnostroznov.cz/oznameni/hostina-vernisaz-vystavy-veroniky-richterove-v-galerii-kostnice-9378",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nHostina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice\n\r\n\r\nTéčko ve spolupráci s Římskokatolickou farností a Iskérkou si vás dovolují pozvat na vernisáž výstavy v Galerii Kostnice.\n\r\nOtevírací doba: úterý - sobota: 10:00 - 16:00, neděle: 11:00 - 15:00\nVýstavu můžete navštívit do 12. 7. 2026.\nVstupné dobrovolné.",
+   "description": "Téčko ve spolupráci s Římskokatolickou farností a Iskérkou si vás dovolují pozvat na vernisáž výstavy v Galerii Kostnice.\n\nOtevírací doba: úterý - sobota: 10:00 - 16:00, neděle: 11:00 - 15:00\nVýstavu můžete navštívit do 12. 7. 2026.\nVstupné dobrovolné.",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779522850.jpg",
    "recurring": false,
    "categories": [
@@ -1853,7 +1859,7 @@
    ],
    "location": "Zašová",
    "url": "https://www.farnostroznov.cz/oznameni/dekanatni-setkani-rodin-9381",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDěkanátní setkání rodin\nDĚKÁNÁTNÍ\nSETKÁNÍ RODIN\nZAŠOVÁ",
+   "description": "DĚKÁNÁTNÍ\nSETKÁNÍ RODIN\nZAŠOVÁ",
    "altTitles": [
     "Děkanátní setkání rodin",
     "DĚKANÁTNÍ SETKÁNÍ RODIN v Zašové"
@@ -1918,7 +1924,7 @@
    "allDay": false,
    "location": "kostel Všech svatých a farní zahrada",
    "url": "https://www.farnostroznov.cz/oznameni/farni-den-9380",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nFarní den\nFARNÍ DEN\nNEDĚLE 7. ČERVNA 2026",
+   "description": "NEDĚLE 7. ČERVNA 2026",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1779524754.jpg",
    "recurring": false,
    "categories": [
@@ -1963,17 +1969,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -2291,9 +2298,9 @@
    "start": "2026-09-05T14:00",
    "end": "2026-09-05T18:00",
    "allDay": false,
-   "location": "společenská místnost CPR, Valašské Meziříčí",
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Klub pro holky ve Valašském Meziříčí nabízí přednášku s knězem, povídání, svatou zpověď, tutoring a zábavu. Téma: Starost o lidi v našem okolí – výroba klíčenek a náramků, zdobení skřipců.",
+   "description": "Děti ve věku 7‑13 let se setkají v klubovně a pod vedením kněze budou vyrábět klíčenky a náramky a zdobit skřipce.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -2301,9 +2308,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "děti",
-    "aktivity"
+    "klub",
+    "holky",
+    "aktivita"
    ]
   },
   {
@@ -2344,17 +2351,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -2372,17 +2380,16 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče, cena 100 Kč za dítě, koná se v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+   "description": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani",
-    "deti"
+    "vzdelavani"
    ],
    "tags": [
     "keramika",
     "rodiny",
-    "vms"
+    "workshop"
    ]
   },
   {
@@ -2558,9 +2565,9 @@
    "start": "2026-10-10T14:00",
    "end": "2026-10-10T18:00",
    "allDay": false,
-   "location": "společenská místnost CPR, Valašské Meziříčí",
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Klub pro holky ve Valašském Meziříčí nabízí přednášku s knězem, povídání, svatou zpověď, tutoring a zábavu. Téma: Přátelství – výroba krmítek pro ptáčky.",
+   "description": "Děti se setkají a budou vyrábět krmítka pro ptáčky v duchu přátelství.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -2568,9 +2575,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "přátelství",
-    "aktivity"
+    "klub",
+    "holky",
+    "pratelstvi"
    ]
   },
   {
@@ -2588,17 +2595,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -2616,17 +2624,16 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče, cena 100 Kč za dítě, koná se v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+   "description": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani",
-    "deti"
+    "vzdelavani"
    ],
    "tags": [
     "keramika",
     "rodiny",
-    "vms"
+    "workshop"
    ]
   },
   {
@@ -2810,17 +2817,16 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče, cena 100 Kč za dítě, koná se v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+   "description": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani",
-    "deti"
+    "vzdelavani"
    ],
    "tags": [
     "keramika",
     "rodiny",
-    "vms"
+    "workshop"
    ]
   },
   {
@@ -2934,7 +2940,7 @@
    "allDay": false,
    "location": "Velehrad",
    "url": "https://www.farnostroznov.cz/oznameni/duchovni-obnova-s-p-pavlem-hofirkem-10443",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova s P. Pavlem Hofírkem\nDUCHOVNÍ OBNOVA\nTéma: CESTY APOŠTOLA PAVLA\nEXERCIČNÍ DŮM STOJANOV NA VELEHRADĚ\nObnova je určena pro všechny dospělé věřící.\nExercitátor: P. PAVEL HOŘÍREK\nZačátek: Pátek 20. listopadu 2026\nVečerní v 18:00 a první promluvu v 19:00\nZakončení: Neděle 22. listopadu 2026\nMši svatou v 9:00, besedou a obědem v 12:00",
+   "description": "DUCHOVNÍ OBNOVA\nTéma: CESTY APOŠTOLA PAVLA\nEXERCIČNÍ DŮM STOJANOV NA VELEHRADĚ\nObnova je určena pro všechny dospělé věřící.\nExercitátor: P. PAVEL HOŘÍREK\nZačátek: Pátek 20. listopadu 2026\nVečerní v 18:00 a první promluvu v 19:00\nZakončení: Neděle 22. listopadu 2026\nMši svatou v 9:00, besedou a obědem v 12:00",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1790970416.jpg",
    "recurring": false,
    "categories": [
@@ -2944,31 +2950,64 @@
   },
   {
    "organizers": [
+    "valmez",
     "roznov",
     "hutisko"
    ],
-   "id": "roznov-609d64ac14",
-   "source": "roznov",
+   "id": "valmez-a6d2f7b56b",
+   "source": "valmez",
    "sources": [
+    "valmez",
     "roznov",
     "hutisko"
    ],
-   "title": "Modlitba chval",
-   "start": "2026-11-20T18:45",
-   "end": "2026-11-20T20:45",
+   "title": "Večer chval",
+   "start": "2026-11-20T18:30",
+   "end": "2026-11-20T20:30",
    "allDay": false,
-   "location": "Rožnov, farní kostel",
-   "url": "https://farnostroznov.cz/udalost_detail.php?id=420559",
-   "description": "Po mši svaté od 18:00 hodin bude následovat Večer chval. Přijďte, budete vítáni!",
+   "location": "Kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+   "url": "https://farnost-valmez.cz/blog_clanek/vecer-chval-28086",
+   "description": "Večer chval v kostele Nanebevzetí Panny Marie ve Valašském Meziříčí, konající se po mši svaté v 18:30.",
+   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/862_1794906625_848x477.png",
    "recurring": false,
    "categories": [
     "duchovni"
    ],
    "tags": [
+    "vecherchval",
+    "vysluh",
     "chvaly"
    ],
    "altTitles": [
-    "Večer chval"
+    "Modlitba chval"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-ed1b175cce",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Klub pro holky – Sebedůvěra",
+   "start": "2026-11-21T14:00",
+   "end": "2026-11-21T18:00",
+   "allDay": false,
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
+   "description": "Děti si podpoří sebedůvěru pečením sušenek a společnou zábavou.",
+   "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
+   "recurring": false,
+   "categories": [
+    "deti",
+    "vzdelavani"
+   ],
+   "tags": [
+    "klub",
+    "holky",
+    "sebeduvera"
    ]
   },
   {
@@ -2986,17 +3025,45 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-67a5c1e6a6",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Červená středa – den připomínky pronásledovaných",
+   "start": "2026-11-25T18:15",
+   "end": "2026-11-25T20:15",
+   "allDay": false,
+   "location": "kostel sv. Kateřiny, Kelč",
+   "url": "https://farnostkelc.cz/blog_clanek/cervena-streda-v-nasi-farnosti-28159",
+   "description": "Den připomínky pronásledovaných křesťanů s mší a následnou modlitbou v kostele sv. Kateřiny.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167643_848x477.jpg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "červená středa",
+    "pronásledovaní",
+    "modlitba"
    ]
   },
   {
@@ -3014,7 +3081,7 @@
    "allDay": false,
    "location": "Frýdek-Místek",
    "url": "https://www.farnostroznov.cz/oznameni/godzone-tour-2026-10903",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nGodzone Tour 2026\nMONS. MARTINA DAVIDA, BISKUPA OSTRAVSKO-OPAVSKÉHO.\nGODZONE TOUR 2026\nJEŠTĚ NENÍ\nPOZDĚ",
+   "description": "MONS. MARTINA DAVIDA, BISKUPA OSTRAVSKO-OPAVSKÉHO.\nGODZONE TOUR 2026\nJEŠTĚ NENÍ\nPOZDĚ",
    "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/906_1794601067.jpg",
    "recurring": false,
    "categories": [
@@ -3037,7 +3104,7 @@
    "allDay": false,
    "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
    "url": "https://farnost-valmez.cz/blog_clanek/adventni-duchovni-obnova-27902",
-   "description": "Adventní duchovní obnova s o. Michaelem Špilarem, která zahrnuje promluvy, modlitby a společnou večeři, se koná v sobotu 28. listopadu 2026. Pro děti je zajištěno hlídání od 13:15 do 16:30.",
+   "description": "Adventní duchovní obnova s o. Michaelem Špilarem v kostele Nanebevzetí Panny Marie, zahrnující promluvy, modlitby a společnou večeři. Děti jsou pod hlídáním od 13:15 do 16:30.",
    "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/183_1794337894_848x477.png",
    "recurring": false,
    "categories": [
@@ -3046,8 +3113,8 @@
    ],
    "tags": [
     "advent",
-    "spiritualita",
-    "hlídání"
+    "duchovni",
+    "rodina"
    ]
   },
   {
@@ -3070,7 +3137,7 @@
    "allDay": false,
    "location": "fara Zašová",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adventn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html",
-   "description": "Detaily oznámení\n\r\n\r\n\r\n\r\n\r\nKategorie:\r\nVlastní\r\n\r\n\r\n\r\nSdílet:\r\n\r\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\r\n\r\nDuchovní obnova pro ženy\nCentrum pro rodinu Valašské Meziříčí vás zve na\nADVENTNÍ DUCHOVNÍ OBNOVU\nPRO ŽENY\n\"V mých očích jsi drahá a vzácná\"",
+   "description": "Adventní duchovní obnova pro ženy v farnosti Zašová, lektorka Věra Kulišťáková.",
    "image": "https://www.valmez.dcpr.cz/images/DUCHOVN_OBNOVA_PRO_ENY_2026_2_1_1.png",
    "recurring": false,
    "categories": [
@@ -3101,17 +3168,16 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče, cena 100 Kč za dítě, koná se v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+   "description": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
-    "vzdelavani",
-    "deti"
+    "vzdelavani"
    ],
    "tags": [
     "keramika",
     "rodiny",
-    "vms"
+    "workshop"
    ]
   },
   {
@@ -3129,17 +3195,18 @@
    "allDay": false,
    "location": "Společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – společenská taneční setkání s biblickou tematikou.",
+   "description": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
     "kultura",
-    "vzdelavani"
+    "vzdelavani",
+    "rodina"
    ],
    "tags": [
     "biblické tance",
     "tance",
-    "společenská"
+    "valašské meziříčí"
    ]
   },
   {
@@ -3155,13 +3222,14 @@
    "start": "2026-12-17T15:30",
    "end": "2026-12-17T17:00",
    "allDay": false,
-   "location": "Veselá",
+   "location": "fara Veselá",
    "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
-   "description": "Předvánoční zpovídání v obci Veselá, vedeno P. Petrem Dujkou.",
+   "description": "Předvánoční zpovídání v kostele ve Veselé, kněz Petr Dujka.",
    "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
    "recurring": false,
    "categories": [
-    "zpoved"
+    "zpoved",
+    "duchovni"
    ],
    "tags": [
     "zpovídání",
@@ -3183,19 +3251,75 @@
    "start": "2026-12-19T13:00",
    "end": "2026-12-19T14:30",
    "allDay": false,
-   "location": "Zašová",
+   "location": "fara Zašová",
    "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
-   "description": "Předvánoční zpovídání v Zašově.",
+   "description": "Předvánoční zpovídání v kostele v Zašové.",
    "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
    "recurring": false,
    "categories": [
-    "zpoved"
+    "zpoved",
+    "duchovni"
    ],
    "tags": [
     "zpovídání",
     "předvánoční",
     "zašová",
     "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-0e8c6c60a0",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Svátost smíření",
+   "start": "2026-12-19T13:00",
+   "end": "2026-12-19T15:00",
+   "allDay": false,
+   "location": "farní kostel, Kelč",
+   "url": "https://farnostkelc.cz/blog_clanek/predvanocni-zpovidani-28163",
+   "description": "Předvánoční zpovídání ve farním kostele v Kelči.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167883_848x477.png",
+   "recurring": false,
+   "categories": [
+    "zpoved"
+   ],
+   "tags": [
+    "zpovídání",
+    "kelč",
+    "předvánoční",
+    "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-cb535cf097",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Koncert Moravské veselky",
+   "start": "2026-12-20T17:00",
+   "end": "2026-12-20T19:00",
+   "allDay": false,
+   "location": "Skalička Sokolovna",
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Vánoční koncert Moravské veselky v Skaličce.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "koncert",
+    "kelč",
+    "vánoce"
    ]
   },
   {
@@ -3212,6 +3336,33 @@
    "recurring": false,
    "categories": [],
    "tags": []
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-d339563ad2",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Živý betlém",
+   "start": "2026-12-24T12:00",
+   "end": "2026-12-24T14:00",
+   "allDay": false,
+   "location": "náměstí Kelč",
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Vánoční živý betlém na náměstí v Kelči.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "betlém",
+    "kelč",
+    "vánoce"
+   ]
   },
   {
    "organizers": [],
@@ -3249,31 +3400,110 @@
   },
   {
    "organizers": [
-    "zasova"
+    "kelc"
    ],
-   "id": "zasova-59c5d1123f",
-   "source": "zasova",
+   "id": "kelc-6506601a06",
+   "source": "kelc",
    "sources": [
-    "zasova"
+    "kelc"
    ],
-   "title": "Vánoční hra dětí",
-   "start": "2026-12-26T11:30",
-   "end": "2026-12-26T13:30",
+   "title": "Štěpánský koncert",
+   "start": "2026-12-26T15:00",
+   "end": "2026-12-26T17:00",
    "allDay": false,
-   "location": "Zašová",
-   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
-   "description": "Dětská vánoční hra během svátků v Zašově.",
-   "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
+   "location": "Kelč",
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Vánoční koncert v Kelči – Štěpánský koncert.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
    "recurring": false,
    "categories": [
-    "kultura",
-    "deti"
+    "kultura"
    ],
    "tags": [
-    "hra",
-    "vánoční",
-    "děti",
+    "koncert",
+    "kelč",
+    "vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-2ca7ccdd63",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Koncert Regruti Kelč",
+   "start": "2026-12-27T17:00",
+   "end": "2026-12-27T19:00",
+   "allDay": false,
+   "location": "Kelč kostel",
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Vánoční koncert Regruti v kostele v Kelči.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "koncert",
+    "kelč",
+    "vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-5190324ec4",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Putování po Kapličkách",
+   "start": "2026-12-28",
+   "end": "2026-12-28",
+   "allDay": true,
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Po vánočních mších se koná putování po kapličkách v okolí Kelče.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
+   "recurring": false,
+   "categories": [
+    "duchovni"
+   ],
+   "tags": [
+    "pilgrimáž",
+    "kapličky",
+    "kelč",
     "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "kelc"
+   ],
+   "id": "kelc-d9c09202b6",
+   "source": "kelc",
+   "sources": [
+    "kelc"
+   ],
+   "title": "Vánoční koncert Kladeruby",
+   "start": "2026-12-28T17:00",
+   "end": "2026-12-28T19:00",
+   "allDay": false,
+   "location": "Kladeruby",
+   "url": "https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161",
+   "description": "Vánoční koncert v Kladerubách.",
+   "image": "https://o1.agendafarnosti.cz/farnostkelc.cz/img/blog/1808_1795167829_848x477.jpeg",
+   "recurring": false,
+   "categories": [
+    "kultura"
+   ],
+   "tags": [
+    "koncert",
+    "kladeruby",
+    "vánoce"
    ]
   },
   {
@@ -3290,6 +3520,34 @@
    "recurring": false,
    "categories": [],
    "tags": []
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-f6f3231b8d",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Klub pro holky – Mé talenty",
+   "start": "2027-01-09T14:00",
+   "end": "2027-01-09T18:00",
+   "allDay": false,
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
+   "description": "Děti se zaměří na práci s vlněmi a rozvíjení svých talentů.",
+   "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
+   "recurring": false,
+   "categories": [
+    "deti",
+    "vzdelavani"
+   ],
+   "tags": [
+    "klub",
+    "holky",
+    "talenty"
+   ]
   },
   {
    "organizers": [
@@ -3472,6 +3730,34 @@
    "organizers": [
     "cpr"
    ],
+   "id": "cpr-6f024f0f1e",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Klub pro holky – Síla laskavosti a dobrých skutků",
+   "start": "2027-04-10T14:00",
+   "end": "2027-04-10T18:00",
+   "allDay": false,
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
+   "description": "Děti se zapojí do dobrovolnické činnosti na faře a podpoří laskavost.",
+   "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
+   "recurring": false,
+   "categories": [
+    "deti",
+    "vzdelavani"
+   ],
+   "tags": [
+    "klub",
+    "holky",
+    "dobrovolnictvi"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
    "id": "choryne-eeeef0b3bc",
    "source": "choryne",
    "sources": [
@@ -3560,6 +3846,34 @@
    "organizers": [
     "cpr"
    ],
+   "id": "cpr-8855224c77",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Klub pro holky – V jednoduchosti je krása",
+   "start": "2027-05-22T14:00",
+   "end": "2027-05-22T18:00",
+   "allDay": false,
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
+   "description": "Děti budou vyrábět visačky a etikety na letní zavařování, učí se jednoduché řemeslo.",
+   "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
+   "recurring": false,
+   "categories": [
+    "deti",
+    "vzdelavani"
+   ],
+   "tags": [
+    "klub",
+    "holky",
+    "zavarneni"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
    "id": "choryne-fa112005bf",
    "source": "choryne",
    "sources": [
@@ -3583,6 +3897,34 @@
     "kurz",
     "2027",
     "snoubenci"
+   ]
+  },
+  {
+   "organizers": [
+    "cpr"
+   ],
+   "id": "cpr-4c91daee19",
+   "source": "cpr",
+   "sources": [
+    "cpr"
+   ],
+   "title": "Klub pro holky – Ženy, které mění svět",
+   "start": "2027-06-12T14:00",
+   "end": "2027-06-12T18:00",
+   "allDay": false,
+   "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+   "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
+   "description": "Děti se vydají na výlet inspirovaný příběhy žen, které mění svět.",
+   "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
+   "recurring": false,
+   "categories": [
+    "deti",
+    "vzdelavani"
+   ],
+   "tags": [
+    "klub",
+    "holky",
+    "vylet"
    ]
   },
   {

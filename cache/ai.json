@@ -65,10 +65,23 @@
    "kultura"
   ]
  },
+ "cl-13b492c7e0": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "deti"
+  ]
+ },
  "cl-14ff418c98": {
   "keep": true,
   "categories": [
    "duchovni"
+  ]
+ },
+ "cl-15f8838a0d": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-171a8ecdd5": {
@@ -180,6 +193,13 @@
    "rodina"
   ]
  },
+ "cl-2b7b10ebf9": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "vzdelavani"
+  ]
+ },
  "cl-2e2189b7a2": {
   "keep": false,
   "categories": []
@@ -220,6 +240,12 @@
   "categories": []
  },
  "cl-354d42bc84": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-36ddfb1a11": {
   "keep": true,
   "categories": [
    "duchovni"
@@ -301,6 +327,12 @@
    "pout"
   ]
  },
+ "cl-4887ccdc8a": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-49eec5526e": {
   "keep": true,
   "categories": [
@@ -354,6 +386,12 @@
  "cl-55da8b28ad": {
   "keep": false,
   "categories": []
+ },
+ "cl-564634e744": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
  },
  "cl-571dc7f2c8": {
   "keep": true,
@@ -409,6 +447,13 @@
    "charita"
   ]
  },
+ "cl-6727658216": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "seniori"
+  ]
+ },
  "cl-698f286a53": {
   "keep": true,
   "categories": [
@@ -426,6 +471,12 @@
   "categories": []
  },
  "cl-6ca2fa2cce": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-6d3a027297": {
   "keep": true,
   "categories": [
    "kultura"
@@ -527,11 +578,31 @@
   "keep": false,
   "categories": []
  },
+ "cl-85c67d54d5": {
+  "keep": false,
+  "categories": []
+ },
  "cl-86dcc4a993": {
   "keep": true,
   "categories": [
    "vzdelavani",
    "duchovni"
+  ]
+ },
+ "cl-87ede8261c": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-88c210f911": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-8a9bfb0aff": {
+  "keep": true,
+  "categories": [
+   "rodina"
   ]
  },
  "cl-8b9d0027ac": {
@@ -755,6 +826,12 @@
    "rodina"
   ]
  },
+ "cl-af6df4f2a1": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
  "cl-aff375797c": {
   "keep": false,
   "categories": []
@@ -849,6 +926,12 @@
   "keep": false,
   "categories": []
  },
+ "cl-bd854bd5cd": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-bd8e3ff4af": {
   "keep": false,
   "categories": []
@@ -909,11 +992,21 @@
    "kultura"
   ]
  },
+ "cl-caf53f7f8f": {
+  "keep": false,
+  "categories": []
+ },
  "cl-cd19071741": {
   "keep": true,
   "categories": [
    "seniori",
    "vzdelavani"
+  ]
+ },
+ "cl-ce1ed8c099": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-cf43c7cdd7": {
@@ -993,6 +1086,12 @@
    "kultura"
   ]
  },
+ "cl-ddd45630fe": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-ddfe79f308": {
   "keep": false,
   "categories": []
@@ -1014,6 +1113,10 @@
   "categories": [
    "kultura"
   ]
+ },
+ "cl-e4a942fd3b": {
+  "keep": false,
+  "categories": []
  },
  "cl-e53c3dde50": {
   "keep": true,
@@ -1067,6 +1170,12 @@
    "pout"
   ]
  },
+ "cl-f04b660b0e": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-f1288d0b27": {
   "keep": true,
   "categories": [
@@ -1085,6 +1194,10 @@
   ]
  },
  "cl-f44a959547": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-f515352c7e": {
   "keep": false,
   "categories": []
  },
@@ -1118,6 +1231,13 @@
   "keep": false,
   "categories": []
  },
+ "cl-f9b6b5947e": {
+  "keep": true,
+  "categories": [
+   "vzdelavani",
+   "seniori"
+  ]
+ },
  "cl-fa9606a60c": {
   "keep": false,
   "categories": []
@@ -1139,9 +1259,37 @@
   ]
  },
  "dup-15034f2087": false,
+ "dup-231856046f": false,
+ "dup-27830c6588": false,
  "dup-35cd5fe1fa": false,
+ "dup-a4136bf1bc": false,
  "dup-c28c1d879c": false,
  "dup-fbbe169703": false,
+ "ex-00f2c8252a": {
+  "at": "2026-11-20T13:29:24.578Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova pro ženy v farnosti Zašová, lektorka Věra Kulišťáková.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "obnova",
+     "ženy"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
+ },
  "ex-02b2eb6c63": {
   "at": "2026-11-19T02:33:05.644Z",
   "events": [
@@ -1601,6 +1749,31 @@
  "ex-1266ca8cac": {
   "at": "2026-11-20T02:32:24.216Z",
   "events": []
+ },
+ "ex-18bea295a9": {
+  "at": "2026-11-20T13:25:04.830Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "20:00",
+    "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+    "organizer": "Římskokatolická farnost Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova s o. Michaelem Špilarem v kostele Nanebevzetí Panny Marie, zahrnující promluvy, modlitby a společnou večeři. Děti jsou pod hlídáním od 13:15 do 16:30.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "duchovni",
+     "rodina"
+    ],
+    "image": null,
+    "quote": "sobota 28. listopadu 2026"
+   }
+  ]
  },
  "ex-18c5c3f5af": {
   "at": "2026-11-17T10:45:13.674Z",
@@ -2263,6 +2436,35 @@
    }
   ]
  },
+ "ex-2afc1a82f6": {
+  "at": "2026-11-20T13:26:21.048Z",
+  "events": []
+ },
+ "ex-35ab338a48": {
+  "at": "2026-11-20T13:27:37.867Z",
+  "events": [
+   {
+    "title": "Červená středa – den připomínky pronásledovaných",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": "18:15",
+    "endTime": null,
+    "location": "kostel sv. Kateřiny, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "Den připomínky pronásledovaných křesťanů s mší a následnou modlitbou v kostele sv. Kateřiny.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "červená středa",
+     "pronásledovaní",
+     "modlitba"
+    ],
+    "image": null,
+    "quote": "25. LISTOPADU 2026"
+   }
+  ]
+ },
  "ex-360a5caf62": {
   "at": "2026-11-20T02:30:41.873Z",
   "events": []
@@ -2486,6 +2688,99 @@
     ],
     "image": null,
     "quote": "31.10.2026 Sbírka na pomoc pronásledovaným křesťanům bude 15. listopadu."
+   }
+  ]
+ },
+ "ex-4537445e4c": {
+  "at": "2026-11-20T13:30:03.155Z",
+  "events": [
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-09-15",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "kultura"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "15. 9."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-10-13",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "kultura"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "13.10."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "kultura"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "10.11."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-12-08",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramické tvoření pro rodiče a prarodiče s dětmi. Praktické workshopy v 16‑17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "kultura"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "8.12."
    }
   ]
  },
@@ -3013,6 +3308,10 @@
    }
   ]
  },
+ "ex-6963e045aa": {
+  "at": "2026-11-20T13:29:23.115Z",
+  "events": []
+ },
  "ex-6e03f993e2": {
   "at": "2026-11-17T10:43:55.969Z",
   "events": [
@@ -3181,6 +3480,30 @@
  "ex-74d34240c6": {
   "at": "2026-11-18T02:41:03.907Z",
   "events": []
+ },
+ "ex-74f17364fa": {
+  "at": "2026-11-20T13:24:48.486Z",
+  "events": [
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": null,
+    "location": "Kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+    "organizer": null,
+    "summary": "Večer chval v kostele Nanebevzetí Panny Marie ve Valašském Meziříčí, konající se po mši svaté v 18:30.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "vecherchval",
+     "vysluh"
+    ],
+    "image": null,
+    "quote": "20.11.2026\nMŠE SVATÁ V 17:30\nVEČER CHVAL V 18:30"
+   }
+  ]
  },
  "ex-77857c4f25": {
   "at": "2026-11-17T10:43:36.238Z",
@@ -3775,6 +4098,10 @@
   "at": "2026-11-17T10:32:26.811Z",
   "events": []
  },
+ "ex-822431ac8f": {
+  "at": "2026-11-20T13:26:39.116Z",
+  "events": []
+ },
  "ex-8947bf01cd": {
   "at": "2026-11-18T02:43:50.583Z",
   "events": [
@@ -3984,6 +4311,10 @@
   "at": "2026-11-19T09:58:39.378Z",
   "events": []
  },
+ "ex-8f36464ae3": {
+  "at": "2026-11-20T13:27:58.589Z",
+  "events": []
+ },
  "ex-905071cd28": {
   "at": "2026-11-20T02:33:06.545Z",
   "events": [
@@ -4183,6 +4514,158 @@
   "at": "2026-11-19T09:58:45.000Z",
   "events": []
  },
+ "ex-953ab023fc": {
+  "at": "2026-11-20T13:29:30.580Z",
+  "events": [
+   {
+    "title": "Klub pro holky – Starost o lidi v našem okolí",
+    "date": "2026-09-05",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti ve věku 7‑13 let se setkají v klubovně a pod vedením kněze budou vyrábět klíčenky a náramky a zdobit skřipce.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "aktivita"
+    ],
+    "image": null,
+    "quote": "5. září 2026\nTÉMA: Starost o lidi v našem okolí"
+   },
+   {
+    "title": "Klub pro holky – Přátelství",
+    "date": "2026-10-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti se setkají a budou vyrábět krmítka pro ptáčky v duchu přátelství.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "pratelstvi"
+    ],
+    "image": null,
+    "quote": "10. října 2026\nTÉMA: Přátelství"
+   },
+   {
+    "title": "Klub pro holky – Sebedůvěra",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti si podpoří sebedůvěru pečením sušenek a společnou zábavou.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "sebeduvera"
+    ],
+    "image": null,
+    "quote": "21. listopadu 2026\nTÉMA: Sebedůvěra"
+   },
+   {
+    "title": "Klub pro holky – Mé talenty",
+    "date": "2027-01-09",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti se zaměří na práci s vlněmi a rozvíjení svých talentů.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "talenty"
+    ],
+    "image": null,
+    "quote": "9. ledna 2027\nTÉMA: Mé talenty"
+   },
+   {
+    "title": "Klub pro holky – Síla laskavosti a dobrých skutků",
+    "date": "2027-04-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti se zapojí do dobrovolnické činnosti na faře a podpoří laskavost.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "dobrovolnictvi"
+    ],
+    "image": null,
+    "quote": "10. dubna 2027\nTÉMA: Síla laskavosti a dobrých\nskutků"
+   },
+   {
+    "title": "Klub pro holky – V jednoduchosti je krása",
+    "date": "2027-05-22",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti budou vyrábět visačky a etikety na letní zavařování, učí se jednoduché řemeslo.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "zavarneni"
+    ],
+    "image": null,
+    "quote": "22. května 2027\nTÉMA: V jednoduchosti je krása"
+   },
+   {
+    "title": "Klub pro holky – Ženy, které mění svět",
+    "date": "2027-06-12",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Děti se vydají na výlet inspirovaný příběhy žen, které mění svět.",
+    "categories": [
+     "deti",
+     "vzdelavani"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "vylet"
+    ],
+    "image": null,
+    "quote": "12. června 2027\nTÉMA: Ženy, které mění svět"
+   }
+  ]
+ },
  "ex-97aa5a2e84": {
   "at": "2026-11-17T10:35:18.597Z",
   "events": [
@@ -4249,6 +4732,10 @@
     "quote": "5. prosince 2026"
    }
   ]
+ },
+ "ex-a2375fd4a7": {
+  "at": "2026-11-20T13:27:53.451Z",
+  "events": []
  },
  "ex-a370e101ab": {
   "at": "2026-11-17T10:36:36.357Z",
@@ -4665,8 +5152,37 @@
    }
   ]
  },
+ "ex-aa5a3ff09b": {
+  "at": "2026-11-20T13:26:50.603Z",
+  "events": [
+   {
+    "title": "Svátost smíření",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "13:00",
+    "endTime": "15:00",
+    "location": "farní kostel, Kelč",
+    "organizer": "fara Kelč",
+    "summary": "Předvánoční zpovídání ve farním kostele v Kelči.",
+    "categories": [
+     "zpoved"
+    ],
+    "tags": [
+     "zpovídání",
+     "kelč",
+     "předvánoční"
+    ],
+    "image": null,
+    "quote": "19.12.2026 13:00 - 15:00"
+   }
+  ]
+ },
  "ex-ac18ea20ed": {
   "at": "2026-11-17T10:34:11.899Z",
+  "events": []
+ },
+ "ex-afa0063545": {
+  "at": "2026-11-20T13:23:07.551Z",
   "events": []
  },
  "ex-b055d21675": {
@@ -4878,6 +5394,94 @@
    }
   ]
  },
+ "ex-b314097e6a": {
+  "at": "2026-11-20T13:28:16.420Z",
+  "events": [
+   {
+    "title": "Koncert Zašovského chrámového sboru",
+    "date": "2026-12-25",
+    "endDate": null,
+    "time": "15:00",
+    "endTime": null,
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Koncert Zašovského chrámového sboru v kostele v Zašové.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "chrámový sbor"
+    ],
+    "image": null,
+    "quote": "Pátek 25.12. … Zašová - 15:00 hod. koncert Zašovského chrámového sboru"
+   },
+   {
+    "title": "Vánoční hra dětí",
+    "date": "2026-12-26",
+    "endDate": null,
+    "time": "11:30",
+    "endTime": null,
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Vánoční hra dětí během svátku Sv. Štěpána v Zašové.",
+    "categories": [
+     "kultura",
+     "deti"
+    ],
+    "tags": [
+     "hra",
+     "vánoce",
+     "děti"
+    ],
+    "image": null,
+    "quote": "Sobota 26.12. … (11.30 vánoční hra dětí)"
+   },
+   {
+    "title": "Předvánoční zpovídání",
+    "date": "2026-12-17",
+    "endDate": null,
+    "time": "15:30",
+    "endTime": "17:00",
+    "location": "fara Veselá",
+    "organizer": "farnost Veselá",
+    "summary": "Předvánoční zpovídání v kostele ve Veselé, kněz Petr Dujka.",
+    "categories": [
+     "zpoved",
+     "duchovni"
+    ],
+    "tags": [
+     "zpovídání",
+     "předvánoční",
+     "veselá"
+    ],
+    "image": null,
+    "quote": "Veselá: čtvrtek 17.12. od 15:30 do 17:00 hod. (P. Petr Dujka)"
+   },
+   {
+    "title": "Předvánoční zpovídání",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "13:00",
+    "endTime": "14:30",
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Předvánoční zpovídání v kostele v Zašové.",
+    "categories": [
+     "zpoved",
+     "duchovni"
+    ],
+    "tags": [
+     "zpovídání",
+     "předvánoční",
+     "zašová"
+    ],
+    "image": null,
+    "quote": "Zašová: sobota 19.12. od 13:00 do 14:30 hod."
+   }
+  ]
+ },
  "ex-b630ae9556": {
   "at": "2026-11-17T10:36:11.512Z",
   "events": [
@@ -4945,6 +5549,10 @@
  },
  "ex-b78c53e5f0": {
   "at": "2026-11-18T02:40:33.485Z",
+  "events": []
+ },
+ "ex-baf73170b4": {
+  "at": "2026-11-20T13:25:35.672Z",
   "events": []
  },
  "ex-c2f7c0ab5b": {
@@ -5027,6 +5635,10 @@
     "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
    }
   ]
+ },
+ "ex-ca2f2fbac2": {
+  "at": "2026-11-20T13:25:55.572Z",
+  "events": []
  },
  "ex-cdbe333724": {
   "at": "2026-11-18T02:42:46.377Z",
@@ -5252,8 +5864,217 @@
   "at": "2026-11-18T02:42:19.410Z",
   "events": []
  },
+ "ex-d6fb5c4511": {
+  "at": "2026-11-20T13:29:41.214Z",
+  "events": [
+   {
+    "title": "Biblické tance",
+    "date": "2026-01-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "12. ledna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-02-16",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "16. února v 17 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-03-16",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "16. března v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-04-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "20. dubna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-05-18",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "18. května v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-06-15",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "15. června v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-09-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "14. září v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-10-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "12. října v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "23. listopadu v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-12-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Fara Valašské Meziříčí, Centrum pro rodinu",
+    "summary": "Biblické tance pořádané farností Valašské Meziříčí a Centrem pro rodinu, konané v společenské místnosti CPR.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "valašské meziříčí"
+    ],
+    "image": null,
+    "quote": "14. prosince v 18 h"
+   }
+  ]
+ },
  "ex-d8acd7743e": {
   "at": "2026-11-18T02:41:52.925Z",
+  "events": []
+ },
+ "ex-d97342fbc8": {
+  "at": "2026-11-20T13:28:45.412Z",
   "events": []
  },
  "ex-dae56488ac": {
@@ -5531,6 +6352,160 @@
   "at": "2026-11-18T02:33:55.959Z",
   "events": []
  },
+ "ex-f0bbcf1f5e": {
+  "at": "2026-11-20T13:26:07.418Z",
+  "events": [
+   {
+    "title": "Klub maminek – setkání",
+    "date": "2026-09-21",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "11:00",
+    "location": "Centrum pro rodinu, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Setkání Klubu maminek pro maminky s dětmi, otevřené pro nové účastnice.",
+    "categories": [
+     "rodina"
+    ],
+    "tags": [
+     "klub maminek",
+     "setkání",
+     "ženy"
+    ],
+    "image": null,
+    "quote": null
+   }
+  ]
+ },
+ "ex-f1a292176a": {
+  "at": "2026-11-20T13:25:22.718Z",
+  "events": []
+ },
+ "ex-f6e0b61ec1": {
+  "at": "2026-11-20T13:27:10.894Z",
+  "events": [
+   {
+    "title": "Koncert Moravské veselky",
+    "date": "2026-12-20",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Skalička Sokolovna",
+    "organizer": "farnost Kelč",
+    "summary": "Vánoční koncert Moravské veselky v Skaličce.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "kelč"
+    ],
+    "image": null,
+    "quote": "NEDĚLE 20.12. 17:00 SKALIČKA SOKOLOVNA KONCERT MORAVSKÉ VESELKY"
+   },
+   {
+    "title": "Živý betlém",
+    "date": "2026-12-24",
+    "endDate": null,
+    "time": "12:00",
+    "endTime": null,
+    "location": "náměstí Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "Vánoční živý betlém na náměstí v Kelči.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "betlém",
+     "vánoce",
+     "kelč"
+    ],
+    "image": null,
+    "quote": "12:00 ŽIVÝ BETLÉM - NÁMĚSTÍ KELČ"
+   },
+   {
+    "title": "Štěpánský koncert",
+    "date": "2026-12-26",
+    "endDate": null,
+    "time": "15:00",
+    "endTime": null,
+    "location": "Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "Vánoční koncert v Kelči – Štěpánský koncert.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "kelč"
+    ],
+    "image": null,
+    "quote": "15:00 KELČ - ŠTĚPÁNSKÝ KONCERT SCHOLY A SCHOLICKÝ"
+   },
+   {
+    "title": "Koncert Regruti Kelč",
+    "date": "2026-12-27",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Kelč kostel",
+    "organizer": "farnost Kelč",
+    "summary": "Vánoční koncert Regruti v kostele v Kelči.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "kelč"
+    ],
+    "image": null,
+    "quote": "17:00 KELČ KOSTEL KONCERT REGRUTI KELČ"
+   },
+   {
+    "title": "Putování po Kapličkách",
+    "date": "2026-12-28",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Kelč",
+    "summary": "Po vánočních mších se koná putování po kapličkách v okolí Kelče.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "pilgrimáž",
+     "kapličky",
+     "kelč"
+    ],
+    "image": null,
+    "quote": "POTÉ PUTOVÁNÍ PO KAPLIČKÁCH"
+   },
+   {
+    "title": "Vánoční koncert Kladeruby",
+    "date": "2026-12-28",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Kladeruby",
+    "organizer": "farnost Kelč",
+    "summary": "Vánoční koncert v Kladerubách.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "kladeruby"
+    ],
+    "image": null,
+    "quote": "17:00 KLADERUBY - VÁNOČNÍ KONCERT"
+   }
+  ]
+ },
  "ex-f71aadb3ef": {
   "at": "2026-11-17T10:35:47.970Z",
   "events": [
@@ -5746,6 +6721,10 @@
   "at": "2026-11-17T11:23:58.746Z",
   "text": "POSTNÍ DUCHOVNÍ\nOBNOVA PRO MUŽE\nTéma: BOŽÍ PŘÍTOMNOST V MÉM ŽIVOTĚ\nPovede: o. JAN MACH\n14. března 2026"
  },
+ "ocr-26af5d9052": {
+  "at": "2026-11-20T13:22:35.228Z",
+  "text": "PRO VŠECHNY, KTEŘÍ SI PROŠLI ROZVODEM ČI ROZPADEM PARTNERSKÉHO VZTAHU\nVYKROČIT\nSpolečenství\nHledáš společenství po rozpadu manželství či partnerství? Nemusíš na to být sám."
+ },
  "ocr-2d8a9444eb": {
   "at": "2026-11-17T10:43:52.861Z",
   "text": "Spolufinancováno\nEvropskou unií\nCENTRUM PRO RODINU\nVALAŠSKÉ MEZÍŘÍČÍ\nARCIBISKUPSTVÍ\nOLOMOUCKÉ\nTRÉNINK PAMĚTI\nPODZIM/ZIMA 2026\n17. září\n8. října\n5. listopadu\n3. prosince\nlektorka: MONIKA SANTOVJÁKOVÁ\n• trénink paměti vždy od 9.30-11 h\n• fara Valašské Meziříčí, Královského 60/8\n• zábavnou formou trénink a koncentrace vašeho mozku\nPOČET OSOB OMEZENÝ\nZDARMA PRO SENIORY\nNUTNÉ PŘIHLÁŠENÍ\nCENTRUM PRO RODINU\nTEL. 605 552 728, 733 741 636\nwww.valmez.dcpr.cz\nNázev projektu: MASR OPZ+2.projekt\nReg.č.projektu: CZ.03.02.01/00/25_084/0006322"
@@ -5770,6 +6749,10 @@
   "at": "2026-11-17T11:20:36.264Z",
   "text": "DUCHOVNÍ OBNOVA\nTéma: CESTY APOŠTOLA PAVLA\nEXERCIČNÍ DŮM STOJANOV NA VELEHRADĚ\nObnova je určena pro všechny dospělé věřící.\nExercitátor: P. PAVEL HOŘÍREK\nZačátek: Pátek 20. listopadu 2026\nVečerní v 18:00 a první promluvu v 19:00\nZakončení: Neděle 22. listopadu 2026\nMši svatou v 9:00, besedou a obědem v 12:00"
  },
+ "ocr-5addd2387a": {
+  "at": "2026-11-20T13:26:40.189Z",
+  "text": "SVÁTOST\nSMÍŘENÍ\nV KELČI\n19.12.2026\n13:00 - 15:00\nVE FARNÍM KOSTELE\nKELČ\nPřijďte se\nsmířit s Bohem..."
+ },
  "ocr-5bf77db597": {
   "at": "2026-11-17T12:59:36.925Z",
   "text": "PASTORAČNÍ RADA FARNOSTI\nÚKOLY PASTORAČNÍ RADY\nPastorační rada\nje důležitý orgán\nve správě farnosti.\nJe poradním orgánem faráře\na spolupracuje\nna vytváření\nspolečenství farnosti.\nspolu s farářem posuzovat otázky\ntýkající se farnosti a radit se o nich\nnalézat možnosti řešení\nusnášet se na opatřeních\nposkytovat součinnost\npři realizaci opatření\npřímo opatření realizovat"
@@ -5790,6 +6773,10 @@
   "at": "2026-11-17T12:58:38.869Z",
   "text": "JMENOVÁNÍ FARÁŘEM\nTRUSINOVÁ\nJANA\nBÁRTEK\nDAVID\nZÁSTUPCI SPOLKŮ\nŠIMČÍKOVÁ\nANNA\nDS Rybíčky\nMIKUŠEK\nHYNEK\nZŠ Salvador\nKOLAJOVÁ\nKATERÍNA\nCharita\nČLENOVÉ EX OFFO\nBERKA\nJAN\nfarář\nZAWOJSKI\nMAREK\nkaplan\nDRÍMAL\nJIŘÍ\njáhen\nVRÁNA\nPETR\njáhen"
  },
+ "ocr-7404f2374f": {
+  "at": "2026-11-20T13:26:52.943Z",
+  "text": "Vánoční pořad bohoslužeb a akcí\nve farnosti Kelč 2026\n\nNEDĚLE 20.12.\n17:00 SKALIČKA SOKOLOVNA\nKONCERT MORAVSKÉ VESELKY\n\nČTVRTEK 24.12.\nŠTĚDRÝ DEN\n7:30 POSLEDNÍ RORÁTY\n12:00 ŽIVÝ BETLÉM - NÁMĚSTÍ KELČ\n21:00 MŠE SV. ZÁMRSKY\n22:30 PULNOČNÍ MŠE SV. KELČ\n\nPÁTEK 25.12.\nSLAVNOST NAROZENÍ PÁŇE\n7:00, 10:00 MŠE SV. KELČ\n8:30 MŠE SV. KLADERUBY\n\nSOBOTA 26.12.\nSVÁTEK SV. ŠTĚPÁNA\n7:00, 10:00 MŠE SV. KELČ\n8:30 MŠE SV. NEMETICE\n15:00 KELČ - ŠTĚPÁNSKÝ KONCERT\nSCHOLY A SCHOLICKÝ\n\nNEDĚLE 27.12.\n7:00, 10:00 MŠE SV. KELČ\n8:30 MŠE SV. KLADERUBY\n11:15 MŠE SV. SKALIČKA\n17:00 KELČ KOSTEL\nKONCERT REGRUTI KELČ\n\nPONEDĚLÍ 28.12.\n8:00 MŠE SV. KELČ\nPOTÉ PUTOVÁNÍ PO KAPLIČKÁCH\n17:00 KLADERUBY - VÁNOČNÍ KONCERT\n17:30 MŠE SV. NEMETICE\n\nSTŘEDA 30.12.\n17:30 MŠE SV. ZÁMRSKY\n\nČTVRTEK 31.12.\n17:00 DĚKOVNÁ MŠE SV. KELČ\n\nPÁTEK 1.1.2027\nSLAVNOST MATKY BOŽÍ\nPANNY MARIE\n7:00, 10:00 MŠE SV. KELČ\n8:30 MŠE SV. KLADERUBY\n\nSOBOTA 2.1.2027\n17:00 MŠE SV. SKALIČKA\n\nNEDĚLE 3.1.2027\n7:00, 10:00 MŠE SV. KELČ\n8:30 MŠE SV. ZÁMRSKY"
+ },
  "ocr-7934a5bebb": {
   "at": "2026-11-17T10:43:12.007Z",
   "text": "Centrum pro rodinu Valašské Meziříčí vás zve na\nADVENTNÍ DUCHOVNÍ OBNOVU\nPRO ŽENY\n\"V mých očích jsi drahá a vzácná\"\nPozvání obnovit se\npod Božím pohledem\nve svém\npovolání ženy.\nlektorka: Věra Kulišťáková\n5. prosince 2026\n9-16 h\nfara Zašová\nPŘIHLÁŠENÍ ZDE:\n605 552 728\n733 741 636\nwww.valmez.dcpr.cz\nCENTRUM PRO RODINU\nVALAŠSKÉ MEZIŘÍČÍ\nARCIBISKUPSTVÍ\nOLOMOUCKÉ"
@@ -5809,6 +6796,10 @@
  "ocr-8542ead650": {
   "at": "2026-11-17T10:41:20.701Z",
   "text": "Víc než pomoc, víc než hlídání\nJSTE PĚČUJÍCÍ ?\nA potřebujete vydechnout?\nPravidelný čas a odpočinek\nProveřený parťák pro Vaše dítě\nBezpečí a podpora Centra AČKO\nBud'te\nmostem\nk odpočinku.\nHOMESHARING\nCHCETE BÝT HOSTITELEM?\nA máte volný čas a chuť ho sdílet ?\nSmysluplné využití volného času\nNepotřebujete speciální vzdělání,\nstačí spolehlivost.\nNová přátelství a perspektiva\nCentrum AČKO, p.o.\nValašské Meziříčí\nZlínský kraj\nPřijd'te se\ndozvědět více"
+ },
+ "ocr-8a77c5deb2": {
+  "at": "2026-11-20T13:23:02.253Z",
+  "text": "DUCHOVNÍ OBNOVA PRO DÍVKY\nVE STOPÁCH MALÉHO PRINCE\n9-15 let\nmotto: Poušť je krásná tím, že skrývá studnu"
  },
  "ocr-8b525d07fc": {
   "at": "2026-11-17T12:58:57.943Z",
@@ -5874,6 +6865,10 @@
   "at": "2026-11-17T12:08:07.875Z",
   "text": "Společenství živého růžence\nListopad 2026\n1. skupina\n2. skupina\nRadosťný růženec\nkterého jsi z Ducha Svatého počala\ns kterým jsi Alžbětu navštívila\nkterého jsi v Betlémě porodila\nkterého jsi v chrámě obětovala\nkterého jsi v chrámě nalezla\nPospěchová Š.\nHajdová L.\nMaleňáková S.\nMaleňák M.\nFajtová L.\nKutálek F.\nEremiášová J.\nKrůpa J.\nTkáčová T.\nLegnavský J.\nRůženec světla\nkterý byl pokřtěn v Jordánu\nkterý zjevil v Káně svou božskou moc\nkterý hlásal Boží království a vyzýval k pokání\nkterý na hoře Proměnění zjevil svou slávu\nkterý ustanovil Eucharistii\nMikulenková A.\nSadílková V.\nBorovičková B.\nPavlica Č.\nZátopková V.\nMachová Z.\nReková M.\nChládková A.\nKoleček M.\nZátopek J.\nBolestný růženec\nkterý se pro nás krví potil\nkterý byl pro nás bičován\nkterý byl pro nás trním korunován\nkterý pro nás nesl těžký kříž\nkterý byl pro nás ukřižován\nKolečková Jan.\nHoštálková A.\nJakešová V.\nPavlicová I.\nPoláchová Z.\nFilustková B.\nBorovička M.\nMachová B.\nHrubá I.\nTkáč V.\nSlavný růženec\nkterý z mrtvých vstal\nkterý na nebe vstoupil\nkterý Ducha Svatého seslal\nkterý tě, Panno, do nebe vzal\nkterý tě v nebi korunoval\nKolečková Jar.\nZvoníčková V.\nVojkůvková M.\nPečenková V.\nKrůpová J.\nTkáčová E.\nDobešová M.\nFilustková L.\nTkáčová M.\nPlandorová B.\nKaždý člen se modlí v jednom měsíci denně jeden desítek živého růžence.\nObvyklý úvod a závěr se modlí jen první a poslední z pěticе."
  },
+ "ocr-c4eeccd29c": {
+  "at": "2026-11-20T13:27:11.839Z",
+  "text": "#R\nW\nN\nD\nPostavme se za víru a svobodu vyznání\nČERVENÁ\nSTŘEDA\n25. LISTOPADU 2026\n18:15 mše sv. v kostele\nSV. KATEŘINY\nPOTÉ MODLITBA\nZA PRONÁSLEDOVANÉ KŘESŤANY\nDen připomínky\nech pronásledovaných\npro své přesvědčení\nwww.cervenastreda.cz"
+ },
  "ocr-c9fb8d9ab4": {
   "at": "2026-11-17T11:23:39.444Z",
   "text": "[]"
@@ -5881,6 +6876,10 @@
  "ocr-cbaa75d2db": {
   "at": "2026-11-19T02:31:27.092Z",
   "text": "Adorace\nmládeže\nv kostele\nsv. Barbory\nv Choryni\npátek 20.11.2026\nv 19 hod."
+ },
+ "ocr-cbd9b2f015": {
+  "at": "2026-11-20T13:26:29.502Z",
+  "text": "FARNOST KELČ ZVE NA:\nRORÁTNÍ MŠE SV.\nKAŽDÝ VŠEDNÍ DEN - MIMO ÚTERÝ\nV 7:00\nVE FARNÍM KOSTELE V KELČI\nPRO DĚTI BUDE PO MŠI PŘIPRAVENA KRÁTKÁ\nADVENTNÍ AKTIVITA -\nPUTOVÁNÍ DO BETLÉMA SE ZVÍŘÁTKY\nPo mši jsou děti zvány na snídani na befarku"
  },
  "ocr-d08f75e701": {
   "at": "2026-11-17T11:23:20.167Z",
@@ -5897,5 +6896,9 @@
  "ocr-e2c1ffbcc8": {
   "at": "2026-11-17T11:21:03.590Z",
   "text": "GALERIE\nKOSTNICE\n18. 7. - 16. 8. 2026\nNAD HLADINOU\nA POD HLADINOU ZEMĚ\nGABRIELA NOVÁKOVÁ\nVýstava probíhá v Galerii Kostnice\nve farské zahradě v Rožnově pod Radhoštěm"
+ },
+ "ocr-e7b6a4fd09": {
+  "at": "2026-11-20T13:22:37.430Z",
+  "text": "IHS"
  }
 }
