@@ -1,7 +1,7 @@
 // Sběr akcí ze všech zdrojů → public/data/events.json, status.json, akce.ics
 // Spuštění: node scripts/collect.mjs [--only=<id>]
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
-import { normalize, hash, todayWall, addDays, fmt, parseWall, wallToUtc } from './lib.mjs';
+import { normalize, cleanDesc, hash, todayWall, addDays, fmt, parseWall, wallToUtc } from './lib.mjs';
 import { collectTribe } from './adapters/tribe.mjs';
 import { collectHolidays } from './adapters/holidays.mjs';
 import { collectAiWp } from './adapters/ai-sources.mjs';
@@ -48,7 +48,7 @@ const titleFixes = Object.entries(sourcesCfg.titleFixes || {}).map(([k, v]) => [
 const fixTitle = (s) => titleFixes.reduce((acc, [re, v]) => acc.replace(re, (m) => (m[0] === m[0].toLowerCase() ? v.toLowerCase() : v)), s);
 
 function enrich(ev, source) {
-  ev = { ...ev, title: fixTitle(ev.title), description: fixTitle(ev.description || '') };
+  ev = { ...ev, title: fixTitle(ev.title), description: fixTitle(cleanDesc(ev.description, ev.title)) };
   const { cats: hashCats, tags: hashTags, description } = extractHashTags(ev.description);
   const text = normalize(`${ev.title}\n${description}`);
   const cats = new Set(source.categories || []);

@@ -2,7 +2,7 @@
 //   1) /oznameni_vypis  – oznámení akcí (název, Kde, Kdy, detail s časem a plakátem) – strukturované
 //   2) /rss_kalendar.php – kalendář (~měsíc dopředu); skoro jen mše, bereme jen typy z options.calendarTypes
 //   3) /blog            – články; akce z nich vytáhne AI (jen nedávné články)
-import { fetchText, decodeHtml, stripHtml, truncate, fmt, addDays, parseWall } from '../lib.mjs';
+import { fetchText, decodeHtml, stripHtml, cleanDesc, truncate, fmt, addDays, parseWall } from '../lib.mjs';
 import { extractEvents, aiAvailable, ocrImage } from '../ai.mjs';
 import { toEvent } from './ai-sources.mjs';
 import { articleText } from './pages.mjs';
@@ -51,7 +51,7 @@ async function oznameni(base, historyFrom) {
     }
     const img = d.match(/<img src="([^"]+)"[^>]*class="img_oznameni"/)?.[1] || '';
     const body = d.match(/<div class="row event-details">([\s\S]*?)<!-- \/Event Single -->/)?.[1] || '';
-    let description = truncate(stripHtml(body));
+    let description = truncate(cleanDesc(stripHtml(body), it.title));
     if (img && description.length < 200) {
       try { const t = await ocrImage(img); if (t) description = truncate(`${description}\n${t}`.trim()); } catch (e) { console.error(`  plakát ${img}: ${e.message}`); }
     }

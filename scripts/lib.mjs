@@ -17,10 +17,21 @@ export function decodeHtml(s) {
 }
 
 export function stripHtml(s) {
-  return decodeHtml(String(s || '')
+  return decodeHtml(String(s || '').replace(/\r\n?/g, '\n')
     .replace(/<(br|\/p|\/div|\/li|\/h\d)[^>]*>/gi, '\n')
     .replace(/<[^>]+>/g, ''))
     .replace(/[ \t ]+/g, ' ').replace(/ *\n */g, '\n').replace(/\n{3,}/g, '\n\n').trim();
+}
+
+// úklid popisu: \r, šablona Agendy farnosti („Detaily oznámení … Sdílet:“), opakovaný název, prázdné řádky
+export function cleanDesc(s, title = '') {
+  let t = String(s || '').replace(/\r\n?/g, '\n').replace(/[ \t]+\n/g, '\n');
+  t = t.replace(/^\s*Detaily oznámení\s*(Kategorie:\s*[^\n]*\s*)?(Sdílet:)?\s*/, '');
+  if (title) {
+    const first = t.split('\n', 1)[0].trim();
+    if (first && first.toLowerCase() === String(title).trim().toLowerCase()) t = t.slice(t.indexOf('\n') + 1 || t.length);
+  }
+  return t.replace(/\n{3,}/g, '\n\n').trim();
 }
 
 export function truncate(s, n = 600) {
