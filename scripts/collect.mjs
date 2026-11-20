@@ -168,6 +168,7 @@ for (const source of sourcesCfg.sources) {
 // deduplikace (stejný zdroj, název a začátek) + ořez starých akcí
 const seen = new Set();
 let events = all
+  .map((e) => (e.description ? { ...e, description: cleanDesc(e.description, e.title) } : e))
   .filter((e) => e.end.slice(0, 10) >= keepFrom)
   .filter((e) => { const k = `${e.source}|${normalize(e.title)}|${e.start}`; if (seen.has(k)) return false; seen.add(k); return true; })
   .sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title, 'cs'));
