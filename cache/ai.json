@@ -1631,6 +1631,251 @@
    }
   ]
  },
+ "ex-0e7e9f7eb3": {
+  "at": "2026-11-21T02:32:00.515Z",
+  "events": [
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-02-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, první termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "2.2."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-02-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, druhý termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "9. 2."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-02-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, třetí termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "16. 2."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-02-23",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, čtvrtý termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "23. 2."
+   },
+   {
+    "title": "Příprava snoubenců – Rožnov pod Radhoštěm",
+    "date": "2027-04-03",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, první termín v Rožnově, 5‑hodinová lekce v 13:30‑18:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "roznov"
+    ],
+    "image": null,
+    "quote": "3. 4."
+   },
+   {
+    "title": "Příprava snoubenců – Rožnov pod Radhoštěm",
+    "date": "2027-04-17",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, druhý termín v Rožnově, 5‑hodinová lekce v 13:30‑18:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "roznov"
+    ],
+    "image": null,
+    "quote": "17. 4."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-05-15",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, termín po dvou lekcích, 5‑hodinová lekce v 13:30‑18:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "15.5."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-06-05",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, druhý termín po dvou lekcích, 5‑hodinová lekce v 13:30‑18:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "5. 6."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-09-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, podzimní termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "2.9."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-09-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, podzimní termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "9. 9."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-09-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, podzimní termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "16. 9."
+   },
+   {
+    "title": "Příprava snoubenců – Valašské Meziříčí",
+    "date": "2027-09-23",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců, poslední podzimní termín, 2‑hodinová lekce v 18:30‑20:30.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "priprava snoubencu",
+     "kurz",
+     "valasske mezirici"
+    ],
+    "image": null,
+    "quote": "23. 9."
+   }
+  ]
+ },
  "ex-10dda8dcf2": {
   "at": "2026-11-19T02:33:27.476Z",
   "events": [
@@ -1750,6 +1995,10 @@
   "at": "2026-11-20T02:32:24.216Z",
   "events": []
  },
+ "ex-1285f3aa1f": {
+  "at": "2026-11-21T02:32:27.172Z",
+  "events": []
+ },
  "ex-18bea295a9": {
   "at": "2026-11-20T13:25:04.830Z",
   "events": [
@@ -1778,6 +2027,201 @@
  "ex-18c5c3f5af": {
   "at": "2026-11-17T10:45:13.674Z",
   "events": []
+ },
+ "ex-1a69babfa5": {
+  "at": "2026-11-21T02:33:37.000Z",
+  "events": [
+   {
+    "title": "Biblické tance",
+    "date": "2026-01-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "12. ledna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-02-16",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "16. února v 17 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-03-16",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "16. března v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-04-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "20. dubna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-05-18",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "18. května v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-06-15",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "15. června v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-09-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "14. září v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-10-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "12. října v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "23. listopadu v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-12-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Biblické tance – taneční setkání s biblickou tematikou, konané v společenské místnosti CPR ve Valašském Meziříčí.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tanec"
+    ],
+    "image": null,
+    "quote": "14. prosince v 18 h"
+   }
+  ]
  },
  "ex-1a82c917e3": {
   "at": "2026-11-17T10:34:29.838Z",
@@ -2440,6 +2884,10 @@
   "at": "2026-11-20T13:26:21.048Z",
   "events": []
  },
+ "ex-31f7469d0d": {
+  "at": "2026-11-21T02:32:40.103Z",
+  "events": []
+ },
  "ex-35ab338a48": {
   "at": "2026-11-20T13:27:37.867Z",
   "events": [
@@ -2468,6 +2916,31 @@
  "ex-360a5caf62": {
   "at": "2026-11-20T02:30:41.873Z",
   "events": []
+ },
+ "ex-378b2ae133": {
+  "at": "2026-11-21T02:32:26.404Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Centrum pro rodinu Valašské Meziříčí zve ženy na adventní duchovní obnovu, která se koná 5. prosince 2026 od 9:00 do 16:00 v farní obci Zašová.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "ženy",
+     "obnova"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
  },
  "ex-3c84d9ca0e": {
   "at": "2026-11-18T02:43:28.002Z",
@@ -3093,6 +3566,10 @@
   "at": "2026-11-17T10:41:19.456Z",
   "events": []
  },
+ "ex-5039cf9acd": {
+  "at": "2026-11-21T02:31:19.022Z",
+  "events": []
+ },
  "ex-52d71d35c1": {
   "at": "2026-11-17T10:43:00.086Z",
   "events": [
@@ -3122,6 +3599,165 @@
  "ex-53600c3cbe": {
   "at": "2026-11-19T02:31:52.132Z",
   "events": []
+ },
+ "ex-5645c65aaf": {
+  "at": "2026-11-21T02:33:07.598Z",
+  "events": [
+   {
+    "title": "Klub pro holky – Starost o lidi v našem okolí",
+    "date": "2026-09-05",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti ve věku 7–13 let se setkají v klubovně, kde proběhne přednáška s knězem, povídání, svatá zpověď, tutoring a výroba klíčenek a náramků.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "dílna"
+    ],
+    "image": null,
+    "quote": "5. září 2026 – TÉMA: Starost o lidi v našem okolí"
+   },
+   {
+    "title": "Klub pro holky – Přátelství",
+    "date": "2026-10-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti se setkají a společně vyrobí krmítka pro ptáčky, doplněné přednáškou a diskusí o přátelství.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "krmítka"
+    ],
+    "image": null,
+    "quote": "10. října 2026 – TÉMA: Přátelství"
+   },
+   {
+    "title": "Klub pro holky – Sebedůvěra",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti si podpoří sebedůvěru při pečení sušenek a doprovodných aktivitách, včetně povídání a duchovního rozhovoru.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "sušenky"
+    ],
+    "image": null,
+    "quote": "21. listopadu 2026 – TÉMA: Sebedůvěra"
+   },
+   {
+    "title": "Klub pro holky – Mé talenty",
+    "date": "2027-01-09",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti se věnují práci s vlněmi, rozvíjejí své dovednosti a sdílejí své talenty v přátelském prostředí.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "vlny"
+    ],
+    "image": null,
+    "quote": "9. ledna 2027 – TÉMA: Mé talenty"
+   },
+   {
+    "title": "Klub pro holky – Síla laskavosti a dobrých skutků",
+    "date": "2027-04-10",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti se zapojí do dobrovolnické činnosti na faře, podpoří laskavost a získají zkušenosti s pomocí druhým.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "charita"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "dobrovolnictví"
+    ],
+    "image": null,
+    "quote": "10. dubna 2027 – TÉMA: Síla laskavosti a dobrých skutků"
+   },
+   {
+    "title": "Klub pro holky – V jednoduchosti je krása",
+    "date": "2027-05-22",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti vyrábějí visačky a etikety na letní zavařování, učí se jednoduchým řemeslným technikám a sdílejí radost z tvorby.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "zavařování"
+    ],
+    "image": null,
+    "quote": "22. května 2027 – TÉMA: V jednoduchosti je krása"
+   },
+   {
+    "title": "Klub pro holky – Ženy, které mění svět",
+    "date": "2027-06-12",
+    "endDate": null,
+    "time": "14:00",
+    "endTime": "18:00",
+    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu, Valašské Meziříčí",
+    "summary": "Děti se vydají na výlet, během kterého se seznámí s inspirativními ženami a jejich přínosem pro společnost.",
+    "categories": [
+     "vzdelavani",
+     "deti",
+     "rodina"
+    ],
+    "tags": [
+     "klub",
+     "holky",
+     "výlet"
+    ],
+    "image": null,
+    "quote": "12. června 2027 – TÉMA: Ženy, které mění svět"
+   }
+  ]
  },
  "ex-5669d0a6ee": {
   "at": "2026-11-20T02:32:23.425Z",
@@ -3391,6 +4027,99 @@
     "tags": [
      "trénink paměti",
      "seniori"
+    ],
+    "image": null,
+    "quote": "3. prosince – trénink paměti vždy od 9.30-11 h"
+   }
+  ]
+ },
+ "ex-6f71eb1b10": {
+  "at": "2026-11-21T02:31:32.995Z",
+  "events": []
+ },
+ "ex-710a417a1b": {
+  "at": "2026-11-21T02:33:31.656Z",
+  "events": [
+   {
+    "title": "Trénink paměti",
+    "date": "2026-09-17",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory a další zájemce, zdarma pro seniory, koná se v 9.30–11.00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "seniori",
+     "paměť"
+    ],
+    "image": null,
+    "quote": "17. září – trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-10-08",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory a další zájemce, zdarma pro seniory, koná se v 9.30–11.00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "seniori",
+     "paměť"
+    ],
+    "image": null,
+    "quote": "8. října – trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-11-05",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory a další zájemce, zdarma pro seniory, koná se v 9.30–11.00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "seniori",
+     "paměť"
+    ],
+    "image": null,
+    "quote": "5. listopadu – trénink paměti vždy od 9.30-11 h"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Trénink paměti pro seniory a další zájemce, zdarma pro seniory, koná se v 9.30–11.00.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "trénink paměti",
+     "seniori",
+     "paměť"
     ],
     "image": null,
     "quote": "3. prosince – trénink paměti vždy od 9.30-11 h"
@@ -4009,6 +4738,99 @@
    }
   ]
  },
+ "ex-7b8620a0d1": {
+  "at": "2026-11-21T02:34:11.935Z",
+  "events": [
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-09-15",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz probíhá v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "rodina",
+     "vzdelavani",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "15. 9."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-10-13",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz probíhá v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "rodina",
+     "vzdelavani",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "13.10."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz probíhá v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "rodina",
+     "vzdelavani",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "10.11."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-12-08",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz probíhá v 16:00–17:30 v farní komunitě Valašské Meziříčí.",
+    "categories": [
+     "rodina",
+     "vzdelavani",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "rodiny",
+     "workshop"
+    ],
+    "image": null,
+    "quote": "8.12."
+   }
+  ]
+ },
  "ex-7e59b024f2": {
   "at": "2026-11-19T09:58:43.699Z",
   "events": [
@@ -4101,6 +4923,151 @@
  "ex-822431ac8f": {
   "at": "2026-11-20T13:26:39.116Z",
   "events": []
+ },
+ "ex-881fd6634d": {
+  "at": "2026-11-21T02:31:17.477Z",
+  "events": [
+   {
+    "title": "Sbírka na pomoc pronásledovaným křesťanům",
+    "date": "2026-11-14",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Charitativní sbírka na podporu pronásledovaných křesťanů.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "sbírka",
+     "pronásledovaní",
+     "charita"
+    ],
+    "image": null,
+    "quote": "14.11.2026 Sbírka této neděle je určena na pomoc pronásledovaným křesťanům."
+   },
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": null,
+    "organizer": null,
+    "summary": "Večer chval v Rožnově, zahájení mší svaté v 18:00.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "chval",
+     "večer",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval. Začínat se bude již mší svatou v 18:00 hodin."
+   },
+   {
+    "title": "Biblická přednáška P. Bedřicha Horáka",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": null,
+    "organizer": null,
+    "summary": "Biblická přednáška po mši svaté v kostele v Rožnově.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "přednáška",
+     "biblická",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
+   },
+   {
+    "title": "Sbírka na pomoc pronásledovaným křesťanům",
+    "date": "2026-11-13",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Charitativní sbírka na podporu pronásledovaných křesťanů.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "sbírka",
+     "pronásledovaní",
+     "charita"
+    ],
+    "image": null,
+    "quote": "7.11.2026 Sbírka příští neděle bude určena na pomoc pro pronásledované křesťany."
+   },
+   {
+    "title": "Sbírka na pomoc pronásledovaným křesťanům",
+    "date": "2026-11-15",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Charitativní sbírka na podporu pronásledovaných křesťanů.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "sbírka",
+     "pronásledovaní",
+     "charita"
+    ],
+    "image": null,
+    "quote": "31.10.2026 Sbírka na pomoc pronásledovaným křesťanům bude 15. listopadu"
+   },
+   {
+    "title": "Dušičková sbírka na Charitu",
+    "date": "2026-11-01",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Tradiční dušičková sbírka na Charitu.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "dušičky",
+     "sbírka",
+     "charita"
+    ],
+    "image": null,
+    "quote": "24.10.2026 Tradiční Dušičková sbírka na Charitu bude příští neděli 1. listopadu."
+   },
+   {
+    "title": "Dušičková pobožnost na hřbitově",
+    "date": "2026-11-01",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": "farnost Hutisko",
+    "summary": "Dušičková pobožnost na hřbitově po mši svaté.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "dušičky",
+     "pobožnost",
+     "hřbitov"
+    ],
+    "image": null,
+    "quote": "24.10.2026 Dušičková pobožnost na hřbitově bude v neděli 1.11. po mši svaté."
+   }
+  ]
  },
  "ex-8947bf01cd": {
   "at": "2026-11-18T02:43:50.583Z",
@@ -5640,6 +6607,31 @@
   "at": "2026-11-20T13:25:55.572Z",
   "events": []
  },
+ "ex-cc2838ca45": {
+  "at": "2026-11-21T02:32:51.716Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova zaměřená na ženy, vedená lektorkou Věrou Kulišťákovou, proběhne 5. prosince 2026 v farnosti Zašová.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "obnova",
+     "ženy"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
+ },
  "ex-cdbe333724": {
   "at": "2026-11-18T02:42:46.377Z",
   "events": [
@@ -6234,6 +7226,10 @@
  },
  "ex-e4c94da3de": {
   "at": "2026-11-19T02:32:35.083Z",
+  "events": []
+ },
+ "ex-e67024d0b7": {
+  "at": "2026-11-21T02:31:32.118Z",
   "events": []
  },
  "ex-e9e265d512": {
