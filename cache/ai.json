@@ -216,6 +216,10 @@
   "keep": false,
   "categories": []
  },
+ "cl-30f871614f": {
+  "keep": false,
+  "categories": []
+ },
  "cl-315ae98726": {
   "keep": true,
   "categories": [
@@ -1263,6 +1267,7 @@
  "dup-27830c6588": false,
  "dup-35cd5fe1fa": false,
  "dup-a4136bf1bc": false,
+ "dup-a99341a208": false,
  "dup-c28c1d879c": false,
  "dup-fbbe169703": false,
  "ex-00f2c8252a": {
@@ -4831,6 +4836,31 @@
    }
   ]
  },
+ "ex-7c38ffce8f": {
+  "at": "2026-11-21T19:57:32.379Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova s o. Michaelem Špilarem",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "20:00",
+    "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+    "organizer": "Římskokatolická farnost Valašské Meziříčí",
+    "summary": "Společná duchovní obnova k zahájení adventní doby s promluvami, modlitbami a společnou večeří. Pořádá ji farnost Valašské Meziříčí s o. Michaelem Špilarem.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "duchovní",
+     "obnova"
+    ],
+    "image": null,
+    "quote": "sobota 28. listopadu 2026"
+   }
+  ]
+ },
  "ex-7e59b024f2": {
   "at": "2026-11-19T09:58:43.699Z",
   "events": [
@@ -7347,6 +7377,51 @@
  "ex-edccc44da1": {
   "at": "2026-11-18T02:33:55.959Z",
   "events": []
+ },
+ "ex-f00e231362": {
+  "at": "2026-11-21T20:04:13.169Z",
+  "events": [
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Rožnov pod Radhoštěm",
+    "organizer": null,
+    "summary": "Večer chval, který začne mší svatou v 18:00, se koná v Rožnově pod Radhoštěm.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "večer chval",
+     "rožnov",
+     "mše"
+    ],
+    "image": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval. Začínat se bude již mší svatou v 18:00 hodin."
+   },
+   {
+    "title": "Biblická přednáška P. Bedřicha Horáka",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": "Rožnov pod Radhoštěm",
+    "organizer": null,
+    "summary": "Po mši svaté v 18:45 proběhne v kostele v Rožnově pod Radhoštěm biblická přednáška P. Bedřicha Horáka.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "přednáška",
+     "biblická",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
+   }
+  ]
  },
  "ex-f0bbcf1f5e": {
   "at": "2026-11-20T13:26:07.418Z",
