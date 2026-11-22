@@ -118,8 +118,10 @@ Odpověz jen JSON: {"events":[{"title":"","date":"YYYY-MM-DD","endDate":"YYYY-MM
   return c[key].events.filter((e) => {
     if (!/^\d{4}-\d\d-\d\d$/.test(e.date || '') || Number.isNaN(Date.parse(e.date))) return false;
     if (!e.title) return false;
-    const q = flat(e.quote || '');
-    return q.length >= 4 && hay.includes(q.slice(0, 60));
+    const raw = normalize(e.quote || '').replace(/\s+/g, ' ').trim();
+    const q = flat(raw);
+    // úryvek musí začínat na hranici slova (aby „2 2“ nenašlo „12 2“)
+    return raw.length >= 4 && q.length > 0 && hay.includes(` ${q.slice(0, 60)}`);
   }).map((e) => ({ ...e, image: Number.isInteger(e.image) && images[e.image - 1] ? images[e.image - 1] : null }));
 }
 

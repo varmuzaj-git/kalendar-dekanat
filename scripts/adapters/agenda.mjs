@@ -144,7 +144,8 @@ export async function collectAgenda(source, { historyFrom }) {
   ]) {
     try { const r = await fn(); out.push(...r); console.log(`  ${source.id} ${name}: ${r.length}`); } catch (e) { errors.push(`${name}: ${e.message}`); }
   }
-  if (errors.length && !out.length) throw new Error(errors.join('; '));
-  if (errors.length) console.error(`  ${source.id}: ${errors.join('; ')}`);
+  // chyba kterékoli části (např. web farnosti vrací 500/502) = chyba zdroje → collect ponechá
+  // poslední známé akce; jinak by akce z nedostupné části (články) z kalendáře zmizely
+  if (errors.length) throw new Error(errors.join('; '));
   return out;
 }
