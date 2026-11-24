@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-11-24T02:34:48.543Z",
+ "generatedAt": "2026-11-24T21:05:03.873Z",
  "sources": [
   {
    "id": "rucne",
    "ok": true,
    "error": null,
-   "count": 48,
+   "count": 49,
    "excluded": 0,
-   "lastSuccess": "2026-11-24T02:30:03.990Z"
+   "lastSuccess": "2026-11-24T21:05:03.845Z"
   },
   {
    "id": "roznov",

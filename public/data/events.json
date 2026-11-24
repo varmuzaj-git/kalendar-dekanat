@@ -3413,31 +3413,38 @@
   },
   {
    "organizers": [
+    "dekanat",
     "zasova"
    ],
-   "id": "zasova-c70e78950f",
-   "source": "zasova",
+   "id": "rucne-8b124eac70",
+   "source": "rucne",
    "sources": [
+    "rucne",
     "zasova"
    ],
-   "title": "Předvánoční zpovídání",
+   "title": "Vánoční zpovídání 2026",
    "start": "2026-12-17T15:30",
    "end": "2026-12-17T17:00",
    "allDay": false,
-   "location": "fara Veselá",
-   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
-   "description": "Předvánoční zpovídání v kostele ve Veselé, kněz Petr Dujka.",
-   "image": "https://o2.agendafarnosti.cz/zasova.net/img/blog/1216_1795068332_848x477.jpg",
+   "description": "Kdy v které farnosti a počet kněží co bude zpovídat se dozvíte z plakátku akce",
+   "image": "https://dekanatvalmez.cz/wp-content/uploads/2026/11/Vanocni-zpovidani-2026-637x900.webp",
    "recurring": false,
    "categories": [
     "zpoved",
     "duchovni"
    ],
    "tags": [
+    "advent",
+    "vánoce",
     "zpovídání",
     "předvánoční",
     "veselá",
     "Vánoce"
+   ],
+   "location": "fara Veselá",
+   "url": "https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2027-28129",
+   "altTitles": [
+    "Předvánoční zpovídání"
    ]
   },
   {
