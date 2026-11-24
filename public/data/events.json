@@ -277,32 +277,6 @@
    "organizers": [
     "zubri"
    ],
-   "id": "zubri-4abecee1ca",
-   "source": "zubri",
-   "sources": [
-    "zubri"
-   ],
-   "title": "Koncert chval Scholy brněnské mládeže",
-   "start": "2025-11-23T17:00",
-   "end": "2025-11-23T19:00",
-   "allDay": false,
-   "location": "Kostel Všech svatých v Rožnově p. R.",
-   "url": "https://www.farnostzubri.cz/udalosti/koncert-chval-v-roznove-p-r/",
-   "image": "https://www.farnostzubri.cz/content/uploads/2025/11/2025-11-koncert-brnenska-schola-rpr.jpg",
-   "recurring": false,
-   "categories": [
-    "kultura",
-    "duchovni",
-    "deti"
-   ],
-   "tags": [
-    "koncert"
-   ]
-  },
-  {
-   "organizers": [
-    "zubri"
-   ],
    "id": "zubri-b990ca9cc4",
    "source": "zubri",
    "sources": [
@@ -656,7 +630,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -664,8 +638,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -837,7 +812,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -845,8 +820,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -1073,7 +1049,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -1081,8 +1057,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -1423,7 +1400,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -1431,8 +1408,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -1616,7 +1594,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -1624,8 +1602,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -1936,7 +1915,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -1944,8 +1923,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -2276,9 +2256,7 @@
     "starost",
     "klub",
     "holky",
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "témata"
    ]
   },
   {
@@ -2319,7 +2297,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -2327,8 +2305,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -2346,7 +2325,7 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz proběhne ve farní komunitě Valašské Meziříčí.",
+   "description": "Tvoření keramiky pro rodiče a prarodiče s dětmi, 1,5‑hodinová dílna.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
@@ -2355,8 +2334,8 @@
    ],
    "tags": [
     "keramika",
-    "workshop",
-    "rodina"
+    "rodiny",
+    "workshop"
    ]
   },
   {
@@ -2487,9 +2466,8 @@
    "start": "2026-10-02T19:00",
    "end": "2026-10-02T21:00",
    "allDay": false,
-   "location": "fara Choryně",
    "url": "https://www.farnost-choryne.cz/clanek/305",
-   "description": "Spolčo mládeže pro všechny od 9. třídy, každé setkání v pátek od 19:00.",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
    "recurring": false,
    "categories": [
@@ -2562,7 +2540,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Klub pro holky se zaměří na výrobu krmítek pro ptáčky.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a výrobou krmítek pro ptáčky.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -2573,9 +2551,8 @@
     "pratelstvi",
     "krmítka",
     "holky",
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub",
+    "přátelství"
    ]
   },
   {
@@ -2593,7 +2570,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -2601,8 +2578,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -2620,7 +2598,7 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz proběhne ve farní komunitě Valašské Meziříčí.",
+   "description": "Tvoření keramiky pro rodiče a prarodiče s dětmi, 1,5‑hodinová dílna.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
@@ -2629,8 +2607,8 @@
    ],
    "tags": [
     "keramika",
-    "workshop",
-    "rodina"
+    "rodiny",
+    "workshop"
    ]
   },
   {
@@ -2649,6 +2627,33 @@
    "location": "fara Choryně",
    "url": "https://www.farnost-choryne.cz/clanek/305",
    "description": "Spolčo mládeže pro všechny od 9. třídy, každé setkání v pátek od 19:00.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "deti"
+   ],
+   "tags": [
+    "mládež",
+    "spolčo",
+    "setkání"
+   ]
+  },
+  {
+   "organizers": [
+    "choryne"
+   ],
+   "id": "choryne-00ea6912a0",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Spolčo mládeže",
+   "start": "2026-10-16T19:00",
+   "end": "2026-10-16T21:00",
+   "allDay": false,
+   "url": "https://www.farnost-choryne.cz/clanek/305",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
    "recurring": false,
    "categories": [
@@ -2774,6 +2779,33 @@
   },
   {
    "organizers": [
+    "choryne"
+   ],
+   "id": "choryne-6cf8d5070d",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Spolčo mládeže",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T21:00",
+   "allDay": false,
+   "url": "https://www.farnost-choryne.cz/clanek/305",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "deti"
+   ],
+   "tags": [
+    "mládež",
+    "spolčo",
+    "setkání"
+   ]
+  },
+  {
+   "organizers": [
     "zubri"
    ],
    "id": "zubri-ec15bdabc4",
@@ -2871,7 +2903,7 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz proběhne ve farní komunitě Valašské Meziříčí.",
+   "description": "Tvoření keramiky pro rodiče a prarodiče s dětmi, 1,5‑hodinová dílna.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
@@ -2880,8 +2912,8 @@
    ],
    "tags": [
     "keramika",
-    "workshop",
-    "rodina"
+    "rodiny",
+    "workshop"
    ]
   },
   {
@@ -3044,6 +3076,33 @@
   },
   {
    "organizers": [
+    "choryne"
+   ],
+   "id": "choryne-ad549e141d",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Spolčo mládeže",
+   "start": "2026-11-20T19:00",
+   "end": "2026-11-20T21:00",
+   "allDay": false,
+   "url": "https://www.farnost-choryne.cz/clanek/305",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "deti"
+   ],
+   "tags": [
+    "mládež",
+    "spolčo",
+    "setkání"
+   ]
+  },
+  {
+   "organizers": [
     "cpr"
    ],
    "id": "cpr-92d43ba38f",
@@ -3057,7 +3116,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "V rámci klubu pro holky děti připraví a upečou sušenky, podporující sebedůvěru.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a pečením sušenek pro podporu sebedůvěry.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -3068,9 +3127,7 @@
     "sebedůvěra",
     "sušenky",
     "holky",
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub"
    ]
   },
   {
@@ -3088,7 +3145,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -3096,8 +3153,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -3200,18 +3258,17 @@
    "organizers": [
     "choryne"
    ],
-   "id": "choryne-6c76f49bdc",
+   "id": "choryne-6a461b182e",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
    "title": "Spolčo mládeže",
-   "start": "2026-12-02T19:00",
-   "end": "2026-12-02T21:00",
+   "start": "2026-12-04T19:00",
+   "end": "2026-12-04T21:00",
    "allDay": false,
-   "location": "fara Choryně",
    "url": "https://www.farnost-choryne.cz/clanek/305",
-   "description": "Spolčo mládeže pro všechny od 9. třídy, každé setkání v pátek od 19:00.",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
    "recurring": false,
    "categories": [
@@ -3244,7 +3301,7 @@
    "allDay": false,
    "location": "fara Zašová",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adventn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html",
-   "description": "Centrum pro rodinu Valašské Meziříčí pořádá adventní duchovní obnovu pro ženy s lektorkou Věrou Kulišťákovou, zaměřenou na povolání ženy.",
+   "description": "Adventní duchovní obnova určená ženám, vedená lektorkou Věrou Kulišťákovou, se koná 5. prosince 2026 v 9–16 hodin v farní obci Zašová.",
    "image": "https://www.valmez.dcpr.cz/images/DUCHOVN_OBNOVA_PRO_ENY_2026_2_1_1.png",
    "recurring": false,
    "categories": [
@@ -3294,7 +3351,7 @@
    "allDay": false,
    "location": "fara Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html",
-   "description": "Keramické tvoření pro děti a rodiče v rámci programu pro rodiny. Kurz proběhne ve farní komunitě Valašské Meziříčí.",
+   "description": "Tvoření keramiky pro rodiče a prarodiče s dětmi, 1,5‑hodinová dílna.",
    "image": "https://www.valmez.dcpr.cz/images/Keramika__tvoen_2026.jpg",
    "recurring": false,
    "categories": [
@@ -3303,8 +3360,8 @@
    ],
    "tags": [
     "keramika",
-    "workshop",
-    "rodina"
+    "rodiny",
+    "workshop"
    ]
   },
   {
@@ -3341,7 +3398,7 @@
    "allDay": false,
    "location": "společenská místnost CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html",
-   "description": "Biblické tance – série tanečních setkání s biblickou tematikou.",
+   "description": "Biblické tance – společenské taneční setkání s biblickou tematikou.",
    "image": "https://www.valmez.dcpr.cz/images/obrazky/BIBLICK_TANCE_2026_1.png",
    "recurring": false,
    "categories": [
@@ -3349,36 +3406,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "biblické tance",
-    "tanec"
-   ]
-  },
-  {
-   "organizers": [
-    "choryne"
-   ],
-   "id": "choryne-bd356ecb53",
-   "source": "choryne",
-   "sources": [
-    "choryne"
-   ],
-   "title": "Spolčo mládeže",
-   "start": "2026-12-16T19:00",
-   "end": "2026-12-16T21:00",
-   "allDay": false,
-   "location": "fara Choryně",
-   "url": "https://www.farnost-choryne.cz/clanek/305",
-   "description": "Spolčo mládeže pro všechny od 9. třídy, každé setkání v pátek od 19:00.",
-   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
-   "recurring": false,
-   "categories": [
-    "vzdelavani",
-    "deti"
-   ],
-   "tags": [
-    "mládež",
-    "spolčo",
-    "setkání"
+    "tance",
+    "biblické",
+    "společenské"
    ]
   },
   {
@@ -3408,6 +3438,33 @@
     "předvánoční",
     "veselá",
     "Vánoce"
+   ]
+  },
+  {
+   "organizers": [
+    "choryne"
+   ],
+   "id": "choryne-1e13994ecb",
+   "source": "choryne",
+   "sources": [
+    "choryne"
+   ],
+   "title": "Spolčo mládeže",
+   "start": "2026-12-18T19:00",
+   "end": "2026-12-18T21:00",
+   "allDay": false,
+   "url": "https://www.farnost-choryne.cz/clanek/305",
+   "description": "Spolčo mládeže pro všechny od 9. třídy, koná se každý 1. a 3. pátek v měsíci od 19:00.",
+   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/chatgptimage2992026205800.png?itok=j7HhVbQh",
+   "recurring": false,
+   "categories": [
+    "vzdelavani",
+    "deti"
+   ],
+   "tags": [
+    "mládež",
+    "spolčo",
+    "setkání"
    ]
   },
   {
@@ -3465,6 +3522,25 @@
     "kelč",
     "předvánoční",
     "Vánoce"
+   ]
+  },
+  {
+   "organizers": [],
+   "id": "rucne-afae4e64b1",
+   "source": "rucne",
+   "sources": [
+    "rucne"
+   ],
+   "title": "4. adventní neděle",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "allDay": true,
+   "recurring": false,
+   "categories": [
+    "ostatni"
+   ],
+   "tags": [
+    "advent"
    ]
   },
   {
@@ -3708,7 +3784,7 @@
    "allDay": false,
    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Děti v klubu pro holky budou pracovat s vlnou a rozvíjet své tvůrčí dovednosti.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a prací s vlněmi.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -3716,27 +3792,27 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub",
+    "holky",
+    "talenty"
    ]
   },
   {
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-88f5e016dd",
+   "id": "choryne-50ca31a27b",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-02-02T18:30",
    "end": "2027-02-02T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v rámci programu pro rok 2027, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3745,8 +3821,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -3754,18 +3830,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-cc484f9ce9",
+   "id": "choryne-7c91dd481f",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-02-09T18:30",
    "end": "2027-02-09T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v rámci programu pro rok 2027, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3774,8 +3850,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -3783,18 +3859,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-5c1d0877dc",
+   "id": "choryne-d9f0dcb286",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-02-16T18:30",
    "end": "2027-02-16T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v rámci programu pro rok 2027, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3803,8 +3879,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -3812,18 +3888,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-a9518ee719",
+   "id": "choryne-242866ac22",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-02-23T18:30",
    "end": "2027-02-23T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v rámci programu pro rok 2027, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3832,8 +3908,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -3873,18 +3949,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-822a97f9e8",
+   "id": "choryne-22a7c46bb2",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Rožnov pod Radhoštěm",
    "start": "2027-04-03T13:30",
    "end": "2027-04-03T18:30",
    "allDay": false,
    "location": "pastorační centrum, Rožnov pod Radhoštěm",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v pastoračním centru v Rožnově pod Radhoštěm.",
+   "description": "Kurz přípravy snoubenců v rožnovském pastoračním centru, součást programu pro rok 2027.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3893,8 +3969,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "roznov_pod_radhostem",
     "snoubenci"
    ]
   },
@@ -3913,7 +3989,7 @@
    "allDay": false,
    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Děti se v rámci klubu zapojí do dobrovolnické činnosti na faře.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a dobrovolnickou činností na faře.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -3921,27 +3997,27 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub",
+    "holky",
+    "dobrovolnictví"
    ]
   },
   {
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-fd4f6255e2",
+   "id": "choryne-eeeef0b3bc",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Rožnov pod Radhoštěm",
    "start": "2027-04-17T13:30",
    "end": "2027-04-17T18:30",
    "allDay": false,
    "location": "pastorační centrum, Rožnov pod Radhoštěm",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v pastoračním centru v Rožnově pod Radhoštěm.",
+   "description": "Kurz přípravy snoubenců v rožnovském pastoračním centru, součást programu pro rok 2027.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -3950,8 +4026,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "roznov_pod_radhostem",
     "snoubenci"
    ]
   },
@@ -3989,18 +4065,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-aa5c3f5775",
+   "id": "choryne-4254e74296",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-05-15T13:30",
    "end": "2027-05-15T18:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí (druhá lekce).",
+   "description": "Kurz přípravy snoubenců v místní farní komunitě, odpolední blok v rámci programu pro rok 2027.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -4009,8 +4085,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -4029,7 +4105,7 @@
    "allDay": false,
    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Děti budou vyrábět visačky a etikety na letní zavařování.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a výrobou visaček a etiket na letní zavařování.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -4037,27 +4113,27 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub",
+    "holky",
+    "zavařování"
    ]
   },
   {
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-d2b7b41bf5",
+   "id": "choryne-fa112005bf",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-06-05T13:30",
    "end": "2027-06-05T18:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí (druhá lekce).",
+   "description": "Kurz přípravy snoubenců v místní farní komunitě, odpolední blok v rámci programu pro rok 2027.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -4066,8 +4142,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -4086,7 +4162,7 @@
    "allDay": false,
    "location": "SPOLEČENSKÁ MÍSTNOST CPR, Valašské Meziříčí",
    "url": "https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-holky-2026-27.html",
-   "description": "Děti se vydají na výlet v rámci klubu pro holky, inspirovaný tématem žen měnících svět.",
+   "description": "Klub pro holky (7‑13 let) v SPOLEČENSKÉ MÍSTNOSTI CPR, Valašské Meziříčí, s přednáškou, povídáním a výletem inspirovaným ženami měnícími svět.",
    "image": "https://www.valmez.dcpr.cz/images/202627_KLUB_PRO_HOLKY_od_7_do_13_let__1.png",
    "recurring": false,
    "categories": [
@@ -4094,9 +4170,9 @@
     "vzdelavani"
    ],
    "tags": [
-    "klub pro holky",
-    "témata",
-    "aktivity"
+    "klub",
+    "holky",
+    "výlet"
    ]
   },
   {
@@ -4133,18 +4209,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-ff4c2d4adf",
+   "id": "choryne-8318e5a07f",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-09-02T18:30",
    "end": "2027-09-02T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v podzimním termínu, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -4153,8 +4229,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -4162,18 +4238,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-01433c6848",
+   "id": "choryne-4b9c82dd06",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-09-09T18:30",
    "end": "2027-09-09T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v podzimním termínu, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -4182,8 +4258,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
@@ -4191,18 +4267,18 @@
    "organizers": [
     "cpr"
    ],
-   "id": "choryne-41e8ea2256",
+   "id": "choryne-c3fa87802f",
    "source": "choryne",
    "sources": [
     "choryne"
    ],
-   "title": "Příprava snoubenců",
+   "title": "Příprava snoubenců – Valašské Meziříčí",
    "start": "2027-09-16T18:30",
    "end": "2027-09-16T20:30",
    "allDay": false,
    "location": "fara, Valašské Meziříčí",
    "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
+   "description": "Kurz přípravy snoubenců v podzimním termínu, koná se v místní farní komunitě.",
    "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
    "recurring": false,
    "categories": [
@@ -4211,37 +4287,8 @@
    ],
    "tags": [
     "priprava snoubencu",
-    "manzelstvi",
     "kurz",
-    "snoubenci"
-   ]
-  },
-  {
-   "organizers": [
-    "cpr"
-   ],
-   "id": "choryne-cbb8bb623c",
-   "source": "choryne",
-   "sources": [
-    "choryne"
-   ],
-   "title": "Příprava snoubenců",
-   "start": "2027-09-23T18:30",
-   "end": "2027-09-23T20:30",
-   "allDay": false,
-   "location": "fara, Valašské Meziříčí",
-   "url": "https://www.farnost-choryne.cz/clanek/311",
-   "description": "Kurz přípravy snoubenců v farní síni ve Valašském Meziříčí.",
-   "image": "https://www.farnost-choryne.cz/sites/default/files/clanek/obrazek/pripravasnoubencu-terminy2027.png?itok=o-XSzpl6",
-   "recurring": false,
-   "categories": [
-    "vzdelavani",
-    "rodina"
-   ],
-   "tags": [
-    "priprava snoubencu",
-    "manzelstvi",
-    "kurz",
+    "valaske_mezirici",
     "snoubenci"
    ]
   },
