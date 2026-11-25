@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:34:43.021Z",
+ "generatedAt": "2026-11-25T11:05:03.866Z",
  "sources": [
   {
    "id": "rucne",
@@ -7,7 +7,7 @@
    "error": null,
    "count": 49,
    "excluded": 0,
-   "lastSuccess": "2026-11-25T02:30:04.148Z"
+   "lastSuccess": "2026-11-25T11:05:03.839Z"
   },
   {
    "id": "roznov",
