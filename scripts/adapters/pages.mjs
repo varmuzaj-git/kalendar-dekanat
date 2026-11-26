@@ -51,7 +51,8 @@ export async function collectAiLinks(source, { historyFrom, today }) {
     const html = await fetchText(url);
     const title = stripHtml(html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] || html.match(/<title>([\s\S]*?)<\/title>/)?.[1] || '');
     const { text, image } = await articleText(html, url, o);
-    const evs = await extractEvents(`Název článku: ${title}\n\n${text}`, { context: `${source.fullName} – článek na webu`, refDate: today });
+    // refDate = 1. den měsíce: stejný článek se pak neposílá AI každý den znovu (a nevrací pokaždé jiná data)
+    const evs = await extractEvents(`Název článku: ${title}\n\n${text}`, { context: `${source.fullName} – článek na webu`, refDate: today.slice(0, 8) + '01' });
     for (const e of evs) if (e.date >= historyFrom) out.push(toEvent(e, { url, image }));
   }
   return out;

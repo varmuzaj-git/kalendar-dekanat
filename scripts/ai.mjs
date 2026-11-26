@@ -7,7 +7,7 @@ import { hash, normalize } from './lib.mjs';
 const ROOT = new URL('..', import.meta.url).pathname;
 const CACHE_FILE = ROOT + 'cache/ai.json';
 const MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
-const PROMPT_VERSION = 2;
+const PROMPT_VERSION = 3;
 
 function apiKey() {
   if (process.env.GROQ_API_KEY) return process.env.GROQ_API_KEY.trim();
@@ -98,12 +98,13 @@ export async function extractEvents(text, { context, refDate, images = [] }) {
   const system = `Jsi pečlivý extraktor akcí pro kalendář akcí děkanátu. Zdroj: ${context}. Datum zdroje: ${refDate}.
 ${SCOPE}
 Vypiš jen akce, které se BEROU, a jen s konkrétním datem. Zahrň i akce, které už proběhly, pokud mají jasné datum.
-Opakovaná akce (kurz s více setkáními) = jedna položka na každý termín.
+Opakovaná akce (kurz s více setkáními) s výslovně vypsanými daty = jedna položka na každý termín.
+Akce opakovaná podle PRAVIDLA (např. „každý 1. a 3. pátek v měsíci“, „každou středu“, „poslední neděli v měsíci“): data NEPOČÍTEJ, vrať JEDNU položku s "repeat" – weekday = den v týdnu z pravidla, nth = pořadí dne v měsíci (např. [1,3]; -1 = poslední; null = každý týden), until = konec opakování ze zdroje, jinak null; date = první termín, je-li ve zdroji uveden, jinak datum zdroje. Ostatní akce mají "repeat": null.
 Rok: když není uveden, odvoď ho z data zdroje (akce bývají v blízkém okolí data zdroje).
 Nevymýšlej: chybí-li čas nebo místo, dej null. Místo uveď i s obcí (např. „fara Zubří“, „kostel sv. Martina, Zašová“). Název piš stručně a věcně (jak by byl v kalendáři), bez data.
 organizer = kdo akci pořádá, pokud to ze zdroje plyne (farnost, Centrum pro rodinu, Charita…), jinak null.
 ${images.length ? 'Obrázky v textu jsou označené [OBRÁZEK n]. Pokud k akci patří plakát/obrázek ve stejném bloku textu, uveď jeho číslo v "image", jinak null.' : ''}
-Odpověz jen JSON: {"events":[{"title":"","date":"YYYY-MM-DD","endDate":"YYYY-MM-DD"|null,"time":"HH:MM"|null,"endTime":"HH:MM"|null,"location":null,"organizer":null,"summary":"1–2 věty","categories":["${CATS}"],"tags":["1–3 krátké štítky malými písmeny"],"image":null,"quote":"krátký DOSLOVNÝ úryvek ze zdroje, který obsahuje datum akce"}]}`;
+Odpověz jen JSON: {"events":[{"title":"","date":"YYYY-MM-DD","endDate":"YYYY-MM-DD"|null,"time":"HH:MM"|null,"endTime":"HH:MM"|null,"location":null,"organizer":null,"summary":"1–2 věty","categories":["${CATS}"],"tags":["1–3 krátké štítky malými písmeny"],"image":null,"repeat":null|{"weekday":"po|út|st|čt|pá|so|ne","nth":[1,3]|null,"until":"YYYY-MM-DD"|null},"quote":"krátký DOSLOVNÝ úryvek ze zdroje, který obsahuje datum akce"}]}`;
   const c = await loadCache();
   const key = 'ex-' + hash(`${PROMPT_VERSION}|${MODEL}|${system}|${text}`);
   if (!c[key]) {
@@ -122,7 +123,39 @@ Odpověz jen JSON: {"events":[{"title":"","date":"YYYY-MM-DD","endDate":"YYYY-MM
     const q = flat(raw);
     // úryvek musí začínat na hranici slova (aby „2 2“ nenašlo „12 2“)
     return raw.length >= 4 && q.length > 0 && hay.includes(` ${q.slice(0, 60)}`);
-  }).map((e) => ({ ...e, image: Number.isInteger(e.image) && images[e.image - 1] ? images[e.image - 1] : null }));
+  }).flatMap((e) => expandRepeat(e, refDate))
+    .map((e) => ({ ...e, image: Number.isInteger(e.image) && images[e.image - 1] ? images[e.image - 1] : null }));
+}
+
+// Pravidelná akce („každý 1. a 3. pátek“): data dopočítáme sami – model se v kalendáři plete
+// (25. 11. 2026 dával Spolčo v Choryni na středy a čtvrtky).
+const WEEKDAYS = { ne: 0, po: 1, ut: 2, st: 3, ct: 4, pa: 5, so: 6 };
+const REPEAT_AHEAD_DAYS = 92;
+const ymd = (d) => d.toISOString().slice(0, 10);
+export function expandRepeat(e, refDate) {
+  const r = e.repeat;
+  if (!r || typeof r !== 'object') { const { repeat, ...rest } = e; return [rest]; }
+  const wd = WEEKDAYS[normalize(String(r.weekday || '')).replace(/[^a-z]/g, '').slice(0, 2)];
+  if (wd === undefined) return []; // pravidlo bez dne v týdnu nedokážeme spolehlivě rozepsat
+  const nth = Array.isArray(r.nth) ? r.nth.filter((n) => [1, 2, 3, 4, 5, -1].includes(n)) : null;
+  if (Array.isArray(r.nth) && !nth.length) return [];
+  const day = (s) => new Date(s + 'T00:00:00Z');
+  // tolerance 3 dny: první termín od modelu bývá o den vedle
+  const from = day(e.date);
+  if (from.getUTCDay() !== wd) from.setUTCDate(from.getUTCDate() - 3);
+  const to = day(refDate); to.setUTCDate(to.getUTCDate() + REPEAT_AHEAD_DAYS);
+  if (/^\d{4}-\d\d-\d\d$/.test(r.until || '') && day(r.until) < to) to.setTime(day(r.until).getTime());
+  const { repeat, ...base } = e;
+  const out = [];
+  for (const d = new Date(from); d <= to && out.length < 60; d.setUTCDate(d.getUTCDate() + 1)) {
+    if (d.getUTCDay() !== wd) continue;
+    const n = Math.floor((d.getUTCDate() - 1) / 7) + 1;
+    const last = new Date(d); last.setUTCDate(d.getUTCDate() + 7);
+    const isLast = last.getUTCMonth() !== d.getUTCMonth();
+    if (nth && !nth.includes(n) && !(isLast && nth.includes(-1))) continue;
+    out.push({ ...base, date: ymd(d), endDate: null });
+  }
+  return out;
 }
 
 /**

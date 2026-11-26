@@ -13,6 +13,9 @@ function similar(a, b) {
   if (!A.size || !B.size) return false;
   let common = 0;
   for (const t of A) if (B.has(t)) common++;
+  // celodenní záznam (např. ruční „1. adventní neděle“) vs. akce s časem („Adventní koncert“):
+  // jedno společné slovo nestačí, názvy se musí shodovat skoro celé (Honza, 26. 11. 2026)
+  if (a.allDay !== b.allDay) return common / Math.max(A.size, B.size) >= 0.67;
   return common / Math.min(A.size, B.size) >= 0.5;
 }
 
@@ -56,6 +59,7 @@ export async function mergeDuplicates(events, sources, { ai, mergeRules = [] }) 
         if ((A.source === B.source && !textual.includes(A.source)) || find(i) === find(j)) continue;
         if (!timesCompatible(A, B)) continue;
         if (similar(A, B)) { union(i, j); continue; }
+        if (A.allDay !== B.allDay) continue; // celodenní + s časem jen při shodě názvu, ne přes AI
         // AI jen pro páry, kde aspoň jeden pochází z textového zdroje (články, ohlášky, plakáty)
         if (ai && (textual.includes(A.source) || textual.includes(B.source)) && A.categories.some((c) => B.categories.includes(c))) {
           try { if (await sameEvent(A, B)) union(i, j); } catch (e) { console.error('  AI duplicity:', e.message); }

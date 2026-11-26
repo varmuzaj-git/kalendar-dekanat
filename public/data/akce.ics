@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Prague
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:zubri-b990ca9cc4@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251129T080000Z
 DTEND:20251129T150000Z
 SUMMARY:Adventní duchovní obnova pro ženy
@@ -23,7 +23,7 @@ CATEGORIES:duchovni,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a946d82f62@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251203T090000Z
 DTEND:20251203T110000Z
 SUMMARY:Přednáška Piero Coda – Třetí fáze synodálního procesu
@@ -37,7 +37,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-1486a39ca2@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251204T170000Z
 DTEND:20251204T183000Z
 SUMMARY:Adventní ekumenické setkání (Rožnov)
@@ -47,7 +47,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-156aa1c8ff@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251213T150000Z
 DTEND:20251213T170000Z
 SUMMARY:Adventní koncert
@@ -59,7 +59,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a4954bad30@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251224
 SUMMARY:Vánoční zpovídání 2025 (děkanát – rozpis)
@@ -68,7 +68,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:vidce-7ce991bdaa@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 SUMMARY:Předvánoční zpovídání
@@ -79,7 +79,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-f540effae7@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Vánoční zpovídání 2025
@@ -90,7 +90,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-d681e94396@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251225T140000Z
 DTEND:20251225T150000Z
 SUMMARY:Vánoční varhanní koncert
@@ -101,7 +101,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-b6bfca4191@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20251228T150000Z
 DTEND:20251228T163000Z
 SUMMARY:Vánoční koncert
@@ -113,7 +113,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-6a16575a08@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260102T170000Z
 DTEND:20260102T180000Z
 SUMMARY:Nad horama vyšla hvězda – scholička
@@ -124,7 +124,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-a68078265d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Tříkrálová sbírka 2026
@@ -137,7 +137,7 @@ CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-5e5adde841@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:Tříkrálová sbírka
@@ -149,22 +149,22 @@ CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-da18618bd9@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260112T170000Z
 DTEND:20260112T190000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-93226c9ae1@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260113T170000Z
 DTEND:20260113T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -173,7 +173,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-06d862e5b5@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260120T170000Z
 DTEND:20260120T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -182,7 +182,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-4639e47ce6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260127T170000Z
 DTEND:20260127T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -191,7 +191,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-5b55ec010e@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260202T173000Z
 DTEND:20260202T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -200,7 +200,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-8c66d30539@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260203T170000Z
 DTEND:20260203T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -209,7 +209,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-db2bd7c4af@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260209T173000Z
 DTEND:20260209T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -218,7 +218,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-50f4363e7b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260210T170000Z
 DTEND:20260210T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -227,22 +227,22 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-6f788b023c@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260216T160000Z
 DTEND:20260216T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-3ac57d2036@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260216T173000Z
 DTEND:20260216T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -251,7 +251,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a6b5f8b543@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260217T170000Z
 DTEND:20260217T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -260,7 +260,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-fcdb7c28ea@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260223T173000Z
 DTEND:20260223T193000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -269,7 +269,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-064f47a4c7@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260224T170000Z
 DTEND:20260224T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -278,7 +278,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-f26983254a@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260303T170000Z
 DTEND:20260303T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -287,7 +287,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:vidce-3bdbf6cf3b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260307T150000Z
 DTEND:20260307T180000Z
 SUMMARY:Postní duchovní obnova
@@ -299,7 +299,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a086ee60a8@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260310T170000Z
 DTEND:20260310T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -308,7 +308,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-899fa10c9b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260313T230000Z
 DTEND:20260314T010000Z
 SUMMARY:Duchovní obnova pro muže
@@ -322,7 +322,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:vidce-505388a111@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260315T140000Z
 DTEND:20260315T143000Z
 SUMMARY:Dětská křížová cesta
@@ -333,22 +333,22 @@ CATEGORIES:duchovni,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-3ca1570eb3@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260316T170000Z
 DTEND:20260316T190000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-85a07f3716@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260317T170000Z
 DTEND:20260317T190000Z
 SUMMARY:Kurzy ALFA – Rožnov
@@ -357,7 +357,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-0d888fb50d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260318T151500Z
 DTEND:20260318T190000Z
 SUMMARY:Setkání s P. Františkem Králem Z MSH
@@ -370,7 +370,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-9945077e8d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260319T160000Z
 DTEND:20260319T180000Z
 SUMMARY:Setkání příznivců Mary's Meals v Bystřici p. Hostýnem
@@ -383,7 +383,7 @@ CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-73bcf52f89@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260319T230000Z
 DTEND:20260320T010000Z
 SUMMARY:Duchovní obnova pro dívky
@@ -398,7 +398,7 @@ CATEGORIES:duchovni,rodina,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-e8b29a63c6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260401
 SUMMARY:Velikonoční zpovídání 2026
@@ -407,7 +407,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-2c21dc1988@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260327T120000Z
 DTEND:20260327T160000Z
 SUMMARY:Velikonoční zpovídání
@@ -422,7 +422,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-e4481496d9@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260328T130000Z
 DTEND:20260328T150000Z
 SUMMARY:Putovní Křižova cesta
@@ -435,7 +435,7 @@ CATEGORIES:pout,duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-e1d558fdf0@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260407T160000Z
 DTEND:20260407T180000Z
 SUMMARY:Marek Orko Vácha – Umění Žít – Valašská Bystřice
@@ -456,7 +456,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-0b97c9f597@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260411T113000Z
 DTEND:20260411T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -466,7 +466,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-a9d99edd80@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260412T130000Z
 DTEND:20260412T143000Z
 SUMMARY:Benefiční hudební odpoledne s Václavem Hudečkem – 12. 4. 2026 od 1
@@ -484,7 +484,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-8e45866c97@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260416T073000Z
 DTEND:20260416T083000Z
 SUMMARY:Podvody a bezpečnost seniorů v současné době
@@ -498,7 +498,7 @@ CATEGORIES:vzdelavani,seniori
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-78a7a9769b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260418T130000Z
 DTEND:20260418T150000Z
 SUMMARY:Děkanátní pouť v Zašové
@@ -512,22 +512,22 @@ CATEGORIES:pout,duchovni,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-dc8b04ac93@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260420T160000Z
 DTEND:20260420T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-e885000265@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260423T160000Z
 DTEND:20260423T180000Z
 SUMMARY:Přednáška Žena ať v církvi promluví (P. Zdeněk Jančařík)
@@ -541,7 +541,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-1bb2c7ca8e@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260425T113000Z
 DTEND:20260425T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -551,7 +551,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:vidce-78e19f831a@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260426T120000Z
 DTEND:20260426T140000Z
 SUMMARY:Žehnání polí
@@ -562,7 +562,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-ccb666f7d7@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260430T220000Z
 DTEND:20260501T000000Z
 SUMMARY:Otevřené brány
@@ -579,7 +579,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-24776e9a2a@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260509T120000Z
 DTEND:20260509T140000Z
 SUMMARY:Duchovní obnova s indickým misionářem v Zašové
@@ -592,7 +592,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-486df2ec66@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260516T060000Z
 DTEND:20260516T160000Z
 SUMMARY:Křesťan v digitálním světě
@@ -613,22 +613,22 @@ CATEGORIES:duchovni,vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-b6a3c34c76@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260518T160000Z
 DTEND:20260518T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-2462922e04@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260520T160000Z
 DTEND:20260520T180000Z
 SUMMARY:Setkání nad 2. pilířem PROPOJENI – téma 2 a 3
@@ -643,7 +643,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-e30a58c84c@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260521T073000Z
 DTEND:20260521T133000Z
 SUMMARY:2. Moravská pouť seniorů
@@ -658,7 +658,7 @@ CATEGORIES:pout,seniori,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-fa2ab03a8d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260523T113000Z
 DTEND:20260523T163000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -668,7 +668,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-3411e089af@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260526T160000Z
 DTEND:20260526T173000Z
 SUMMARY:Musica Priboriensis Příbor - koncert
@@ -684,7 +684,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-d9b25497eb@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260529T150000Z
 DTEND:20260529T160000Z
 SUMMARY:Hostina: vernisáž výstavy Veroniky Richterové v Galerii Kostnice
@@ -701,7 +701,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-0f0a6ed79c@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260529T220000Z
 DTEND:20260530T000000Z
 SUMMARY:Hostina: Veronika Richterová
@@ -715,7 +715,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-e43b8f3d1c@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260530T113000Z
 DTEND:20260530T163000Z
 SUMMARY:Příprava snoubenců – Valašské Meziříčí
@@ -725,7 +725,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-9f36451eee@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260531T120000Z
 DTEND:20260531T140000Z
 SUMMARY:Děkanátní setkání rodin Zašová
@@ -738,7 +738,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-667f498762@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260603T150000Z
 DTEND:20260603T163000Z
 SUMMARY:Zpovídání pro děti jdoucí k 1. sv. přijímání a jejich rodiče
@@ -751,7 +751,7 @@ CATEGORIES:vzdelavani,deti,zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-d844757468@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260606T054500Z
 DTEND:20260606T170000Z
 SUMMARY:Farní zájezd
@@ -762,7 +762,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-a0b3552412@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260607T130000Z
 DTEND:20260607T180000Z
 SUMMARY:Farní den
@@ -774,7 +774,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:vidce-e6a4b730e2@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260614T120000Z
 DTEND:20260614T140000Z
 SUMMARY:Farní den
@@ -786,22 +786,22 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-3ffcc4bf8b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-f910eb3009@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260621T140000Z
 DTEND:20260621T160000Z
 SUMMARY:Letní koncert
@@ -813,7 +813,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-ff0135d8f8@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260621T140000Z
 DTEND:20260621T170000Z
 SUMMARY:Táborák
@@ -824,7 +824,7 @@ CATEGORIES:rodina,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-52677885b6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260706
 SUMMARY:Zašovská pouť
@@ -833,7 +833,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-7eed15e972@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260717T220000Z
 DTEND:20260718T000000Z
 SUMMARY:Gabriela Nováková: Nad hladinou a pod hladinou země
@@ -849,7 +849,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-71ff581350@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260725T090000Z
 DTEND:20260725T110000Z
 SUMMARY:Pouť na Radhošť
@@ -862,7 +862,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-6fc4b66840@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260727T153000Z
 DTEND:20260727T173000Z
 SUMMARY:Pestrost hudby v Kapli sv. Ducha
@@ -874,7 +874,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-6b153383a6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260804T051500Z
 DTEND:20260804T071500Z
 SUMMARY:Pouť na Svatý Hostýn
@@ -887,7 +887,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-bf187751eb@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260805T160000Z
 DTEND:20260805T180000Z
 SUMMARY:1. předpouťová brigáda za kostelem
@@ -898,7 +898,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-bf011aaefd@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260813T160000Z
 DTEND:20260813T180000Z
 SUMMARY:2. předpouťová brigáda za kostelem
@@ -909,7 +909,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-c626f28e41@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:Pouť 2026
@@ -921,7 +921,7 @@ CATEGORIES:pout
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-6357bcdbaf@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260822T120000Z
 DTEND:20260822T140000Z
 SUMMARY:Farní den
@@ -933,7 +933,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-a5004d1f14@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260829T081500Z
 DTEND:20260829T101500Z
 SUMMARY:Arcidiecézní pouť rodin Sv. Hostýn
@@ -946,7 +946,7 @@ CATEGORIES:pout,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-ee9e632915@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260905T120000Z
 DTEND:20260905T160000Z
 SUMMARY:Klub pro holky – Starost o lidi v našem okolí
@@ -961,7 +961,7 @@ CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-c979bb59a3@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260912T113000Z
 DTEND:20260912T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -971,53 +971,52 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-68d62a8ef6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260914T160000Z
 DTEND:20260914T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-d85f7bae37@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260915T140000Z
 DTEND:20260915T153000Z
 SUMMARY:Tvoření keramiky
 LOCATION:fara Valašské Meziříčí
-DESCRIPTION:Keramický workshop pro rodiny s dětmi\, kde si společně vytvoř
- íte keramické výrobky.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36
- -hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.htm
- l\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Rodinná keramická dílna pro děti i prarodiče. Přijďte tvořit a
+  trávit čas společně.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-
+ hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
+ \n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-kera
  mika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
-CATEGORIES:vzdelavani,deti
+CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-a88fde2663@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260917T073000Z
 DTEND:20260917T090000Z
 SUMMARY:Trénink paměti
 LOCATION:fara Valašské Meziříčí\, Královského 60/8
-DESCRIPTION:Paměťový trénink pro seniory\, vedený lektorkou Monikou Santov
- jákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.\n\nh
- ttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C3%A9
- nink-pam%C4%9Bti-podzim-zima-2026.html\n\nZdroj: Centrum pro rodinu Valaš
- ské Meziříčí
+DESCRIPTION:Trénink paměti pro seniory i další zájemce\, koná se v 9:30–11
+ :00 v farní budově v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/pr
+ ogramy/pro-deti/36-hlavni_strana/533-tr%C3%A9nink-pam%C4%9Bti-podzim-zima
+ -2026.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C
  3%A9nink-pam%C4%9Bti-podzim-zima-2026.html
 CATEGORIES:vzdelavani,seniori
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-1ab1ef491f@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Slavnostní žehnání sochy Salvátora
@@ -1032,7 +1031,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-53411b7626@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260919T113000Z
 DTEND:20260919T163000Z
 SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
@@ -1042,7 +1041,7 @@ CATEGORIES:rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-f8ee9d533e@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
 SUMMARY:Ekušpacír okolo Rožnova
@@ -1053,7 +1052,7 @@ CATEGORIES:duchovni,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-c1d82fe07b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20260921T070000Z
 DTEND:20260921T090000Z
 SUMMARY:Klub maminek – setkání
@@ -1067,20 +1066,20 @@ CATEGORIES:rodina,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:choryne-54ac2cf07f@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261002T170000Z
 DTEND:20261002T190000Z
 SUMMARY:Spolčo mládeže
 LOCATION:fara Choryně
-DESCRIPTION:Setkání mládeže v rámci spolče\, otevřené všem od 9. třídy\, z
- ačíná 2. října 2026 v 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305
- \n\nZdroj: Farnost Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/305
 CATEGORIES:vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-e422870dba@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261003T060000Z
 DTEND:20261003T090000Z
 SUMMARY:Sbírka potravin pro Charitu
@@ -1092,7 +1091,7 @@ CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-dd829ccf08@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
 SUMMARY:Manželské večery
@@ -1104,23 +1103,22 @@ CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-d176c13338@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261008T073000Z
 DTEND:20261008T090000Z
 SUMMARY:Trénink paměti
 LOCATION:fara Valašské Meziříčí\, Královského 60/8
-DESCRIPTION:Paměťový trénink pro seniory\, vedený lektorkou Monikou Santov
- jákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.\n\nh
- ttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C3%A9
- nink-pam%C4%9Bti-podzim-zima-2026.html\n\nZdroj: Centrum pro rodinu Valaš
- ské Meziříčí
+DESCRIPTION:Trénink paměti pro seniory i další zájemce\, koná se v 9:30–11
+ :00 v farní budově v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/pr
+ ogramy/pro-deti/36-hlavni_strana/533-tr%C3%A9nink-pam%C4%9Bti-podzim-zima
+ -2026.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C
  3%A9nink-pam%C4%9Bti-podzim-zima-2026.html
 CATEGORIES:vzdelavani,seniori
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-bc5dfb3611@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261010T120000Z
 DTEND:20261010T160000Z
 SUMMARY:Klub pro holky – Přátelství
@@ -1134,62 +1132,50 @@ CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-06b5a8c8d1@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261012T160000Z
 DTEND:20261012T180000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-ffbee2696b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261013T140000Z
 DTEND:20261013T153000Z
 SUMMARY:Tvoření keramiky
 LOCATION:fara Valašské Meziříčí
-DESCRIPTION:Keramický workshop pro rodiny s dětmi\, kde si společně vytvoř
- íte keramické výrobky.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36
- -hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.htm
- l\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Rodinná keramická dílna pro děti i prarodiče. Přijďte tvořit a
+  trávit čas společně.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-
+ hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
+ \n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-kera
  mika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
-UID:choryne-06c65c6922@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261014T170000Z
-DTEND:20261014T190000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, každé setkání v pátek
-  od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost
-  Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
+CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:choryne-00ea6912a0@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261016T170000Z
 DTEND:20261016T190000Z
 SUMMARY:Spolčo mládeže
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, koná se každý 1. a 3.
-  pátek v měsíci od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\
- nZdroj: Farnost Choryně
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/305
 CATEGORIES:vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:vb-c3f7f50f52@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Posvícení
@@ -1200,7 +1186,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-a515f6c7cf@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:Večer chval
@@ -1212,7 +1198,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:hutisko-b8c51c1698@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Dušičková sbírka na Charitu
@@ -1223,61 +1209,36 @@ URL:https://www.farnosthutisko.cz/aktuality/
 CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-a1bb084781@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261104T180000Z
-DTEND:20261104T200000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, každé setkání v pátek
-  od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost
-  Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
 UID:cpr-3d90914298@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261105T083000Z
 DTEND:20261105T100000Z
 SUMMARY:Trénink paměti
 LOCATION:fara Valašské Meziříčí\, Královského 60/8
-DESCRIPTION:Paměťový trénink pro seniory\, vedený lektorkou Monikou Santov
- jákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.\n\nh
- ttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C3%A9
- nink-pam%C4%9Bti-podzim-zima-2026.html\n\nZdroj: Centrum pro rodinu Valaš
- ské Meziříčí
+DESCRIPTION:Trénink paměti pro seniory i další zájemce\, koná se v 9:30–11
+ :00 v farní budově v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/pr
+ ogramy/pro-deti/36-hlavni_strana/533-tr%C3%A9nink-pam%C4%9Bti-podzim-zima
+ -2026.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C
  3%A9nink-pam%C4%9Bti-podzim-zima-2026.html
 CATEGORIES:vzdelavani,seniori
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-87b9eb44ea@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261105T180000Z
-DTEND:20261105T200000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:První páteční setkání spolče mládeže v listopadu 2026.\n\nhttp
- s://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
 UID:choryne-6cf8d5070d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261106T180000Z
 DTEND:20261106T200000Z
 SUMMARY:Spolčo mládeže
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, koná se každý 1. a 3.
-  pátek v měsíci od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\
- nZdroj: Farnost Choryně
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/305
 CATEGORIES:vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:zubri-ec15bdabc4@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261107T080000Z
 DTEND:20261107T133000Z
 SUMMARY:Přednáška Člověk a láska
@@ -1289,7 +1250,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:hutisko-cc02313647@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261107T174500Z
 DTEND:20261107T194500Z
 SUMMARY:Biblická přednáška P. Bedřicha Horáka
@@ -1300,7 +1261,7 @@ CATEGORIES:vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-15b4a22c9f@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261108T130000Z
 DTEND:20261108T150000Z
 SUMMARY:Ekuspacír č. 5/2026 na Zříceninu Šostýn
@@ -1316,22 +1277,22 @@ CATEGORIES:pout,duchovni,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-309e38e62a@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261110T150000Z
 DTEND:20261110T163000Z
 SUMMARY:Tvoření keramiky
 LOCATION:fara Valašské Meziříčí
-DESCRIPTION:Keramický workshop pro rodiny s dětmi\, kde si společně vytvoř
- íte keramické výrobky.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36
- -hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.htm
- l\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Rodinná keramická dílna pro děti i prarodiče. Přijďte tvořit a
+  trávit čas společně.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-
+ hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
+ \n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-kera
  mika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
-CATEGORIES:vzdelavani,deti
+CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-39d79ef036@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261114T160000Z
 DTEND:20261114T180000Z
 SUMMARY:Večerní souznění – Zubří
@@ -1343,7 +1304,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:hutisko-be1cc14e95@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Sbírka na Charitu
@@ -1354,33 +1315,8 @@ URL:https://www.farnosthutisko.cz/aktuality/
 CATEGORIES:charita
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-10d5f09d7e@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261118T180000Z
-DTEND:20261118T200000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, každé setkání v pátek
-  od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost
-  Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
-UID:choryne-11fff4468b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261119T180000Z
-DTEND:20261119T200000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:Třetí páteční setkání spolče mládeže v listopadu 2026.\n\nhttp
- s://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
 UID:roznov-4422bfb6f8@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261120T170000Z
 DTEND:20261122T110000Z
 SUMMARY:Duchovní obnova s P. Pavlem Hofírkem
@@ -1398,7 +1334,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-a6d2f7b56b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261120T173000Z
 DTEND:20261120T193000Z
 SUMMARY:Večer chval
@@ -1412,48 +1348,49 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:choryne-ad549e141d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261120T180000Z
 DTEND:20261120T200000Z
 SUMMARY:Spolčo mládeže
-DESCRIPTION:Spolčo mládeže pro všechny od 9. třídy\, koná se každý 1. a 3.
-  pátek v měsíci od 19:00.\n\nhttps://www.farnost-choryne.cz/clanek/305\n\
- nZdroj: Farnost Choryně
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/305
 CATEGORIES:vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-92d43ba38f@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261121T130000Z
 DTEND:20261121T170000Z
 SUMMARY:Klub pro holky – Sebedůvěra
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Děti si upečou sušenky a podpoří tak svou sebedůvěru.\n\nhttps
- ://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-hol
- ky-2026-27.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Děti se zaměří na pečení sušenek a rozvíjení sebedůvěry.\n\nht
+ tps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-
+ holky-2026-27.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub
  -pro-holky-2026-27.html
 CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-d935172c6d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261123T170000Z
 DTEND:20261123T190000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-67a5c1e6a6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261125T171500Z
 DTEND:20261125T191500Z
 SUMMARY:Červená středa – den připomínky pronásledovaných
@@ -1467,7 +1404,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-5b9be058ab@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Godzone Tour 2026
@@ -1480,7 +1417,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:valmez-ea3d7b422a@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261128T123000Z
 DTEND:20261128T190000Z
 SUMMARY:Adventní duchovní obnova s o. Michaelem Špilarem
@@ -1494,68 +1431,78 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-eb46e784f5@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:1. adventní neděle
+DESCRIPTION:Zdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:ostatni
+END:VEVENT
+BEGIN:VEVENT
+UID:roznov-fd55947904@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20261129T153000Z
 DTEND:20261129T173000Z
-SUMMARY:1. adventní neděle
+SUMMARY:Adventní koncert
 LOCATION:Kostel Všech svatých\, Rožnov pod Radhoštěm
 DESCRIPTION:První adventní koncert se koná 29. listopadu 2026 v 16:30 v Ko
  stele Všech svatých v Rožnově pod Radhoštěm. Výtěžek bude věnován nezisko
  vé organizaci Kamarád Rožnov o.p.s.\n\nhttps://www.farnostroznov.cz/blog_
- clanek/prvni-adventni-koncert-jiz-tuto-nedeli-28305\n\nZdroj: Akce zadané
-  na dekanatvalmez.cz\, Farnost Rožnov pod Radhoštěm
+ clanek/prvni-adventni-koncert-jiz-tuto-nedeli-28305\n\nZdroj: Farnost Rož
+ nov pod Radhoštěm
 URL:https://www.farnostroznov.cz/blog_clanek/prvni-adventni-koncert-jiz-tu
  to-nedeli-28305
 CATEGORIES:kultura,charita
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-8e89656086@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261203T083000Z
 DTEND:20261203T100000Z
 SUMMARY:Trénink paměti
 LOCATION:fara Valašské Meziříčí\, Královského 60/8
-DESCRIPTION:Paměťový trénink pro seniory\, vedený lektorkou Monikou Santov
- jákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.\n\nh
- ttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C3%A9
- nink-pam%C4%9Bti-podzim-zima-2026.html\n\nZdroj: Centrum pro rodinu Valaš
- ské Meziříčí
+DESCRIPTION:Trénink paměti pro seniory i další zájemce\, koná se v 9:30–11
+ :00 v farní budově v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/pr
+ ogramy/pro-deti/36-hlavni_strana/533-tr%C3%A9nink-pam%C4%9Bti-podzim-zima
+ -2026.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/533-tr%C
  3%A9nink-pam%C4%9Bti-podzim-zima-2026.html
 CATEGORIES:vzdelavani,seniori
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-60a6e433d9@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261203T180000Z
-DTEND:20261203T200000Z
+UID:choryne-6a461b182e@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
 SUMMARY:Spolčo mládeže
 LOCATION:fara Choryně
-DESCRIPTION:První páteční setkání spolče mládeže v prosinci 2026.\n\nhttps
- ://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/305
 CATEGORIES:vzdelavani,deti
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-457488c435@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261205T080000Z
 DTEND:20261205T150000Z
 SUMMARY:Adventní duchovní obnova pro ženy
 LOCATION:fara Zašová
-DESCRIPTION:Centrum pro rodinu Valašské Meziříčí zve ženy na adventní duch
- ovní obnovu s lektorkou Věrou Kulišťákovou\, která proběhne 5. prosince v
-  farní obci Zašová.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-hl
- avni_strana/547-adventn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html\n\n
- Zdroj: Centrum pro rodinu Valašské Meziříčí\, Farnost Zubří\, Farnost Rož
- nov pod Radhoštěm\, Farnost Choryně
+DESCRIPTION:Centrum pro rodinu Valašské Meziříčí pořádá adventní duchovní 
+ obnovu určenou ženám\, která se koná 5. prosince 2026 v fara Zašová. Lekt
+ orkou je Věra Kulišťáková\, program probíhá od 9:00 do 16:00.\n\nhttps://
+ www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adventn%C3%AD-d
+ uchovn%C3%AD-obnova-pro-%C5%BEeny.html\n\nZdroj: Centrum pro rodinu Valaš
+ ské Meziříčí\, Farnost Zubří\, Farnost Rožnov pod Radhoštěm\, Farnost Cho
+ ryně
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/547-adve
  ntn%C3%AD-duchovn%C3%AD-obnova-pro-%C5%BEeny.html
 CATEGORIES:duchovni,rodina
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-822557b16b@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:2. adventní neděle
@@ -1564,22 +1511,22 @@ CATEGORIES:ostatni
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-f58accd22d@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261208T150000Z
 DTEND:20261208T163000Z
 SUMMARY:Tvoření keramiky
 LOCATION:fara Valašské Meziříčí
-DESCRIPTION:Keramický workshop pro rodiny s dětmi\, kde si společně vytvoř
- íte keramické výrobky.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36
- -hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.htm
- l\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Rodinná keramická dílna pro děti i prarodiče. Přijďte tvořit a
+  trávit čas společně.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-
+ hlavni_strana/521-keramika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
+ \n\nZdroj: Centrum pro rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/521-kera
  mika-z%C3%A1%C5%99%C3%AD-a%C5%BE-prosinec-2026.html
-CATEGORIES:vzdelavani,deti
+CATEGORIES:deti,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:roznov-071359b878@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261212T153000Z
 DTEND:20261212T173000Z
 SUMMARY:Navštívení
@@ -1593,7 +1540,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-6397e83935@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:3. adventní neděle
@@ -1602,49 +1549,46 @@ CATEGORIES:ostatni
 END:VEVENT
 BEGIN:VEVENT
 UID:cpr-4b5cc56b69@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261214T170000Z
 DTEND:20261214T190000Z
 SUMMARY:Biblické tance
 LOCATION:společenská místnost CPR\, Valašské Meziříčí
-DESCRIPTION:Biblické tance pořádané Centrem pro rodinu ve Valašském Meziří
- čí. Přihlášky jsou povinné na každý termín.\n\nhttps://www.valmez.dcpr.cz
- /nekategorizovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: 
- Centrum pro rodinu Valašské Meziříčí
+DESCRIPTION:Biblické tance jsou otevřeny všem a konají se v společenské mí
+ stnosti CPR v Valašském Meziříčí.\n\nhttps://www.valmez.dcpr.cz/nekategor
+ izovan%C3%BD-obsah/440-biblick%C3%A9-tance-2026.html\n\nZdroj: Centrum pr
+ o rodinu Valašské Meziříčí
 URL:https://www.valmez.dcpr.cz/nekategorizovan%C3%BD-obsah/440-biblick%C3%
  A9-tance-2026.html
-CATEGORIES:kultura,vzdelavani,rodina
+CATEGORIES:kultura,vzdelavani
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-8b124eac70@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261223
+SUMMARY:Vánoční zpovídání 2026
+DESCRIPTION:Kdy v které farnosti a počet kněží co bude zpovídat se dozvíte
+  z plakátku akce\n\nZdroj: Akce zadané na dekanatvalmez.cz
+CATEGORIES:zpoved
+END:VEVENT
+BEGIN:VEVENT
+UID:zasova-c70e78950f@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20261217T143000Z
 DTEND:20261217T160000Z
-SUMMARY:Vánoční zpovídání 2026
+SUMMARY:Předvánoční zpovídání
 LOCATION:fara Veselá
-DESCRIPTION:Kdy v které farnosti a počet kněží co bude zpovídat se dozvíte
-  z plakátku akce\n\nhttps://www.zasova.net/blog_clanek/program-na-vanoce-
- 2026-a-novy-rok-2027-28129\n\nZdroj: Akce zadané na dekanatvalmez.cz\, Fa
- rnosti Zašová a Veselá
+DESCRIPTION:Předvánoční zpovídání v kostele ve Veselé\, kněz Petr Dujka.\n
+ \nhttps://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-20
+ 27-28129\n\nZdroj: Farnosti Zašová a Veselá
 URL:https://www.zasova.net/blog_clanek/program-na-vanoce-2026-a-novy-rok-2
  027-28129
 CATEGORIES:zpoved,duchovni
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-685504d7c0@kalendar-dekanat
-DTSTAMP:20261126T023436Z
-DTSTART:20261217T180000Z
-DTEND:20261217T200000Z
-SUMMARY:Spolčo mládeže
-LOCATION:fara Choryně
-DESCRIPTION:Třetí páteční setkání spolče mládeže v prosinci 2026.\n\nhttps
- ://www.farnost-choryne.cz/clanek/305\n\nZdroj: Farnost Choryně
-URL:https://www.farnost-choryne.cz/clanek/305
-CATEGORIES:vzdelavani,deti
-END:VEVENT
-BEGIN:VEVENT
 UID:vb-c11260ad50@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261218T120000Z
 DTEND:20261218T163000Z
 SUMMARY:Vánoční zpovídání 2026
@@ -1656,8 +1600,21 @@ URL:https://farnostvb.cz/akce/vanocni-zpovidani-2026/
 CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
+UID:choryne-1e13994ecb@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20261218T180000Z
+DTEND:20261218T200000Z
+SUMMARY:Spolčo mládeže
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/305
+CATEGORIES:vzdelavani,deti
+END:VEVENT
+BEGIN:VEVENT
 UID:zasova-5f41dc8135@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261219T120000Z
 DTEND:20261219T133000Z
 SUMMARY:Předvánoční zpovídání
@@ -1671,7 +1628,7 @@ CATEGORIES:zpoved,duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-0e8c6c60a0@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261219T120000Z
 DTEND:20261219T140000Z
 SUMMARY:Svátost smíření
@@ -1684,7 +1641,7 @@ CATEGORIES:zpoved
 END:VEVENT
 BEGIN:VEVENT
 UID:rucne-afae4e64b1@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:4. adventní neděle
@@ -1693,7 +1650,7 @@ CATEGORIES:ostatni
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-cb535cf097@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261220T160000Z
 DTEND:20261220T180000Z
 SUMMARY:Koncert Moravské veselky
@@ -1706,7 +1663,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-d339563ad2@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261224T110000Z
 DTEND:20261224T130000Z
 SUMMARY:Živý betlém
@@ -1719,7 +1676,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-6506601a06@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261226T140000Z
 DTEND:20261226T160000Z
 SUMMARY:Štěpánský koncert
@@ -1732,7 +1689,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-2ca7ccdd63@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261227T160000Z
 DTEND:20261227T180000Z
 SUMMARY:Koncert Regruti Kelč
@@ -1745,7 +1702,7 @@ CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-5190324ec4@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Putování po Kapličkách
@@ -1757,7 +1714,7 @@ CATEGORIES:duchovni
 END:VEVENT
 BEGIN:VEVENT
 UID:kelc-d9c09202b6@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+DTSTAMP:20261126T095907Z
 DTSTART:20261228T160000Z
 DTEND:20261228T180000Z
 SUMMARY:Vánoční koncert Kladeruby
@@ -1768,158 +1725,232 @@ URL:https://farnostkelc.cz/blog_clanek/vanocni-porad-bohosluzeb-2026-28161
 CATEGORIES:kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-88f5e016dd@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-0f0d658516@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270101T180000Z
+DTEND:20270101T200000Z
+SUMMARY:Spolčo mládeže
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/305
+CATEGORIES:vzdelavani,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:cpr-e721c4c88a@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270109T130000Z
+DTEND:20270109T170000Z
+SUMMARY:Klub pro holky
+LOCATION:SPOLEČENSKÁ MÍSTNOST CPR\, Valašské Meziříčí
+DESCRIPTION:Děti se věnují práci s vlněmi a objevují své talenty.\n\nhttps
+ ://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub-pro-hol
+ ky-2026-27.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub
+ -pro-holky-2026-27.html
+CATEGORIES:deti,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-adf00a1ab8@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270115T180000Z
+DTEND:20270115T200000Z
+SUMMARY:Spolčo mládeže
+LOCATION:fara Choryně
+DESCRIPTION:Setkání mládeže ve spolčovém duchu\, určené pro žáky od 9. tří
+ dy. Probíhá každé 1. a 3. pondělí v měsíci.\n\nhttps://www.farnost-choryn
+ e.cz/clanek/305\n\nZdroj: Farnost Choryně
+URL:https://www.farnost-choryne.cz/clanek/305
+CATEGORIES:vzdelavani,deti
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-50ca31a27b@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270202T173000Z
 DTEND:20270202T193000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-cc484f9ce9@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-7c91dd481f@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270209T173000Z
 DTEND:20270209T193000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-5c1d0877dc@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-d9f0dcb286@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270216T173000Z
 DTEND:20270216T193000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-a9518ee719@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-242866ac22@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270223T173000Z
 DTEND:20270223T193000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-822a97f9e8@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-22a7c46bb2@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270403T113000Z
 DTEND:20270403T163000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
 LOCATION:pastorační centrum\, Rožnov pod Radhoštěm
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v pastor
- ačním centru v Rožnově pod Radhoštěm.\n\nhttps://www.farnost-choryne.cz/c
- lanek/311\n\nZdroj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců v pastoračním centru v Rožnově pod Rad
+ hoštěm.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Ch
+ oryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-fd4f6255e2@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:cpr-1686e78118@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270410T120000Z
+DTEND:20270410T160000Z
+SUMMARY:Klub pro holky
+LOCATION:SPOLEČENSKÁ MÍSTNOST CPR\, Valašské Meziříčí
+DESCRIPTION:Děti se zapojí do dobrovolnické činnosti na faře a probere síl
+ u laskavosti.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_s
+ trana/526-klub-pro-holky-2026-27.html\n\nZdroj: Centrum pro rodinu Valašs
+ ké Meziříčí
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub
+ -pro-holky-2026-27.html
+CATEGORIES:deti,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-eeeef0b3bc@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270417T113000Z
 DTEND:20270417T163000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Rožnov pod Radhoštěm
 LOCATION:pastorační centrum\, Rožnov pod Radhoštěm
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v pastor
- ačním centru v Rožnově pod Radhoštěm.\n\nhttps://www.farnost-choryne.cz/c
- lanek/311\n\nZdroj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců v pastoračním centru v Rožnově pod Rad
+ hoštěm.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Ch
+ oryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-aa5c3f5775@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-4254e74296@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270515T113000Z
 DTEND:20270515T163000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí po dvou lekcích.\n\nhttps://www.farnost-choryne.cz
- /clanek/311\n\nZdroj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců v farní obci Valašské Meziříčí.\n\nhtt
+ ps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-d2b7b41bf5@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:cpr-c4301678c3@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270522T120000Z
+DTEND:20270522T160000Z
+SUMMARY:Klub pro holky
+LOCATION:SPOLEČENSKÁ MÍSTNOST CPR\, Valašské Meziříčí
+DESCRIPTION:Děti vyrábějí visačky a etikety na letní zavařování v tématu j
+ ednoduchosti a krásy.\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-
+ hlavni_strana/526-klub-pro-holky-2026-27.html\n\nZdroj: Centrum pro rodin
+ u Valašské Meziříčí
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub
+ -pro-holky-2026-27.html
+CATEGORIES:deti,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-fa112005bf@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270605T113000Z
 DTEND:20270605T163000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí po dvou lekcích.\n\nhttps://www.farnost-choryne.cz
- /clanek/311\n\nZdroj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců v farní obci Valašské Meziříčí.\n\nhtt
+ ps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-ff4c2d4adf@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:cpr-28bdc49c35@kalendar-dekanat
+DTSTAMP:20261126T095907Z
+DTSTART:20270612T120000Z
+DTEND:20270612T160000Z
+SUMMARY:Klub pro holky
+LOCATION:SPOLEČENSKÁ MÍSTNOST CPR\, Valašské Meziříčí
+DESCRIPTION:Děti se vydají na výlet a diskutují o ženách\, které mění svět
+ .\n\nhttps://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-kl
+ ub-pro-holky-2026-27.html\n\nZdroj: Centrum pro rodinu Valašské Meziříčí
+URL:https://www.valmez.dcpr.cz/programy/pro-deti/36-hlavni_strana/526-klub
+ -pro-holky-2026-27.html
+CATEGORIES:deti,vzdelavani
+END:VEVENT
+BEGIN:VEVENT
+UID:choryne-8318e5a07f@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270902T163000Z
 DTEND:20270902T183000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-01433c6848@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-4b9c82dd06@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270909T163000Z
 DTEND:20270909T183000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-41e8ea2256@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-c3fa87802f@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270916T163000Z
 DTEND:20270916T183000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
 BEGIN:VEVENT
-UID:choryne-cbb8bb623c@kalendar-dekanat
-DTSTAMP:20261126T023436Z
+UID:choryne-257d1b4869@kalendar-dekanat
+DTSTAMP:20261126T095907Z
 DTSTART:20270923T163000Z
 DTEND:20270923T183000Z
-SUMMARY:Příprava snoubenců
+SUMMARY:Příprava snoubenců – Valašské Meziříčí
 LOCATION:fara\, Valašské Meziříčí
-DESCRIPTION:Kurz přípravy snoubenců pro budoucí manžele\, koná se v farní 
- obci Valašské Meziříčí.\n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZ
- droj: Farnost Choryně
+DESCRIPTION:Kurz přípravy snoubenců konaný v farní obci Valašské Meziříčí.
+ \n\nhttps://www.farnost-choryne.cz/clanek/311\n\nZdroj: Farnost Choryně
 URL:https://www.farnost-choryne.cz/clanek/311
 CATEGORIES:vzdelavani,rodina
 END:VEVENT
