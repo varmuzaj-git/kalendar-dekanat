@@ -114,6 +114,10 @@
    "duchovni"
   ]
  },
+ "cl-1b19acfa9a": {
+  "keep": false,
+  "categories": []
+ },
  "cl-1b316f3bfc": {
   "keep": false,
   "categories": []
@@ -255,6 +259,10 @@
    "duchovni"
   ]
  },
+ "cl-374ea3ac21": {
+  "keep": false,
+  "categories": []
+ },
  "cl-386cb8b81b": {
   "keep": false,
   "categories": []
@@ -324,6 +332,10 @@
   "categories": [
    "vzdelavani"
   ]
+ },
+ "cl-481a382738": {
+  "keep": false,
+  "categories": []
  },
  "cl-487e27f0bc": {
   "keep": true,
@@ -1012,6 +1024,10 @@
    "seniori",
    "vzdelavani"
   ]
+ },
+ "cl-cd2be1070f": {
+  "keep": false,
+  "categories": []
  },
  "cl-ce1ed8c099": {
   "keep": true,
@@ -1824,6 +1840,10 @@
     "quote": "Adventní duchovní obnova 9.11.2026"
    }
   ]
+ },
+ "ex-095686f2db": {
+  "at": "2026-11-26T02:33:31.539Z",
+  "events": []
  },
  "ex-0a8063e235": {
   "at": "2026-11-22T08:01:36.294Z",
@@ -3613,6 +3633,31 @@
   "at": "2026-11-21T02:32:40.103Z",
   "events": []
  },
+ "ex-3259f07b2d": {
+  "at": "2026-11-26T02:33:12.978Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova zaměřená na ženy, lektorka Věra Kulišťáková, od 9:00 do 16:00 v farě Zašová.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "ženy",
+     "obnova"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
+ },
  "ex-35ab338a48": {
   "at": "2026-11-20T13:27:37.867Z",
   "events": [
@@ -4660,6 +4705,111 @@
   "at": "2026-11-17T10:41:19.456Z",
   "events": []
  },
+ "ex-4ef4728a5e": {
+  "at": "2026-11-26T02:32:21.528Z",
+  "events": [
+   {
+    "title": "Spolčo mládeže",
+    "date": "2026-10-02",
+    "endDate": null,
+    "time": "19:00",
+    "endTime": null,
+    "location": "fara Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Setkání mládeže v rámci spolče, otevřené všem od 9. třídy, začíná 2. října 2026 v 19:00.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "mladi",
+     "spolco",
+     "setkani"
+    ],
+    "image": null,
+    "quote": "Začínáme v pátek 2. 10. 2026 od 19:00"
+   },
+   {
+    "title": "Spolčo mládeže",
+    "date": "2026-11-05",
+    "endDate": null,
+    "time": "19:00",
+    "endTime": null,
+    "location": "fara Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "První páteční setkání spolče mládeže v listopadu 2026.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "mladi",
+     "spolco",
+     "setkani"
+    ],
+    "image": null,
+    "quote": "Spolčo bude probíhat každý 1. a 3. pátek v měsíci."
+   },
+   {
+    "title": "Spolčo mládeže",
+    "date": "2026-11-19",
+    "endDate": null,
+    "time": "19:00",
+    "endTime": null,
+    "location": "fara Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Třetí páteční setkání spolče mládeže v listopadu 2026.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "mladi",
+     "spolco",
+     "setkani"
+    ],
+    "image": null,
+    "quote": "Spolčo bude probíhat každý 1. a 3. pátek v měsíci."
+   },
+   {
+    "title": "Spolčo mládeže",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "19:00",
+    "endTime": null,
+    "location": "fara Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "První páteční setkání spolče mládeže v prosinci 2026.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "mladi",
+     "spolco",
+     "setkani"
+    ],
+    "image": null,
+    "quote": "Spolčo bude probíhat každý 1. a 3. pátek v měsíci."
+   },
+   {
+    "title": "Spolčo mládeže",
+    "date": "2026-12-17",
+    "endDate": null,
+    "time": "19:00",
+    "endTime": null,
+    "location": "fara Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Třetí páteční setkání spolče mládeže v prosinci 2026.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "mladi",
+     "spolco",
+     "setkani"
+    ],
+    "image": null,
+    "quote": "Spolčo bude probíhat každý 1. a 3. pátek v měsíci."
+   }
+  ]
+ },
  "ex-4f822238ba": {
   "at": "2026-11-25T02:34:36.475Z",
   "events": [
@@ -4752,6 +4902,10 @@
     "quote": "8.12."
    }
   ]
+ },
+ "ex-4f84b2d64b": {
+  "at": "2026-11-26T02:33:01.302Z",
+  "events": []
  },
  "ex-5039cf9acd": {
   "at": "2026-11-21T02:31:19.022Z",
@@ -4871,6 +5025,91 @@
  "ex-53600c3cbe": {
   "at": "2026-11-19T02:31:52.132Z",
   "events": []
+ },
+ "ex-5445c69a00": {
+  "at": "2026-11-26T02:32:41.875Z",
+  "events": [
+   {
+    "title": "Schola – zkouška",
+    "date": "2026-10-31",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "kostel, Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Rehearsal of the parish Schola, open to all, at 18:00 in the church.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "schola",
+     "zkouska",
+     "hudba"
+    ],
+    "image": null,
+    "quote": null
+   },
+   {
+    "title": "Schola – zkouška",
+    "date": "2026-11-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "kostel, Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Rehearsal of the parish Schola, open to all, at 18:00 in the church.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "schola",
+     "zkouska",
+     "hudba"
+    ],
+    "image": null,
+    "quote": null
+   },
+   {
+    "title": "Schola – zkouška",
+    "date": "2026-12-06",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "kostel, Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Rehearsal of the parish Schola, open to all, at 18:00 in the church.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "schola",
+     "zkouska",
+     "hudba"
+    ],
+    "image": null,
+    "quote": null
+   },
+   {
+    "title": "Schola – zkouška",
+    "date": "2026-12-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "kostel, Choryně",
+    "organizer": "farnost Choryně",
+    "summary": "Rehearsal of the parish Schola, open to all, at 18:00 in the church.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "schola",
+     "zkouska",
+     "hudba"
+    ],
+    "image": null,
+    "quote": null
+   }
+  ]
  },
  "ex-5645c65aaf": {
   "at": "2026-11-21T02:33:07.598Z",
@@ -5083,6 +5322,99 @@
  "ex-586d859c40": {
   "at": "2026-11-19T02:31:27.630Z",
   "events": []
+ },
+ "ex-5883415577": {
+  "at": "2026-11-26T02:34:36.248Z",
+  "events": [
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-09-15",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramický workshop pro rodiny s dětmi, kde si společně vytvoříte keramické výrobky.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "workshop",
+     "rodiny"
+    ],
+    "image": null,
+    "quote": "15. 9."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-10-13",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramický workshop pro rodiny s dětmi, kde si společně vytvoříte keramické výrobky.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "workshop",
+     "rodiny"
+    ],
+    "image": null,
+    "quote": "13.10."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-11-10",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramický workshop pro rodiny s dětmi, kde si společně vytvoříte keramické výrobky.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "workshop",
+     "rodiny"
+    ],
+    "image": null,
+    "quote": "10.11."
+   },
+   {
+    "title": "Tvoření keramiky",
+    "date": "2026-12-08",
+    "endDate": null,
+    "time": "16:00",
+    "endTime": "17:30",
+    "location": "fara Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Keramický workshop pro rodiny s dětmi, kde si společně vytvoříte keramické výrobky.",
+    "categories": [
+     "vzdelavani",
+     "rodina",
+     "deti"
+    ],
+    "tags": [
+     "keramika",
+     "workshop",
+     "rodiny"
+    ],
+    "image": null,
+    "quote": "8.12."
+   }
+  ]
  },
  "ex-58c6b81273": {
   "at": "2026-11-20T02:31:30.729Z",
@@ -5422,6 +5754,237 @@
     ],
     "image": null,
     "quote": "5. prosince 2026"
+   }
+  ]
+ },
+ "ex-61f20e74be": {
+  "at": "2026-11-26T02:30:10.910Z",
+  "events": [
+   {
+    "title": "Adventní koncert",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "16:30",
+    "endTime": null,
+    "location": "Kostel Všech svatých, Rožnov pod Radhoštěm",
+    "organizer": "ZuS Rožnov p. R.",
+    "summary": "První adventní koncert se koná 29. listopadu 2026 v 16:30 v Kostele Všech svatých v Rožnově pod Radhoštěm. Výtěžek bude věnován neziskové organizaci Kamarád Rožnov o.p.s.",
+    "categories": [
+     "kultura",
+     "charita"
+    ],
+    "tags": [
+     "advent",
+     "koncert",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "29. 11. 2026"
+   }
+  ]
+ },
+ "ex-630f8dd7e9": {
+  "at": "2026-11-26T02:34:06.173Z",
+  "events": [
+   {
+    "title": "Biblické tance",
+    "date": "2026-01-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "12. ledna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-02-16",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "16. února v 17 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-03-16",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "16. března v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-04-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "20. dubna v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-05-18",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "18. května v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-06-15",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "15. června v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-09-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "14. září v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-10-12",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "12. října v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-11-23",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "23. listopadu v 18 h"
+   },
+   {
+    "title": "Biblické tance",
+    "date": "2026-12-14",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "společenská místnost CPR, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Biblické tance pořádané Centrem pro rodinu ve Valašském Meziříčí. Přihlášky jsou povinné na každý termín.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "biblické tance",
+     "tance",
+     "2026"
+    ],
+    "image": null,
+    "quote": "14. prosince v 18 h"
    }
   ]
  },
@@ -5895,6 +6458,31 @@
     ],
     "image": null,
     "quote": "3. prosince – trénink paměti vždy od 9.30-11 h"
+   }
+  ]
+ },
+ "ex-71816b8d26": {
+  "at": "2026-11-26T02:30:08.900Z",
+  "events": [
+   {
+    "title": "Navštívení",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "16:30",
+    "endTime": null,
+    "location": "Pastorační centrum, Rožnov pod Radhoštěm",
+    "organizer": "Nahedivadlo",
+    "summary": "Vánoční hra inspirovaná povídkou Lva Nikolajeviče Tolstého, hrají Jan Chytíl, Kristián Chytíl, Anna Jurajdová a Vít Kratochvíl.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "vánoční hra",
+     "tolstoj",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "12. 12. 2026"
    }
   ]
  },
@@ -6745,6 +7333,31 @@
    }
   ]
  },
+ "ex-821ef27abd": {
+  "at": "2026-11-26T02:31:57.103Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova pro ženy",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "16:00",
+    "location": "fara Zašová",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Centrum pro rodinu Valašské Meziříčí zve ženy na adventní duchovní obnovu s lektorkou Věrou Kulišťákovou, která proběhne 5. prosince v farní obci Zašová.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "ženy",
+     "obnova"
+    ],
+    "image": null,
+    "quote": "5. prosince 2026"
+   }
+  ]
+ },
  "ex-822431ac8f": {
   "at": "2026-11-20T13:26:39.116Z",
   "events": []
@@ -6871,6 +7484,50 @@
     ],
     "image": null,
     "quote": "Spolčo bude probíhat každý 1. a 3. pátek v měsíci."
+   }
+  ]
+ },
+ "ex-8796fdf06d": {
+  "at": "2026-11-26T02:30:53.149Z",
+  "events": [
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Rožnov",
+    "organizer": null,
+    "summary": "Večer chval v Rožnově, zahájený mší svatou v 18:00 hodin.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "večer chval",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval. Začínat se bude již mší svatou v 18:00 hodin."
+   },
+   {
+    "title": "Biblická přednáška P. Bedřicha Horáka",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": "kostel v Rožnově",
+    "organizer": null,
+    "summary": "Po mši svaté v Rožnově proběhne biblická přednáška P. Bedřicha Horáka.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "přednáška",
+     "biblická",
+     "rožnov"
+    ],
+    "image": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
    }
   ]
  },
@@ -9189,6 +9846,95 @@
    }
   ]
  },
+ "ex-b33ff292e7": {
+  "at": "2026-11-26T02:33:54.492Z",
+  "events": [
+   {
+    "title": "Trénink paměti",
+    "date": "2026-09-17",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Paměťový trénink pro seniory, vedený lektorkou Monikou Santovjákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "paměť",
+     "senioři",
+     "trénink"
+    ],
+    "image": null,
+    "quote": "17. září"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-10-08",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Paměťový trénink pro seniory, vedený lektorkou Monikou Santovjákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "paměť",
+     "senioři",
+     "trénink"
+    ],
+    "image": null,
+    "quote": "8. října"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-11-05",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Paměťový trénink pro seniory, vedený lektorkou Monikou Santovjákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "paměť",
+     "senioři",
+     "trénink"
+    ],
+    "image": null,
+    "quote": "5. listopadu"
+   },
+   {
+    "title": "Trénink paměti",
+    "date": "2026-12-03",
+    "endDate": null,
+    "time": "09:30",
+    "endTime": "11:00",
+    "location": "fara Valašské Meziříčí, Královského 60/8",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Paměťový trénink pro seniory, vedený lektorkou Monikou Santovjákovou. Přijďte rozvíjet koncentraci a paměť v přátelské atmosféře.",
+    "categories": [
+     "vzdelavani",
+     "seniori"
+    ],
+    "tags": [
+     "paměť",
+     "senioři",
+     "trénink"
+    ],
+    "image": null,
+    "quote": "3. prosince"
+   }
+  ]
+ },
  "ex-b630ae9556": {
   "at": "2026-11-17T10:36:11.512Z",
   "events": [
@@ -10083,6 +10829,263 @@
    }
   ]
  },
+ "ex-d3acd2e192": {
+  "at": "2026-11-26T02:31:22.277Z",
+  "events": [
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "2.2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "9. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "16. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-02-23",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "23. 2."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-04-03",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum, Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v pastoračním centru v Rožnově pod Radhoštěm.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "roznov"
+    ],
+    "image": null,
+    "quote": "3. 4."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-04-17",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "pastorační centrum, Rožnov pod Radhoštěm",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v pastoračním centru v Rožnově pod Radhoštěm.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "roznov"
+    ],
+    "image": null,
+    "quote": "17. 4."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-05-15",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí po dvou lekcích.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "15.5."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-06-05",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "18:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí po dvou lekcích.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "5. 6."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-02",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "2.9."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-09",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "9. 9."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-16",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "16. 9."
+   },
+   {
+    "title": "Příprava snoubenců",
+    "date": "2027-09-23",
+    "endDate": null,
+    "time": "18:30",
+    "endTime": "20:30",
+    "location": "fara, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu Valašské Meziříčí",
+    "summary": "Kurz přípravy snoubenců pro budoucí manžele, koná se v farní obci Valašské Meziříčí.",
+    "categories": [
+     "vzdelavani",
+     "rodina"
+    ],
+    "tags": [
+     "snoubenci",
+     "kurz",
+     "valmez"
+    ],
+    "image": null,
+    "quote": "23. 9."
+   }
+  ]
+ },
  "ex-d461215861": {
   "at": "2026-11-18T02:42:19.410Z",
   "events": []
@@ -10445,6 +11448,10 @@
  },
  "ex-db2b360931": {
   "at": "2026-11-25T02:30:30.393Z",
+  "events": []
+ },
+ "ex-dba0ec070c": {
+  "at": "2026-11-26T02:31:04.282Z",
   "events": []
  },
  "ex-dd3bb9a5bc": {
@@ -11224,6 +12231,10 @@
  },
  "ex-f1a292176a": {
   "at": "2026-11-20T13:25:22.718Z",
+  "events": []
+ },
+ "ex-f543ce12b4": {
+  "at": "2026-11-26T02:32:09.012Z",
   "events": []
  },
  "ex-f577edcd5a": {
@@ -12140,6 +13151,10 @@
   "at": "2026-11-19T09:58:38.478Z",
   "text": "Benefiční\nARCIDIECÉZNÍ\nVEČER\nštědrosti\n8. LEDNA 2027 | 19:30\nKONGROSOVÉ CENTRUM ZLÍN\nJiří Pavlica\nIgor Bareš\nPavel Helan\nJosef Polášek, Mons. Antonín Basler a další hosté\nMODERUJÍ Petra Sedláčková a Pavel Helan\nPrestige Symphony Orchestra • Dechová hudba Hanačka\nTichá aukce • Videomapping • Půlnocní překvapení\nVečere a vino v ceně vstupenky\nVÝTĚŽEK PODPOŘÍ AKTIVITY JUBILEJNÍHO ROKU 2027\nARCIBISKUPSTVÍ\nOLOMOUCKÉ\nARCI\n250 1777\n2027\nVSTUPENKY:\nBenefiční\nARCIDIECÉZNÍ\nVEČER\nštědrosti\n8. LEDNA 2027 | 19:\nKONGROSOVÉ CENTRUM\nJiří Pavlica\nIgor\nJosef Polášek, Mons. An\nMODERUJÍ Petra Sedláčkov\nBareš\nPavel Helan\ntonín Basler a další hosté\nvá a Pavel Helan\nPrestige Symphony Orchestra\nTichá aukce • Videomapping\nVečere a vino v ceně vstupenk\nVÝTĚŽEK PODPOŘÍ AKTIVITY JUB\nARCIBISKUPSTVÍ\nOLOMOUCKÉ\nARCI\n250 1777\n2027\nVSTUPENKY:\n• Dechová hudba Hanačka\n• Půlnocní překvapení\nky\nBILEJNÍHO ROKU 2027\nVSTUPENKY:\nARCI\n250 1777\n2027"
  },
+ "ocr-6ebcd7e22c": {
+  "at": "2026-11-26T02:30:06.192Z",
+  "text": "NAVŠTÍVENÍ\n12. 12. 2026\n16.30\nvánoční hra inspirovaná povídkou Lva Nikolajeviče Tolstého\nKde je láska, tam je i Bůh / hrají: Jan Chytíl, Kristián Chytíl,\nAnna Jurajdová a Vít Kratochvíl"
+ },
  "ocr-72da5fa2c1": {
   "at": "2026-11-17T12:58:38.869Z",
   "text": "JMENOVÁNÍ FARÁŘEM\nTRUSINOVÁ\nJANA\nBÁRTEK\nDAVID\nZÁSTUPCI SPOLKŮ\nŠIMČÍKOVÁ\nANNA\nDS Rybíčky\nMIKUŠEK\nHYNEK\nZŠ Salvador\nKOLAJOVÁ\nKATERÍNA\nCharita\nČLENOVÉ EX OFFO\nBERKA\nJAN\nfarář\nZAWOJSKI\nMAREK\nkaplan\nDRÍMAL\nJIŘÍ\njáhen\nVRÁNA\nPETR\njáhen"
@@ -12167,6 +13182,10 @@
  "ocr-8542ead650": {
   "at": "2026-11-17T10:41:20.701Z",
   "text": "Víc než pomoc, víc než hlídání\nJSTE PĚČUJÍCÍ ?\nA potřebujete vydechnout?\nPravidelný čas a odpočinek\nProveřený parťák pro Vaše dítě\nBezpečí a podpora Centra AČKO\nBud'te\nmostem\nk odpočinku.\nHOMESHARING\nCHCETE BÝT HOSTITELEM?\nA máte volný čas a chuť ho sdílet ?\nSmysluplné využití volného času\nNepotřebujete speciální vzdělání,\nstačí spolehlivost.\nNová přátelství a perspektiva\nCentrum AČKO, p.o.\nValašské Meziříčí\nZlínský kraj\nPřijd'te se\ndozvědět více"
+ },
+ "ocr-8a4e511c96": {
+  "at": "2026-11-26T02:30:07.218Z",
+  "text": "ZuS\nNahedivadlo\nNAVŠTÍVENÍ\n12. 12. 2026\n16.30\nvánoční hra inspirovaná povídkou Lva Nikolajeviče Tolstého\nKde je láska, tam je i Bůh / hrají: Jan Chytíl, Kristián Chytíl,\nAnna Jurajdová a Vít Kratochvíl\nomezená kapacita hlediště\nnutná rezervace vstupenek na\nwww.nahedivadlo.cz\nvstupné 200 Kč\nPastorační centrum\nŘímskokatolické farnosti\nRožnov pod Radhoštěm"
  },
  "ocr-8a77c5deb2": {
   "at": "2026-11-20T13:23:02.253Z",
