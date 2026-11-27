@@ -1,7 +1,17 @@
 {
+ "cl-002b7ff24a": {
+  "keep": false,
+  "categories": []
+ },
  "cl-017bb63157": {
   "keep": false,
   "categories": []
+ },
+ "cl-01f4b1c7f1": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
  },
  "cl-01f51f3fa7": {
   "keep": true,
@@ -19,11 +29,25 @@
   "keep": false,
   "categories": []
  },
+ "cl-04fce62768": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-0a5ccae87d": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-0a9d1a1cb0": {
   "keep": false,
   "categories": []
  },
  "cl-0d36701a3b": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-0d38d99750": {
   "keep": false,
   "categories": []
  },
@@ -65,6 +89,18 @@
    "kultura"
   ]
  },
+ "cl-12efbd66ef": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-13af533968": {
+  "keep": true,
+  "categories": [
+   "rodina"
+  ]
+ },
  "cl-13b492c7e0": {
   "keep": true,
   "categories": [
@@ -92,6 +128,12 @@
   "keep": false,
   "categories": []
  },
+ "cl-1741a7c77e": {
+  "keep": true,
+  "categories": [
+   "rodina"
+  ]
+ },
  "cl-176be92144": {
   "keep": false,
   "categories": []
@@ -114,6 +156,18 @@
    "duchovni"
   ]
  },
+ "cl-19f472472c": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-19fd05d141": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-1b19acfa9a": {
   "keep": false,
   "categories": []
@@ -122,11 +176,29 @@
   "keep": false,
   "categories": []
  },
+ "cl-1c7f4f0f16": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-1cb0af8037": {
+  "keep": false,
+  "categories": []
+ },
  "cl-1cea36833a": {
   "keep": true,
   "categories": [
    "kultura"
   ]
+ },
+ "cl-1ddb50696a": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-1e7c8238c0": {
+  "keep": false,
+  "categories": []
  },
  "cl-1ee9f32bd2": {
   "keep": true,
@@ -164,6 +236,10 @@
    "duchovni"
   ]
  },
+ "cl-23d9d9f657": {
+  "keep": false,
+  "categories": []
+ },
  "cl-2407203c04": {
   "keep": true,
   "categories": [
@@ -191,6 +267,10 @@
    "deti"
   ]
  },
+ "cl-2a184e9db9": {
+  "keep": false,
+  "categories": []
+ },
  "cl-2b437d3df1": {
   "keep": true,
   "categories": [
@@ -204,11 +284,19 @@
    "vzdelavani"
   ]
  },
+ "cl-2d19aec16e": {
+  "keep": false,
+  "categories": []
+ },
  "cl-2e2189b7a2": {
   "keep": false,
   "categories": []
  },
  "cl-2ea96bfe51": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-2effb12e08": {
   "keep": false,
   "categories": []
  },
@@ -221,6 +309,10 @@
   "categories": []
  },
  "cl-30f871614f": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-313d8075b0": {
   "keep": false,
   "categories": []
  },
@@ -271,6 +363,19 @@
   "keep": false,
   "categories": []
  },
+ "cl-38f06ad412": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "duchovni"
+  ]
+ },
+ "cl-390149b928": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-3902f2285c": {
   "keep": true,
   "categories": [
@@ -281,9 +386,35 @@
   "keep": false,
   "categories": []
  },
+ "cl-3a87ddcd6d": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
+ "cl-3a8d80b126": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-3ea8bfc2fb": {
+  "keep": false,
+  "categories": []
+ },
  "cl-3f48d2d436": {
   "keep": false,
   "categories": []
+ },
+ "cl-4011e59a87": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-4013853164": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
  },
  "cl-43485ce321": {
   "keep": false,
@@ -294,6 +425,10 @@
   "categories": [
    "pout"
   ]
+ },
+ "cl-43c3a16a8d": {
+  "keep": false,
+  "categories": []
  },
  "cl-43cc6c066d": {
   "keep": true,
@@ -327,6 +462,12 @@
    "zpoved"
   ]
  },
+ "cl-46b8e6994f": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-47e79dbade": {
   "keep": true,
   "categories": [
@@ -336,6 +477,13 @@
  "cl-481a382738": {
   "keep": false,
   "categories": []
+ },
+ "cl-4836b9ef7d": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "seniori"
+  ]
  },
  "cl-487e27f0bc": {
   "keep": true,
@@ -356,6 +504,10 @@
   ]
  },
  "cl-4a74e133a4": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-4c35094317": {
   "keep": false,
   "categories": []
  },
@@ -381,6 +533,13 @@
    "kultura"
   ]
  },
+ "cl-521db1b741": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "duchovni"
+  ]
+ },
  "cl-52643421e7": {
   "keep": true,
   "categories": [
@@ -388,6 +547,12 @@
   ]
  },
  "cl-52746e98d6": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-52a1a8b8fb": {
   "keep": true,
   "categories": [
    "kultura"
@@ -409,6 +574,12 @@
    "duchovni"
   ]
  },
+ "cl-56dc122547": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-571dc7f2c8": {
   "keep": true,
   "categories": [
@@ -423,6 +594,12 @@
   "keep": true,
   "categories": [
    "charita"
+  ]
+ },
+ "cl-5b9c818a7c": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-5bb69b10d0": {
@@ -453,6 +630,16 @@
   "keep": false,
   "categories": []
  },
+ "cl-6128e25021": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-6260fa4fa2": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-6367350761": {
   "keep": false,
   "categories": []
@@ -461,6 +648,12 @@
   "keep": true,
   "categories": [
    "charita"
+  ]
+ },
+ "cl-662ff36c39": {
+  "keep": true,
+  "categories": [
+   "duchovni"
   ]
  },
  "cl-6727658216": {
@@ -521,6 +714,26 @@
   "keep": false,
   "categories": []
  },
+ "cl-6fa039639b": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-70ec6b428d": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-71c58a1e19": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
+ "cl-7343c6e5fb": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
  "cl-736e2d9b7f": {
   "keep": true,
   "categories": [
@@ -528,10 +741,23 @@
    "deti"
   ]
  },
+ "cl-73c13ce7d9": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "deti"
+  ]
+ },
  "cl-73cb7fa238": {
   "keep": true,
   "categories": [
    "kultura"
+  ]
+ },
+ "cl-74faa7940c": {
+  "keep": true,
+  "categories": [
+   "duchovni"
   ]
  },
  "cl-75bea4b280": {
@@ -544,6 +770,10 @@
   "keep": false,
   "categories": []
  },
+ "cl-77c8eb3c78": {
+  "keep": false,
+  "categories": []
+ },
  "cl-791707da50": {
   "keep": false,
   "categories": []
@@ -552,11 +782,19 @@
   "keep": false,
   "categories": []
  },
+ "cl-7b80c88245": {
+  "keep": false,
+  "categories": []
+ },
  "cl-7be59c3c95": {
   "keep": true,
   "categories": [
    "vzdelavani"
   ]
+ },
+ "cl-7cb656d9a0": {
+  "keep": false,
+  "categories": []
  },
  "cl-7cfb3c1eaf": {
   "keep": true,
@@ -598,6 +836,12 @@
   "keep": false,
   "categories": []
  },
+ "cl-869ea6f92f": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
  "cl-86dcc4a993": {
   "keep": true,
   "categories": [
@@ -605,11 +849,34 @@
    "duchovni"
   ]
  },
+ "cl-87d9d82832": {
+  "keep": true,
+  "categories": [
+   "kultura",
+   "rodina"
+  ]
+ },
  "cl-87ede8261c": {
   "keep": false,
   "categories": []
  },
+ "cl-88b51fa330": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
  "cl-88c210f911": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-88cf5cfa05": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-89d769751a": {
   "keep": true,
   "categories": [
    "kultura"
@@ -631,6 +898,12 @@
   "keep": false,
   "categories": []
  },
+ "cl-8d91efc884": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-8dff893f17": {
   "keep": true,
   "categories": [
@@ -640,6 +913,12 @@
  "cl-8e2e0bb201": {
   "keep": false,
   "categories": []
+ },
+ "cl-8e3d3c67df": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
  },
  "cl-8eb459beeb": {
   "keep": true,
@@ -667,10 +946,28 @@
    "kultura"
   ]
  },
+ "cl-94e75bb339": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
+ "cl-94ef202d92": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-951b203d7f": {
   "keep": true,
   "categories": [
    "charita"
+  ]
+ },
+ "cl-9569224f0f": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-95c51017bd": {
@@ -678,6 +975,10 @@
   "categories": [
    "charita"
   ]
+ },
+ "cl-97fcffe488": {
+  "keep": false,
+  "categories": []
  },
  "cl-98576e5c8e": {
   "keep": false,
@@ -724,6 +1025,18 @@
   "keep": false,
   "categories": []
  },
+ "cl-9cabaf41e0": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
+ "cl-9da96c526c": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-9e61c935fc": {
   "keep": false,
   "categories": []
@@ -750,6 +1063,12 @@
    "kultura"
   ]
  },
+ "cl-9f788a34f4": {
+  "keep": true,
+  "categories": [
+   "charita"
+  ]
+ },
  "cl-a05bb23509": {
   "keep": true,
   "categories": [
@@ -759,6 +1078,19 @@
  "cl-a0f5710959": {
   "keep": false,
   "categories": []
+ },
+ "cl-a16fe04e83": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-a29ae40b0a": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "duchovni"
+  ]
  },
  "cl-a29f17d58e": {
   "keep": true,
@@ -805,6 +1137,13 @@
    "duchovni"
   ]
  },
+ "cl-a859e9f975": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "vzdelavani"
+  ]
+ },
  "cl-a8898a0e3c": {
   "keep": false,
   "categories": []
@@ -834,6 +1173,16 @@
    "deti"
   ]
  },
+ "cl-aca7a8e844": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
+ "cl-ace6ef1bd5": {
+  "keep": false,
+  "categories": []
+ },
  "cl-ae2c8c2618": {
   "keep": false,
   "categories": []
@@ -857,6 +1206,12 @@
  "cl-aff375797c": {
   "keep": false,
   "categories": []
+ },
+ "cl-b1e0e50143": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
  },
  "cl-b3799aca14": {
   "keep": false,
@@ -891,6 +1246,12 @@
    "duchovni"
   ]
  },
+ "cl-b5c220ce31": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-b709bc6ca0": {
   "keep": true,
   "categories": [
@@ -902,6 +1263,10 @@
   "categories": [
    "duchovni"
   ]
+ },
+ "cl-b8a7b06bb0": {
+  "keep": false,
+  "categories": []
  },
  "cl-ba26442cb9": {
   "keep": true,
@@ -934,6 +1299,13 @@
    "rodina"
   ]
  },
+ "cl-bba025e242": {
+  "keep": true,
+  "categories": [
+   "deti",
+   "vzdelavani"
+  ]
+ },
  "cl-bbb8d78670": {
   "keep": false,
   "categories": []
@@ -958,11 +1330,41 @@
   "keep": false,
   "categories": []
  },
+ "cl-bdb0419aac": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-be1e26e13a": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
+ "cl-be45a3d717": {
+  "keep": true,
+  "categories": [
+   "zpoved"
+  ]
+ },
+ "cl-beaa150f94": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-bf35db65e0": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-c030f78a59": {
   "keep": true,
   "categories": [
    "vzdelavani"
   ]
+ },
+ "cl-c053d38e16": {
+  "keep": false,
+  "categories": []
  },
  "cl-c06400c043": {
   "keep": false,
@@ -1002,6 +1404,23 @@
   "keep": false,
   "categories": []
  },
+ "cl-c578220dc4": {
+  "keep": true,
+  "categories": [
+   "seniori",
+   "vzdelavani"
+  ]
+ },
+ "cl-c69bc65c4e": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-c69d922e17": {
+  "keep": false,
+  "categories": []
+ },
  "cl-c72d76d929": {
   "keep": true,
   "categories": [
@@ -1014,9 +1433,39 @@
    "kultura"
   ]
  },
+ "cl-c8754912cd": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-c8951b093c": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
+ "cl-c94298c800": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-c99038b115": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
+ },
  "cl-caf53f7f8f": {
   "keep": false,
   "categories": []
+ },
+ "cl-cc227d34d6": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-ccae8ca56f": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
  },
  "cl-cd19071741": {
   "keep": true,
@@ -1028,6 +1477,12 @@
  "cl-cd2be1070f": {
   "keep": false,
   "categories": []
+ },
+ "cl-cd60c280b1": {
+  "keep": true,
+  "categories": [
+   "duchovni"
+  ]
  },
  "cl-ce1ed8c099": {
   "keep": true,
@@ -1094,6 +1549,12 @@
    "duchovni"
   ]
  },
+ "cl-d84222ad0e": {
+  "keep": true,
+  "categories": [
+   "kultura"
+  ]
+ },
  "cl-d8f15c9eb3": {
   "keep": true,
   "categories": [
@@ -1104,6 +1565,12 @@
   "keep": true,
   "categories": [
    "zpoved"
+  ]
+ },
+ "cl-d9f058b277": {
+  "keep": true,
+  "categories": [
+   "kultura"
   ]
  },
  "cl-dcdf015b23": {
@@ -1127,6 +1594,10 @@
   "categories": [
    "kultura"
   ]
+ },
+ "cl-dfe0435471": {
+  "keep": false,
+  "categories": []
  },
  "cl-e11267b4d0": {
   "keep": true,
@@ -1160,6 +1631,30 @@
   "categories": [
    "pout"
   ]
+ },
+ "cl-ea6187db41": {
+  "keep": true,
+  "categories": [
+   "vzdelavani"
+  ]
+ },
+ "cl-ebc89ab902": {
+  "keep": true,
+  "categories": [
+   "duchovni",
+   "deti"
+  ]
+ },
+ "cl-ebe5658b26": {
+  "keep": true,
+  "categories": [
+   "vzdelavani",
+   "duchovni"
+  ]
+ },
+ "cl-ec3d6f40aa": {
+  "keep": false,
+  "categories": []
  },
  "cl-ede9177981": {
   "keep": true,
@@ -1202,11 +1697,21 @@
    "duchovni"
   ]
  },
+ "cl-f102e82227": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
+ },
  "cl-f1288d0b27": {
   "keep": true,
   "categories": [
    "charita"
   ]
+ },
+ "cl-f257793e7c": {
+  "keep": false,
+  "categories": []
  },
  "cl-f2b04fed7d": {
   "keep": false,
@@ -1218,6 +1723,10 @@
    "pout",
    "seniori"
   ]
+ },
+ "cl-f3c1ae0bd3": {
+  "keep": false,
+  "categories": []
  },
  "cl-f44a959547": {
   "keep": false,
@@ -1236,6 +1745,10 @@
   "categories": [
    "zpoved"
   ]
+ },
+ "cl-f5b3828d17": {
+  "keep": false,
+  "categories": []
  },
  "cl-f5ca2109ce": {
   "keep": false,
@@ -1256,6 +1769,16 @@
  "cl-f78047e3e7": {
   "keep": false,
   "categories": []
+ },
+ "cl-f85b1477c0": {
+  "keep": false,
+  "categories": []
+ },
+ "cl-f8facb89de": {
+  "keep": true,
+  "categories": [
+   "pout"
+  ]
  },
  "cl-f9b6b5947e": {
   "keep": true,
@@ -1278,10 +1801,27 @@
   "keep": false,
   "categories": []
  },
+ "cl-fc67f75eac": {
+  "keep": false,
+  "categories": []
+ },
  "cl-fca1a906d6": {
   "keep": true,
   "categories": [
    "zpoved"
+  ]
+ },
+ "cl-fdaec20092": {
+  "keep": true,
+  "categories": [
+   "pout",
+   "seniori"
+  ]
+ },
+ "cl-fff5b71593": {
+  "keep": true,
+  "categories": [
+   "duchovni"
   ]
  },
  "dup-0c42a5b38e": false,
@@ -2427,6 +2967,141 @@
     "quote": "5. prosince 2026"
    }
   ]
+ },
+ "ex-186940f9a2": {
+  "at": "2026-11-27T02:34:47.160Z",
+  "events": [
+   {
+    "title": "Koncert Moravské veselky – Skalička Sokolovna",
+    "date": "2026-12-20",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Skalička Sokolovna, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "V neděli 20. 12. 2026 od 17:00 se ve Skaličce Sokolovně uskuteční koncert Moravské veselky.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "skalička"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "NEDĚLE 20.12. 17:00 SKALIČKA SOKOLOVNA KONCERT MORAVSKÉ VESELKY"
+   },
+   {
+    "title": "Živý betlém na náměstí v Kelči",
+    "date": "2026-12-24",
+    "endDate": null,
+    "time": "12:00",
+    "endTime": null,
+    "location": "náměstí, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "Ve čtvrtek 24. 12. 2026 v poledne se na kelčském náměstí představí živý betlém.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "betlém",
+     "vánoce",
+     "kelč"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "ČTVRTEK 24.12. 12:00 ŽIVÝ BETLÉM - NÁMĚSTÍ KELČ"
+   },
+   {
+    "title": "Štěpánský koncert – Scholy a Scholický",
+    "date": "2026-12-26",
+    "endDate": null,
+    "time": "15:00",
+    "endTime": null,
+    "location": "farní sál, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "V sobotu 26. 12. 2026 v 15:00 se v kelčském farním sále koná Štěpánský koncert s účinkem Scholy a Scholického.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "štěpán",
+     "kelč"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "SOBOTA 26.12. 15:00 KELČ - ŠTĚPÁNSKÝ KONCERT SCHOLY A SCHOLICKÝ"
+   },
+   {
+    "title": "Koncert Regruti Kelč",
+    "date": "2026-12-27",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "kostel sv. Zámrsky, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "V neděli 27. 12. 2026 v 17:00 se v kelčském kostele sv. Zámrsky uskuteční koncert Regruti Kelč.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "regruti",
+     "kelč"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "NEDĚLE 27.12. 17:00 KELČ KOSTEL KONCERT REGRUTI KELČ"
+   },
+   {
+    "title": "Vánoční koncert v Kladerubách",
+    "date": "2026-12-28",
+    "endDate": null,
+    "time": "17:00",
+    "endTime": null,
+    "location": "Kladeruby, farnost Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "V pondělí 28. 12. 2026 v 17:00 se v Kladerubách koná vánoční koncert pořádaný farností Kelč.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoce",
+     "kladeruby"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "PONEDĚLÍ 28.12. 17:00 KLADERUBY - VÁNOČNÍ KONCERT"
+   },
+   {
+    "title": "Putování po Kapličkách",
+    "date": "2026-12-28",
+    "endDate": null,
+    "time": "8:00",
+    "endTime": null,
+    "location": "Kapličky, Kelč",
+    "organizer": "farnost Kelč",
+    "summary": "Po ranní mši v 8:00 v Kelči následuje putování po Kapličkách, otevřené všem věřícím.",
+    "categories": [
+     "pout"
+    ],
+    "tags": [
+     "pout",
+     "kapličky",
+     "kelč"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "PONEDĚLÍ 28.12. 8:00 MŠE SV. KELČ POTÉ PUTOVÁNÍ PO KAPLIČKÁCH"
+   }
+  ]
+ },
+ "ex-18b246dabc": {
+  "at": "2026-11-27T02:30:09.544Z",
+  "events": []
  },
  "ex-18bea295a9": {
   "at": "2026-11-20T13:25:04.830Z",
@@ -3880,6 +4555,14 @@
    }
   ]
  },
+ "ex-331330a776": {
+  "at": "2026-11-27T02:33:56.761Z",
+  "events": []
+ },
+ "ex-3418d31d78": {
+  "at": "2026-11-27T02:32:57.227Z",
+  "events": []
+ },
  "ex-35ab338a48": {
   "at": "2026-11-20T13:27:37.867Z",
   "events": [
@@ -3957,6 +4640,41 @@
     "image": null,
     "repeat": null,
     "quote": "5. prosince 2026"
+   }
+  ]
+ },
+ "ex-39355563a2": {
+  "at": "2026-11-27T02:35:33.290Z",
+  "events": []
+ },
+ "ex-395f5b0b5c": {
+  "at": "2026-11-27T02:35:17.531Z",
+  "events": []
+ },
+ "ex-3b7c657cd1": {
+  "at": "2026-11-27T02:30:08.753Z",
+  "events": [
+   {
+    "title": "Adventní koncert",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "16:30",
+    "endTime": null,
+    "location": "Kostel Všech svatých, Rožnov pod Radhoštěm",
+    "organizer": null,
+    "summary": "Koncert učitelů a hostů z ZUŠ Rožnov pod Radhoštěm, jehož výtěžek bude věnován neziskové organizaci Kamarád Rožnov o.p.s.",
+    "categories": [
+     "kultura",
+     "charita"
+    ],
+    "tags": [
+     "advent",
+     "koncert",
+     "rožnov"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "29. 11. 2026"
    }
   ]
  },
@@ -4056,6 +4774,33 @@
  "ex-3e0e1fd25a": {
   "at": "2026-11-20T02:32:33.660Z",
   "events": []
+ },
+ "ex-3e431cd749": {
+  "at": "2026-11-27T02:34:25.654Z",
+  "events": [
+   {
+    "title": "Svátost smíření",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "13:00",
+    "endTime": "15:00",
+    "location": "farní kostel, Kelč",
+    "organizer": "fara Kelč",
+    "summary": "Předvánoční zpovědní setkání ve farním kostele v Kelči. Účastníci se mohou smířit s Bohem.",
+    "categories": [
+     "duchovni",
+     "zpoved"
+    ],
+    "tags": [
+     "předvánoční",
+     "zpověď",
+     "kelč"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "19.12.2026"
+   }
+  ]
  },
  "ex-4057579819": {
   "at": "2026-11-18T02:32:48.306Z",
@@ -4661,6 +5406,10 @@
     "quote": "2.9., 9. 9., 16. 9., 23. 9."
    }
   ]
+ },
+ "ex-46fd3faf44": {
+  "at": "2026-11-27T02:34:10.630Z",
+  "events": []
  },
  "ex-4c2dfbc2ad": {
   "at": "2026-11-20T02:31:32.225Z",
@@ -6485,6 +7234,36 @@
    }
   ]
  },
+ "ex-6603ba0f75": {
+  "at": "2026-11-27T02:30:06.491Z",
+  "events": [
+   {
+    "title": "Navštívení – vánoční hra",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "16:30",
+    "endTime": null,
+    "location": "Pastorační centrum, Rožnov pod Radhoštěm",
+    "organizer": "Nahedivadlo",
+    "summary": "Vánoční hra 'Navštívení' inspirovaná povídkou Lva Nikolajeviče Tolstého, představení v Pastoračním centru farnosti Rožnov pod Radhoštěm.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "vánoční hra",
+     "tolstoj",
+     "divadlo"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "12. 12. 2026"
+   }
+  ]
+ },
+ "ex-675772153d": {
+  "at": "2026-11-27T02:43:02.968Z",
+  "events": []
+ },
  "ex-6963e045aa": {
   "at": "2026-11-20T13:29:23.115Z",
   "events": []
@@ -6601,6 +7380,10 @@
  },
  "ex-6f71eb1b10": {
   "at": "2026-11-21T02:31:32.995Z",
+  "events": []
+ },
+ "ex-6fe6184d9a": {
+  "at": "2026-11-27T02:32:42.502Z",
   "events": []
  },
  "ex-70102264a7": {
@@ -7717,6 +8500,32 @@
     ],
     "image": null,
     "quote": "Začínáme v pátek 2. 10. 2026 od 19:00"
+   }
+  ]
+ },
+ "ex-81fcd533b9": {
+  "at": "2026-11-27T02:33:19.356Z",
+  "events": [
+   {
+    "title": "Žehnání sochy Salvátor",
+    "date": "2026-09-19",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": "přístavba ZŠ Salvátor, Valašské Meziříčí",
+    "organizer": "farnost Valašské Meziříčí a Lešná",
+    "summary": "V sobotu 19. září proběhlo slavnostní žehnání nově umístěné bronzové sochy Salvátora v přístavbě základní školy Salvátor.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "socha",
+     "žehnání",
+     "salvátor"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "slavnostní žehnání proběhlo v sobotu 19. září"
    }
   ]
  },
@@ -12356,6 +13165,10 @@
    }
   ]
  },
+ "ex-d8323403e8": {
+  "at": "2026-11-27T02:36:16.985Z",
+  "events": []
+ },
  "ex-d8acd7743e": {
   "at": "2026-11-18T02:41:52.925Z",
   "events": []
@@ -12751,6 +13564,32 @@
    }
   ]
  },
+ "ex-e1a72d1f44": {
+  "at": "2026-11-27T02:32:24.766Z",
+  "events": [
+   {
+    "title": "Adventní duchovní obnova",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "13:30",
+    "endTime": "20:00",
+    "location": "farní kostel Nanebevzetí Panny Marie, Valašské Meziříčí",
+    "organizer": "Římskokatolická farnost Valašské Meziříčí",
+    "summary": "Adventní duchovní obnova s o. Michaelem Špilarem, zahrnující promluvy, modlitbu sv. růžence, mši a společnou večeři, s možností hlídání dětí.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "advent",
+     "obnova",
+     "spiritualita"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "sobota 28. listopadu 2026"
+   }
+  ]
+ },
  "ex-e2430236b7": {
   "at": "2026-11-17T10:40:55.140Z",
   "events": [
@@ -13041,6 +13880,94 @@
    }
   ]
  },
+ "ex-eac8cd1bbd": {
+  "at": "2026-11-27T02:35:52.147Z",
+  "events": [
+   {
+    "title": "Koncert Zašovského chrámového sboru",
+    "date": "2026-12-25",
+    "endDate": null,
+    "time": "15:00",
+    "endTime": null,
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Koncert chorálu Zašovského chrámového sboru.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "koncert",
+     "vánoční",
+     "sbor"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Zašová - 15:00 hod. koncert Zašovského chrámového sboru"
+   },
+   {
+    "title": "Vánoční hra dětí",
+    "date": "2026-12-26",
+    "endDate": null,
+    "time": "11:30",
+    "endTime": null,
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Vánoční hra dětí během svátku Sv. Štěpána.",
+    "categories": [
+     "kultura",
+     "deti"
+    ],
+    "tags": [
+     "hra",
+     "vánoční",
+     "děti"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Zašová - 7:30 hod., 10:30 hod. (11.30 vánoční hra dětí)"
+   },
+   {
+    "title": "Předvánoční zpovídání",
+    "date": "2026-12-17",
+    "endDate": null,
+    "time": "15:30",
+    "endTime": "17:00",
+    "location": "fara Veselá",
+    "organizer": "farnost Veselá",
+    "summary": "Předvánoční zpovídání s knězem Petrem Dujkou.",
+    "categories": [
+     "zpoved"
+    ],
+    "tags": [
+     "zpovídání",
+     "předvánoční"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Veselá: čtvrtek 17.12. od 15:30 do 17:00 hod. (P. Petr Dujka)"
+   },
+   {
+    "title": "Předvánoční zpovídání",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "13:00",
+    "endTime": "14:30",
+    "location": "fara Zašová",
+    "organizer": "farnost Zašová",
+    "summary": "Předvánoční zpovídání ve farnosti Zašová.",
+    "categories": [
+     "zpoved"
+    ],
+    "tags": [
+     "zpovídání",
+     "předvánoční"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Zašová: sobota 19.12. od 13:00 do 14:30 hod."
+   }
+  ]
+ },
  "ex-eb2dd0f10e": {
   "at": "2026-11-17T10:37:08.139Z",
   "events": [
@@ -13328,6 +14255,36 @@
     ],
     "image": null,
     "quote": "23.9."
+   }
+  ]
+ },
+ "ex-ed9188aa97": {
+  "at": "2026-11-27T02:33:37.913Z",
+  "events": [
+   {
+    "title": "Klub maminek – setkání",
+    "date": "2026-09-13",
+    "endDate": null,
+    "time": "09:00",
+    "endTime": "11:00",
+    "location": "Centrum pro rodinu, Valašské Meziříčí",
+    "organizer": "Centrum pro rodinu",
+    "summary": "Setkání Klubu maminek pro maminky s dětmi, otevřené kdykoliv. Přijďte se seznámit a strávit dopoledne ve společnosti.",
+    "categories": [
+     "rodina"
+    ],
+    "tags": [
+     "klub maminek",
+     "setkání",
+     "středa"
+    ],
+    "image": null,
+    "repeat": {
+     "weekday": "st",
+     "nth": null,
+     "until": null
+    },
+    "quote": "VE STŘEDU OD 9 DO 11 HODIN"
    }
   ]
  },
@@ -13922,6 +14879,95 @@
     ],
     "image": null,
     "quote": "slavnostní žehnání proběhlo v sobotu 19. září"
+   }
+  ]
+ },
+ "ex-fb456ce07b": {
+  "at": "2026-11-27T02:42:24.787Z",
+  "events": [
+   {
+    "title": "Červená středa",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": null,
+    "summary": "Mezinárodní iniciativa Červená středa připomíná pronásledování křesťanů a proběhne ve středu 25. listopadu.",
+    "categories": [
+     "charita"
+    ],
+    "tags": [
+     "červená středa",
+     "charita",
+     "pronásledovaní"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Devátý ročník mezinárodní iniciativy Červená středa se v České republice uskuteční ve středu 25. listopadu."
+   },
+   {
+    "title": "Týden modliteb za mládež",
+    "date": "2026-11-15",
+    "endDate": "2026-11-22",
+    "time": null,
+    "endTime": null,
+    "location": null,
+    "organizer": null,
+    "summary": "Týden modliteb za mládež se koná od 15. do 22. listopadu jako duchovní obnova pro mladé.",
+    "categories": [
+     "duchovni"
+    ],
+    "tags": [
+     "modlitby",
+     "mládež",
+     "duchovní"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "Začíná týden modliteb za mládež (15.11 – 22. 11.)"
+   },
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Rožnov pod Radhoštěm",
+    "organizer": null,
+    "summary": "Večer chval v Rožnově pod Radhoštěm zahájí mše svatá a poté bude probíhat hudební chvály.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "večer chval",
+     "hudba",
+     "kultura"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval. Začínat se bude již mší svatou v 18:00 hodin."
+   },
+   {
+    "title": "Biblická přednáška P. Bedřicha Horáka",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": "kostel v Rožnov pod Radhoštěm",
+    "organizer": null,
+    "summary": "Po mši svaté v pátek 7. listopadu se v rožnovském kostele koná biblická přednáška P. Bedřicha Horáka.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "biblická přednáška",
+     "bedřich horák",
+     "vzdělávání"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
    }
   ]
  },
