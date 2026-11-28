@@ -3674,33 +3674,6 @@
    "organizers": [
     "cpr"
    ],
-   "id": "valmez-962191bc52",
-   "source": "valmez",
-   "sources": [
-    "valmez"
-   ],
-   "title": "Klub maminek – setkání",
-   "start": "2026-12-02T09:00",
-   "end": "2026-12-02T11:00",
-   "allDay": false,
-   "location": "Centrum pro rodinu, Valašské Meziříčí",
-   "url": "https://farnost-valmez.cz/blog_clanek/klub-maminek-26791",
-   "description": "Setkání Klubu maminek pro maminky s dětmi, otevřené kdykoliv. Přijďte se seznámit a strávit dopoledne ve společnosti.",
-   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/862_1789898281_848x477.jpg",
-   "recurring": false,
-   "categories": [
-    "rodina"
-   ],
-   "tags": [
-    "klub maminek",
-    "setkání",
-    "středa"
-   ]
-  },
-  {
-   "organizers": [
-    "cpr"
-   ],
    "id": "cpr-8e89656086",
    "source": "cpr",
    "sources": [
@@ -3810,6 +3783,33 @@
   },
   {
    "organizers": [
+    "roznov"
+   ],
+   "id": "roznov-47f1ad95f6",
+   "source": "roznov",
+   "sources": [
+    "roznov"
+   ],
+   "title": "Benefiční koncert - Ten vánoční čas",
+   "start": "2026-12-06T16:00",
+   "end": "2026-12-06T18:00",
+   "allDay": false,
+   "location": "Kostel Proměnění Páně - Vigantice",
+   "url": "https://www.farnostroznov.cz/oznameni/beneficni-koncert-ten-vanocni-cas-11082",
+   "description": "Obec Vígantice\nVás zve na\nbenefiční koncert\nTen vánoční čas\nv neděli\n6. 12. 2026 v 16:00\nKostel Proměnění Páně\nVígantice",
+   "image": "https://o1.agendafarnosti.cz/farnostroznov.cz/img/akce/954_1795800814.jpg",
+   "recurring": false,
+   "categories": [
+    "kultura",
+    "charita"
+   ],
+   "tags": [
+    "Vánoce",
+    "koncert"
+   ]
+  },
+  {
+   "organizers": [
     "cpr"
    ],
    "id": "cpr-f58accd22d",
@@ -3834,33 +3834,6 @@
     "keramika",
     "workshop",
     "rodiny"
-   ]
-  },
-  {
-   "organizers": [
-    "cpr"
-   ],
-   "id": "valmez-0e58536fd9",
-   "source": "valmez",
-   "sources": [
-    "valmez"
-   ],
-   "title": "Klub maminek – setkání",
-   "start": "2026-12-09T09:00",
-   "end": "2026-12-09T11:00",
-   "allDay": false,
-   "location": "Centrum pro rodinu, Valašské Meziříčí",
-   "url": "https://farnost-valmez.cz/blog_clanek/klub-maminek-26791",
-   "description": "Setkání Klubu maminek pro maminky s dětmi, otevřené kdykoliv. Přijďte se seznámit a strávit dopoledne ve společnosti.",
-   "image": "https://o1.agendafarnosti.cz/farnost-valmez.cz/img/blog/862_1789898281_848x477.jpg",
-   "recurring": false,
-   "categories": [
-    "rodina"
-   ],
-   "tags": [
-    "klub maminek",
-    "setkání",
-    "středa"
    ]
   },
   {

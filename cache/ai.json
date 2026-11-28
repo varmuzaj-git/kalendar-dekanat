@@ -416,6 +416,13 @@
    "charita"
   ]
  },
+ "cl-41c803edee": {
+  "keep": true,
+  "categories": [
+   "kultura",
+   "charita"
+  ]
+ },
  "cl-43485ce321": {
   "keep": false,
   "categories": []
@@ -9280,6 +9287,53 @@
    }
   ]
  },
+ "ex-946813ccbd": {
+  "at": "2026-11-28T02:30:42.959Z",
+  "events": [
+   {
+    "title": "Večer chval",
+    "date": "2026-11-20",
+    "endDate": null,
+    "time": "18:00",
+    "endTime": null,
+    "location": "Rožnov",
+    "organizer": null,
+    "summary": "Večer chval se uskuteční v Rožnově po mši svaté, zahájení v 18:00.",
+    "categories": [
+     "kultura"
+    ],
+    "tags": [
+     "večer chval",
+     "rožnov",
+     "hudba"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "V pátek 20. listopadu se uskuteční v Rožnově Večer chval."
+   },
+   {
+    "title": "Biblická přednáška",
+    "date": "2026-11-07",
+    "endDate": null,
+    "time": "18:45",
+    "endTime": null,
+    "location": "kostel v Rožnově",
+    "organizer": null,
+    "summary": "Po mši svaté v 18:45 proběhne v rožnovském kostele biblická přednáška P. Bedřicha Horáka.",
+    "categories": [
+     "vzdelavani"
+    ],
+    "tags": [
+     "přednáška",
+     "rožnov",
+     "biblická"
+    ],
+    "image": null,
+    "repeat": null,
+    "quote": "V pátek po mši svaté v 18:45 bude v kostele v Rožnově biblická přednáška P. Bedřicha Horáka."
+   }
+  ]
+ },
  "ex-953a547df7": {
   "at": "2026-11-19T09:58:45.000Z",
   "events": []
@@ -15630,6 +15684,10 @@
  "ocr-d3a1ec0d9b": {
   "at": "2026-11-17T11:21:42.609Z",
   "text": "DĚKÁNÁTNÍ\nSETKÁNÍ RODIN\nZAŠOVÁ"
+ },
+ "ocr-da7f8e8422": {
+  "at": "2026-11-28T02:30:03.632Z",
+  "text": "Obec Vígantice\nVás zve na\nbenefiční koncert\nTen vánoční čas\nv neděli\n6. 12. 2026 v 16:00\nKostel Proměnění Páně\nVígantice"
  },
  "ocr-dd05e461ec": {
   "at": "2026-11-17T12:08:05.975Z",
